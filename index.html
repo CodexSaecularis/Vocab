@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <title>Vocab</title>
+  <link rel="icon" href="/Languages.ico">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app" id="app">
+    <!-- top bar -->
+    <div class="top-bar">
+      <div class="nav-group-center">
+        <button class="btn-icon" id="backFromSearchBtn" style="display: none;" aria-label="Back">←</button>
+        <button class="btn" id="searchToggleBtn">🔍 Search</button>
+        <button class="btn-icon" id="prevBtn" aria-label="Previous">◀</button>
+        <!-- <span class="counter" id="counterDisplay">1 / 1</span> -->
+        <button class="btn-icon" id="nextBtn" aria-label="Next">▶</button>
+        <button class="btn-icon" id="shuffleBtn" aria-label="Shuffle">🎲</button>
+        <button class="btn" id="langToggleBtn">🌐 All</button>
+      </div>
+    </div>
+
+    <!-- search area -->
+    <div class="search-area" id="searchArea">
+      <input type="text" id="searchInput" placeholder="Type word or sentence...">
+      <button class="btn" id="searchClearBtn" style="background:#3b2c3a;">✕</button>
+    </div>
+    <div class="search-results-box" id="searchResultsBox"></div>
+
+    <!-- card viewport -->
+    <div class="card-viewport" id="cardViewport">
+      <!-- blocks will be injected by JS -->
+    </div>
+
+  </div>
+
+  <!-- JavaScript -->
+  <script src="script.js"></script>
+</body>
+</html>
