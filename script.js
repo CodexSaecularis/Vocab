@@ -895,7 +895,8 @@
       ],
     },
     {
-      chinese: `疫情的关系大家都减薪，这是大事，你可需要去跟每一个人解释清楚`,
+      chinese: `疫情的关系大家都减薪，这是大事，你可需要去跟每一个人解释清楚<br>
+      <span class="esp">Todos han sufrido recortes salariales debido a la pandemia; esto es muy importante y hay que explicárselo claramente a todo el mundo.</span>`,
       handwritten: ``,
       traditional: ``,
       strokeOrderImages: [
@@ -1370,6 +1371,44 @@
       russianLinks: [
       { char: 'сидеть', url: 'https://ru.wiktionary.org/wiki/%D1%81%D0%B8%D0%B4%D0%B5%D1%82%D1%8C' },
       { char: 'пить', url: 'https://ru.wiktionary.org/wiki/%D0%BF%D0%B8%D1%82%D1%8C' },
+      ],
+    },
+    {
+      chinese: `好 | 好的 | 好啦 | 好吧 | 好了 | 好啊<br>
+      <span class="esp">bueno, listo, ok, hágale</span><br><br>
+      All these three mean "ok, got it, sure". The first one is neutral/formal, the second is informal as well as the third. They are ways to respond to acknowledge what someone said (=listo), accept a request or suggestion (=hágale, sí), or confirm that you understand or are following along in a conversation, even reluctantly.<br><br>
+      <span class="gold">好</span> (informal) A general and neutral response, like when a waitress comes to you and asks if you'd like ice in your water, and you answer "好 ok".<br><br>
+      span class="gold">好的</span> (formal and polite, can still be used with friends) When responding respectfully. <span class="circle-word">如</span> —你需要每天吃这个药, 一天三次. —好的 (or simply 好).<span class="pinyin"> —nǐ xūyào měitiān chī zhège yào, yī tiān sān cì —hǎode</span><span class="esp"> —Ud. necesita tomarse esta medicina, tres veces al día. —Bueno.</span> <span class="circle-word">亡</span> —我们去看电影吧. —好的.<span class="pinyin"> —wǒmen qù kàn diànyǐng ba. —hǎode.</span><span class="esp"> —Veámonos una película. —Bueno, hágale.</span> <span class="circle-word">素</span> —明天三点见 —好的, 不见不散<span class="pinyin"> —míngtiān sāndiǎn jiàn —hǎode, bùjiànbùsàn</span><span class="esp"> —Mañana nos encontramos/vemos a las 3. —Hágale, nos vemos (allá).</span> <span class="unpack">⟨WHERE</span> 三点 3 o'clock<span class="unpack">⟩</span> <span class="circle-word">着</span> —我把地址发给你了 —好的, 收到(了)<span class="pinyin"> —wǒ bǎ dǐzhǐ fā gěi nǐ (le). —hǎode, shōudào le.</span><span class="esp"> —Le mandé la dirección. —Listo, ya la recibí.</span> <span class="unpack">⟨WHERE</span> 收到 receive<span class="unpack">⟩</span><br><br>
+      <span class="gold">好啦</span> Used to express a little impatience (=sí, ya, ya escuché). <span class="circle-word">传</span> 她说了太多次这个故事, 所以她的儿子说: "好啦，我已经知道了"<span class="pinyin"> tā shuō le tài duōcì zhège gùshì, suǒyǐ tā de érzi shuō: "hǎola, wǒ yǐjīng zhīdào le"</span><span class="esp"> Ella había contado esa historia tantas veces que su hijo le dijo, "Sí-sí, ya me la sé."</span>`,
+      handwritten: `好 |&nbsp;好的 |&nbsp;好啦 |&nbsp;好吧 |&nbsp;好了 |&nbsp;好啊`,
+      traditional: `好 | 好的 | 好啦 | 好吧 | 好了 | 好啊`,
+      strokeOrderImages: [
+      'https://dragonmandarin.com/media/hanzi5-%E5%95%A6.png',
+      'https://dragonmandarin.com/media/hanzi5-%E5%95%8A.png'
+      ],
+      links: [
+      { char: '好的', url: 'https://forvo.com/search/%E5%A5%BD%E7%9A%84/' },
+      { char: '好啦', url: 'https://forvo.com/search/%E5%A5%BD%E5%95%A6/zh/' },
+      { char: '好啦', url: 'https://forvo.com/search/%E5%A5%BD%E5%95%A6/zh/' },
+      ],
+      english: ``,
+      englishImages: [
+      'https://',
+      'https://'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'https://',
+      'https://'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
       ],
     },
   ];
