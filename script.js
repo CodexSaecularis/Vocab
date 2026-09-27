@@ -119,7 +119,7 @@
       <span class="sickle">☭</span> Я перепутал имена. Не Сергей, а Андрей. <span class="esp">Confundí los nombres. Era Sergey, no Andrey.</span><br>
       <span class="sickle">☭</span> прокол<span class="stress">о</span>ться (informal) means "embarrarla, cagarla", but often when you accidentally reveal something secret or make a social misstep, or even making a mistake that reveals incompetence. The noun is прок<span class="stress">о</span>л. <span class="star">☆</span> Это был мой прокол <span class="esp">Esa fue mi embarrada</span> <span class="star">☦</span> Он допустил прокол и всё испортил. <span class="esp">Cometió un error y lo arruinó todo.</span> <span class="star">☆</span> Не делай таких прок<span class="stress">о</span>лов на собес<span class="stress">е</span>довании <span class="esp">No cometas esos errores en la entrevista.</span> <span class="star">☦</span> Я чуть не проколся, но в<span class="stress">о</span>время замолч<span class="stress">а</span>л <span class="esp">Casi me voy de lengua pero me callé a tiempo.</span> <span class="star">☆</span> Все думали, что он эксперт, но он прокололся на первом вопросе. <span class="esp">Todos creían que era un experto, pero se enredó en la primera pregunta.</span> <span class="star">☦</span> На этом проколе его и поймали <span class="esp">Por ese error lo pillaron.</span>`,
       inflection: `<span class="aspect">сов:</span> огов<span class="stress">а</span>риваться
-      <span class="aspect">несов:</span> выраж<span class="stress">а</span>ться
+      <span class="aspect">несов:</span> выраж<span class="stress">а</span>ться <span class="aspect">сов:</span> в<span class="stress">ы</span>разиться
       <span class="aspect">несов:</span> прок<span class="stress">а</span>ливаться`,
       russianLinks: [
       { char: 'оговориться', url: 'https://ru.wiktionary.org/wiki/%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%D1%82%D1%8C%D1%81%D1%8F' },
@@ -358,7 +358,7 @@
       <span class="lit"><span class="zh3">quick</span> close<span class="zh3"> window,</span> or-else<span class="zh3"> rain</span> will<span class="zh3"> come-in</span></span><br>
       <span class="esp">Cierre la ventana, que si no se entra la lluvia.</span><br><br>
       <span class="gold">要不然</span> or more colloquially 不然 means "o si no..." Natives use it when they’re pointing out what could go wrong if you don’t do something. <span class="circle-word">志</span> 快点儿, (要)不然会迟到<span class="pinyin"> kuài diǎn zǒu, (yào)bùrán huì chídào</span><span class="esp"> Córrale/Apúrele, que va a llegar tarde.</span> <span class="unpack">⟨WHERE</span> 迟到 arrive late<span class="unpack">⟩</span> <span class="circle-word">大</span> 你快跑，要不然就来不及了<span class="pinyin"> nǐ kuài pǎo, yàobùrán jiù láibují le</span><span class="esp"> Corra, que si no se le va a ser tarde</span> (=in the sense of not having enough time to do sth) <span class="unpack">⟨WHERE</span> 跑 run<span class="unpack">⟩</span> <span class="circle-word">济</span> 多喝点水, (要)不然容易生病<span class="pinyin"> duō hē diǎn shuǐ, (yào)bùrán róngyì shēngbìng</span><span class="esp"> Tome bastante agua, o puede que se enferme.</span> <span class="unpack">⟨WHERE</span> 容易 easy/likely<span class="unpack">⟩</span> <span class="circle-word">铭</span> 我们早点出发吧, (要)不然路上会很堵<span class="pinyin"> wǒmen zǎodiǎn chūfā ba, yàobùrán lùshang huì hěn dǔ</span><span class="esp"> Salgamos temprano, porque o si no va a haber más tráfico</span> <span class="unpack">⟨WHERE</span> 路上 on the road; 堵 block up (a road)<span class="unpack">⟩</span><br>
-      🧧 儿 is generally northern accent, not used in Taiwan besides with its meaning "child/son". The 儿 drops the last consonant sound of the word that preceeds it. So 点 <span class="pinyin">diǎn</span> in 快点儿 becomes <span class="pinyin">diǎr</span>. Here are very frequent ones: 一点儿 a bit; 没事儿 it's nothing/nevermind; 这儿 here; 那儿 there; 哪儿 whre?/anywhere/wherever; 一会儿 a moment (a Redditor says he's never heard this one said without the 儿); 好玩儿 fun; 羊肉串儿 lamb kebab; 冰块儿 ice cube; 吸管儿 straw. To write "wait a moment", use the 儿 -> 等一会儿.`,
+      🧧 儿 is generally northern accent, not used in Taiwan besides with its meaning "child/son". The 儿 drops the last consonant sound of the word that preceeds it. So 点 <span class="pinyin">diǎn</span> in 快点儿 becomes <span class="pinyin">diǎr</span>. Here are very frequent ones: 一点儿 a bit; 没事儿 it's nothing/nevermind; 这儿 here; 那儿 there; 哪儿 where?/anywhere/wherever; 一会儿 a moment (a Redditor says he's never heard this one said without the 儿); 好玩儿 fun; 羊肉串儿 lamb kebab; 冰块儿 ice cube; 吸管儿 straw. To write "wait a moment", use the 儿 -> 等一会儿.`,
       handwritten: `<span class="handwritten">快关窗户&nbsp;(&nbsp;要&nbsp;)不然雨会进来</span><br>`,
       traditional: `快<span class="trad">關</span>窗<span class="trad">戶</span>, (要)不然雨<span class="trad">會進來</span>`,
       strokeOrderImages: [
@@ -386,16 +386,17 @@
       { char: ' ', url: 'https://' },
       ],
       russian: `а то... <span class="esp">(porque o) si no...</span>
-      <span class="star">☆</span> Веди себя хорошо, а то попадёшь в тюрьму.<span class="esp"> Pórtese bien, o si no, se va a la cárcel.</span> <span class="star">☦</span> Я сказала ему, что з<span class="stress">а</span>мужем, а то ведь не остал бы.<span class="esp"> Le dije que estaba casada, porque es que o si no, no me dejaba (en paz), pues.</span> <span class="unpack">⟨WHERE</span>  ведь adds that "pues" flavor in the sense of "as we both know", like "it's obvious".<span class="unpack">⟩</span> <span class="star">☆</span> Спеши/Потороп<span class="stress">и</span>сь, а то опоздаем.<span class="esp"> Córrale porque o si no, nos coge la tarde.</span><br><br>
+      <span class="star">☆</span> Веди себя хорошо, а то попадёшь в тюрьму.<span class="esp"> Pórtese bien, o si no, se va a la cárcel.</span> <span class="star">☦</span> Я сказала ему, что з<span class="stress">а</span>мужем, а то ведь не отстал бы.<span class="esp"> Le dije que estaba casada, porque es que o si no, no me dejaba (en paz), pues.</span> <span class="unpack">⟨WHERE</span>  ведь adds that "pues" flavor in the sense of "as we both know", like "it's obvious".<span class="unpack">⟩</span> <span class="star">☆</span> Спеши/Потороп<span class="stress">и</span>сь, а то опоздаем.<span class="esp"> Córrale porque o si no, nos coge la tarde.</span><br><br>
       <span class="sickle">☭</span> а то is used colloquially to mean "hell yeah / claro, obvio" <span class="star">☆</span> —Пойдёшь? —А то, конечно пойду<span class="esp"> —Viene? —Obvio que voy!</span>`,
-      inflection: `<span class="aspect">несов:</span> попад<span class="stress">а</span>ть <span class="aspect">сов:</span> поп<span class="stress">а</span>сть`,
+      inflection: `<span class="aspect">несов:</span> попад<span class="stress">а</span>ть <span class="aspect">сов:</span> поп<span class="stress">а</span>сть
+      <span class="aspect">несов:</span> отстав<span class="stress">а</span>ть <span class="aspect">сов:</span> отст<span class="stress">а</span>ть`,
       russianImages: [
       'https://',
       'https://'
       ],
       russianLinks: [
       { char: 'попадать', url: 'https://ru.wiktionary.org/wiki/%D0%BF%D0%BE%D0%BF%D0%B0%D1%81%D1%82%D1%8C' },
-      { char: ' ', url: 'https://' },
+      { char: 'отстать', url: 'https://ru.wiktionary.org/wiki/%D0%BE%D1%82%D1%81%D1%82%D0%B0%D1%82%D1%8C' },
       ],
     },  
     {
@@ -1382,7 +1383,7 @@
       <span class="esp">bueno, listo, ok, hágale</span><br><br>
       All these three mean "ok, got it, sure". The first one is neutral/formal, the second is informal as well as the third. They are ways to respond to acknowledge what someone said (=listo), accept a request or suggestion (=hágale, sí), or confirm that you understand or are following along in a conversation, even reluctantly.<br><br>
       <span class="gold">好</span> (informal) A general and neutral response, like when a waitress comes to you and asks if you'd like ice in your water, and you answer "好 ok".<br><br>
-      <span class="gold">好的</span> (formal and polite, can still be used with friends) When responding respectfully. <span class="circle-word">如</span> —你需要每天吃这个药, 一天三次. —好的 (or simply 好).<span class="pinyin"> —nǐ xūyào měitiān chī zhège yào, yī tiān sān cì —hǎode</span><span class="esp"> —Ud. necesita tomarse esta medicina, tres veces al día. —Bueno.</span> <span class="circle-word">亡</span> —我们去看电影吧. —好的.<span class="pinyin"> —wǒmen qù kàn diànyǐng ba. —hǎode.</span><span class="esp"> —Veámonos una película. —Bueno, hágale.</span> <span class="circle-word">素</span> —明天三点见 —好的, 不见不散<span class="pinyin"> —míngtiān sāndiǎn jiàn —hǎode, bùjiànbùsàn</span><span class="esp"> —Mañana nos encontramos/vemos a las 3. —Hágale, nos vemos (allá).</span> <span class="unpack">⟨WHERE</span> 三点 3 o'clock<span class="unpack">⟩</span> <span class="circle-word">着</span> —我把地址发给你了 —好的, 收到(了)<span class="pinyin"> —wǒ bǎ dǐzhǐ fā gěi nǐ (le). —hǎode, shōudào le.</span><span class="esp"> —Le mandé la dirección. —Listo, ya la recibí.</span> <span class="unpack">⟨WHERE</span> 收到 receive<span class="unpack">⟩</span> <span class="circle-word">境</span> 好的, 我会尽快完成 <span class="pinyin">hǎode, nǐ huì jǐnkuài wánchéng</span> <span class="esp">Listo, hágale. Lo termino lo más pronto posible.</span> <span class="unpack">⟨WHERE</span> 尽快 as soon as possible; 完成 to complete<span class="unpack">⟩</span><br><br>
+      <span class="gold">好的</span> (formal and polite, can still be used with friends) When responding respectfully. <span class="circle-word">如</span> —你需要每天吃这个药, 一天三次. —好的 (or simply 好).<span class="pinyin"> —nǐ xūyào měitiān chī zhège yào, yī tiān sān cì —hǎode</span><span class="esp"> —Ud. necesita tomarse esta medicina, tres veces al día. —Bueno.</span> <span class="circle-word">亡</span> —我们去看电影吧. —好的.<span class="pinyin"> —wǒmen qù kàn diànyǐng ba. —hǎode.</span><span class="esp"> —Veámonos una película/Vayamos a cine. —Bueno, hágale.</span> <span class="circle-word">素</span> —明天三点见 —好的, 不见不散<span class="pinyin"> —míngtiān sāndiǎn jiàn —hǎode, bùjiànbùsàn</span><span class="esp"> —Mañana nos encontramos/vemos a las 3. —Hágale, nos vemos (allá).</span> <span class="unpack">⟨WHERE</span> 三点 3 o'clock<span class="unpack">⟩</span> <span class="circle-word">着</span> —我把地址发给你了 —好的, 收到(了)<span class="pinyin"> —wǒ bǎ dǐzhǐ fā gěi nǐ (le). —hǎode, shōudào le.</span><span class="esp"> —Le mandé la dirección. —Listo, ya la recibí.</span> <span class="unpack">⟨WHERE</span> 收到 receive<span class="unpack">⟩</span> <span class="circle-word">境</span> 好的, 我会尽快完成 <span class="pinyin">hǎode, nǐ huì jǐnkuài wánchéng</span> <span class="esp">Listo, hágale. Lo termino lo más pronto posible.</span> <span class="unpack">⟨WHERE</span> 尽快 as soon as possible; 完成 to complete<span class="unpack">⟩</span><br><br>
       <span class="gold">好啦</span> Used to express a little impatience (=sí, ya, ya escuché). <span class="circle-word">传</span> 她说了太多次这个故事, 所以她的儿子说: "好啦，我已经知道了"<span class="pinyin"> tā shuō le tài duōcì zhège gùshì, suǒyǐ tā de érzi shuō: "hǎola, wǒ yǐjīng zhīdào le"</span><span class="esp"> Ella había contado esa historia tantas veces que su hijo le dijo, "Sí-sí, ya me la sé."</span> <span class="unpack">⟨WHERE</span>故事 story; 儿子 son; 已经 already<span class="unpack">⟩</span><br>Also used to gently persuade someone to stop (=bueno, ya, ya [but softer and warmer]) <span class="circle-word">觉</span> 好啦, 你不要生气了. <span class="pinyin">hǎola, nǐ bùyào shēngqì le</span> <span class="esp">Bueno, ya, no se ponga bravo.</span><br>Used to introduce a sentence, resume a conversation, change the topic... <span class="circle-word">孟</span> 他打断了我们的对话, 说: "好啦, 你们想吃什么? <span class="pinyin">tā dǎduàn le wǒmen de duìhuà, shuō: "hǎola, nǐmen xiǎng chī shénme?</span> <span class="esp">Interrupió la conversación y dijo, "Qué quiere comer?"</span><br><br>
       <span class="gold">好吧</span> is the reluctant "bueno", showing a hint of resignation or concession, like lack of enthusiasm, like "fine, whatever". <span class="circle-word">画</span> —你必须十点前回家 —好吧, 我知道了 <span class="pinyin">—nǐ bìxū shí diǎn qián huí jiā —hǎoba, wǒ zhīdào le</span> <span class="esp">Ud. tiene que volver a la casa antes de las 10. —Sí, bueno, ya sé.</span><br><br>
       <span class="gold">好了</span> means "done!" or "enough, stop it", and in the first meaning, it can be preceded by the main verb. <span class="circle-word">兴</span> 好了 <span class="esp">Listo. Ya (terminé).</span> <span class="circle-word">雷</span> —作业写了没? —写好了 <span class="pinyin">—zuòyè xiě le méi? —xiě hǎole</span> <span class="esp">—Ya hizo la tarea? —Sí, ya.</span> <span class="circle-word">着</span> 饭做好了! <span class="pinyin">fàn zuò hǎole</span> <span class="esp">La comida ya está lista!</span> <span class="circle-word">石</span> 好了好了, 我知道了 <span class="pinyin">hǎole hǎole, wǒ zhīdào le</span> <span class="esp">Ya, ya, ya entendí.</span> <span class="circle-word">桃</span> 病好了 <span class="pinyin">bìng hǎole</span> <span class="esp">Ya me recuperé (de la enfermedad)</span><br>But it can be used similarly to 好啦 in all its senses, but more firmly/sharply.<br><br>
@@ -1773,7 +1774,7 @@
       { char: ' ', url: 'https://' },
       ],
       russian: `всякий <span class="esp">todo tipo de</span> (=close to разный)<span class="esp">; puro/pura; cada</span> (=close to каждый)<br>
-      <span class="star">☆</span> От всяких коктелей, от вина, пива мне плохо очень потом. <span class="esp">Todo tipo de cócteles, el vino y la cerveza me hacen sentir muy mal después.</span> <span class="star">☦</span> На прил<span class="stress">а</span>вке были разл<span class="stress">о</span>жены всякие товары. <span class="esp">Había todo tipo de mercancías dispuestas sobre el mostrador.</span> <span class="star">☆</span> Ходят тут всякие. <span class="esp"> Por aquí deambula gente de todo tipo. </span> <span class="star">☦</span> Пусть всякий/каждый, кто умеет плавать, возьмёт себе п<span class="stress">а</span>лку. <span class="esp">Todo aquel que sepa nadar, que coja un palo.</span> (Here "пусть всякий возьмёт..." doesn't work without a specific attribute "кто умеет плавать", but "пусть каждый возьмёт" works) <span class="star">☆</span> Я совершал всякие пост<span class="stress-y">у</span>пки. (singular is пост<span class="stress-y">у</span>пок) <span class="esp">He cometido todo tipo de actos.</span> <span class="star">☦</span> Всякий труд почётен. <span class="esp">Todo trabajo es honrado/digno.</span>`,
+      <span class="star">☆</span> От всяких кокт<span class="stress">е</span>йлей (м. коктейль), от вина, пива мне плохо очень потом. <span class="esp">Todo tipo de cócteles, el vino y la cerveza me hacen sentir muy mal después.</span> <span class="star">☦</span> На прил<span class="stress">а</span>вке были разл<span class="stress">о</span>жены всякие товары. <span class="esp">Había todo tipo de mercancías dispuestas sobre el mostrador.</span> <span class="star">☆</span> Ходят тут всякие. <span class="esp"> Por aquí deambula gente de todo tipo. </span> <span class="star">☦</span> Пусть всякий/каждый, кто умеет плавать, возьмёт себе п<span class="stress">а</span>лку. <span class="esp">Todo aquel que sepa nadar, que coja un palo.</span> (Here "пусть всякий возьмёт..." doesn't work without a specific attribute "кто умеет плавать", but "пусть каждый возьмёт" works) <span class="star">☆</span> Я совершал всякие пост<span class="stress-y">у</span>пки. (singular is пост<span class="stress-y">у</span>пок) <span class="esp">He cometido todo tipo de actos.</span> <span class="star">☦</span> Всякий труд почётен. <span class="esp">Todo trabajo es honrado/digno.</span>`,
     },
     {
       chinese: ``,
@@ -2211,7 +2212,7 @@
       chinese: `播客<br>
       bōkè<br>
       <span class="esp">podcast</span><br><br>
-      <span class="circle-word">直</span> 昨天晚上洗衣服的时候, 我找到一个讲足球的播客 <span class="pinyin">zuótiān wǎngshang xǐ yīfu de shíhou, wǒ zhǎodào yī gè jiǎng zúqiú de bōkè</span> <span class="esp">Anoche mientras labava la ropa encontré un podcast donde hablan de fútbol.</span> <span class="unpack">⟨WHERE</span> 洗 wash; 的时候 when/while; 讲 speak/talk about; 足球 football<span class="unpack">⟩</span>`,
+      The pronunciation of 播 bō sounds like "buo" with a subtle "u". <span class="circle-word">直</span> 昨天晚上洗衣服的时候, 我找到一个讲足球的播客 <span class="pinyin">zuótiān wǎngshang xǐ yīfu deshíhou, wǒ zhǎodào yī gè jiǎng zúqiú de bōkè</span> <span class="esp">Anoche mientras labava la ropa encontré un podcast donde hablan de fútbol.</span> <span class="unpack">⟨WHERE</span> 洗 wash; 的时候 when/while; 讲 speak/talk about; 足球 football<span class="unpack">⟩</span>`,
       handwritten: `播客`,
       traditional: `播客`,
       strokeOrderImages: [
@@ -2398,17 +2399,19 @@
     },
     {
       chinese: `有时候 <span class="or">or</span> 偶尔<br>
+      yǒushíhou ǒuěr<br>
       <span class="esp">a veces</span><br><br>
-      In normal speech, Chinese would use 有时候 or 偶尔, whichever comes to mind first, and there's not really a difference in meaning in practical terms, even though 偶尔 fits "de vez en cuando" to highlight something is done with less frequency than just "sometimes", but it's perfectly interchangeable with 有时候.`,
+      In normal speech, Chinese would use 有时候 or 偶尔, whichever comes to mind first, and there's not really a difference in meaning in practical terms, even though 偶尔 fits "de vez en cuando" to highlight something is done with less frequency than just "sometimes", but it's perfectly interchangeable with 有时候. The shorter form 有时 is also used, only it sounds a bit more formal.<br>
+      <span class="circle-word">末</span> 你经常去看电影吗? —不, 只是偶尔才去.<span class="pinyin">—nǐ jīngcháng qù kàn diànyǐng ma? —bù, zhǐshì ǒuěr cái qù</span> <span class="esp">—Ud. va al cine a menudo/con frecuencia? —No, de vez en cuando / a veces.</span> <span class="unpack">⟨WHERE</span> 经常 often, 电影 movie; 只是 only; 才 means literally "only then" (but in this example, it adds more restriction in the frequency, like even "more rarely")<span class="unpack">⟩</span>`,
       handwritten: `有时候 | 偶尔`,
       traditional: `有時候 | 偶爾`,
       strokeOrderImages: [
       'https://dragonmandarin.com/media/hanzi5-%E5%80%99.png',
-      'https://'
+      'https://dragonmandarin.com/media/hanzi5-%E5%81%B6.png'
       ],
       links: [
-      { char: ' ', url: 'https://' },
-      { char: ' ', url: 'https://' },
+      { char: '有时候', url: 'https://forvo.com/search/%E6%9C%89%E6%97%B6%E5%80%99/' },
+      { char: '偶尔', url: 'https://forvo.com/search/%E5%81%B6%E5%B0%94/' },
       ],
       english: ``,
       englishImages: [
@@ -2613,6 +2616,1080 @@
       { char: ' ', url: 'https://' },
       ],
     },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'https://',
+      'https://'
+      ],
+      links: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      english: `<span class="title">spare a thought for...</span> ☜ <span class="esp">pensar en, acordarse de...</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">You should spare a thought for those who are less fortunate.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'https://',
+      'https://'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'https://',
+      'https://'
+      ],
+      links: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      english: `Sam Altman should <u>go the Kirk route</u>. <span class="esp">Sam Altman debería seguir el camino de [Charlie] Kirk.</span> (=someone should kill him)`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'https://',
+      'https://'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'https://',
+      'https://'
+      ],
+      links: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      english: `<span class="title">drool at...</span> ☜ <span class="esp">babearse con...</span><br>
+      You drool at a thought, an idea, a prospect of winning a prize...<br>
+      <span class="skull">☠︎︎</span> <span class="example">He's not talking to us. He's talking to all the money hungry sociopaths that drool at the idea of being able to monetize literally everything.</span> <span class="skull">☠︎︎</span> <span class="example">Investors drool at the throught of high profits.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'https://',
+      'https://'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'https://',
+      'https://'
+      ],
+      links: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      english: `<span class="title">brainrot</span> ☜ <span class="esp">basura en redes sociales que fritan el cerebro</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">Does he intend to lobotomize everyone with brainrot so people rely on his product for "intelligence"?</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'https://',
+      'https://'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'https://',
+      'https://'
+      ],
+      links: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      english: ``,
+      englishImages: [
+      'https://',
+      'https://'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      russian: `власть <span class="esp">poder, gobierno<span>
+      <span class="star">☆</span> Скорее всего он пок<span class="stress">и</span>нет Израиль после того, что потеряет власть. <span class="esp">Lo más seguro es que abandone Israel cuando pierda el poder.</span>`,
+      inflection: `<span class="aspect">несов:</span> покид<span class="stress">а</span>ть <span class="aspect">сов:</span> пок<span class="stress">и</span>нуть`,
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'https://',
+      'https://'
+      ],
+      links: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      english: ``,
+      englishImages: [
+      'https://',
+      'https://'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      russian: `нам<span class="stress">е</span>рение (нейтрально) <span class="esp">intención</span><br>
+      <span class="stress-y">у</span>мысел (часто негативно) <span class="esp">(mala) intención</span>`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'https://',
+      'https://'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'https://',
+      'https://'
+      ],
+      links: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      english: ``,
+      englishImages: [
+      'https://',
+      'https://'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      russian: `так вот <span class="esp">(bueno,) entonces...</span><br>
+      Used to resume, conclude, introducing a main point...`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'https://',
+      'https://'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'https://',
+      'https://'
+      ],
+      links: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      english: ``,
+      englishImages: [
+      'https://',
+      'https://'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      russian: `отдельно, по отдельности <span class="esp">por separado</span><br>
+      <span class="star">☆</span> Смотрите каждое слово по отдельности, чтоб не путаться. <span class="esp">Mira cada palabra por separado para que no te confundas</span>`,
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'https://',
+      'https://'
+      ],
+      links: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      english: ``,
+      englishImages: [
+      'https://',
+      'https://'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      russian: `перевоз<span class="stress">и</span>ть <span class="esp">trasladar/mover (en transporte)</span><br>
+      <span class="star">☆</span> Он уже свою семью постепенно туда перев<span class="stress">о</span>зит. <span class="esp">Él ya poco a poco va traslandando su familia a allá.</span> <span class="star">☦</span> Перевезти мебель в квартиру. <span class="esp">Llevar un mueble al apartamento.</span>`,
+      inflection: `<span class="aspect">несов:</span> перевоз<span class="stress">и</span>ть <span class="aspect">сов:</span> перевезт<span class="stress">и</span>`,
+      russianLinks: [
+      { char: 'перевозить', url: 'https://ru.wiktionary.org/wiki/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B7%D0%B8%D1%82%D1%8C' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'https://',
+      'https://'
+      ],
+      links: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      english: ``,
+      englishImages: [
+      'https://',
+      'https://'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      russian: `озаб<span class="stress">о</span>ченность (ж.) <span class="esp">preocupación</span>`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'https://',
+      'https://'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'https://',
+      'https://'
+      ],
+      links: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      english: ``,
+      englishImages: [
+      'https://',
+      'https://'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      russian: `недв<span class="stress">и</span>жимость (ж.) <span class="esp">propiedad, bienes raíces, inmueble</span>
+      <span class="star">☆</span> Инвестиции в недвижимость. <span class="esp">Invertir en propiedades.</span>`,
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'https://',
+      'https://'
+      ],
+      links: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      english: ``,
+      englishImages: [
+      'https://',
+      'https://'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      russian: `задаться вопросом <span class="esp">preguntarse</span><br>
+      <span class="star">☆</span> И нужно задаться вопросом, а что стоит за этим всем? <span class="esp">Y uno se pregunta, ¿qué hay detrás de todo esto?</span>`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'https://',
+      'https://'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'https://',
+      'https://'
+      ],
+      links: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      english: ``,
+      englishImages: [
+      'https://',
+      'https://'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      russian: `пребыв<span class="stress">а</span>ть (formal) <span class="esp">estar, encontrarse, residir</span><br>
+      Находиться в каком-либо месте или состоянии.<br>
+      <span class="star">☆</span> Я пребываю в состоянии эйфории. <span class="esp">Estoy/Me encuentro en un estado de euforia.</span> <span class="star">☦</span> Сэенсэй пребывает в медитации. <span class="esp">El senséi se encuentra/halla meditando.</span> <span class="star">☆</span> Долгое время я пребывал в нев<span class="stress">е</span>дении. <span class="esp">Por mucho tiempo me hallaba/estaba sumido en la ignorancia.</span> <span class="star">☦</span> Да пребудет с твобой сила. <span class="esp">Qué la fuerza te acompañe.</span> <span class="star">☆</span> Пребываю в шоке. <span class="esp">Estoy en shock.</span> <span class="star">☦</span> Наш ум может пребывать в другом пространственном измер<span class="stress">е</span>нии. <span class="esp">La mente podría alojarse/hallarse/residir/morar/encontrarse en otra dimensión espacial.</span> <span class="star">☆</span> Вы должны пребывать по адресу проп<span class="stress">и</span>ски. <span class="esp">Ud. debe residir en la dirección registrada.</span> <span class="star">☦</span> Я пребываю в Москве. <span class="esp">Resido en Moscú.</span>`,
+      inflection: `<span class="aspect">несов:</span> пребыв<span class="stress">а</span>ть <span class="aspect">сов:</span> преб<span class="stress">ы</span>ть`,
+      russianLinks: [
+      { char: 'пребывать', url: 'https://ru.wiktionary.org/wiki/%D0%BF%D1%80%D0%B5%D0%B1%D1%8B%D0%B2%D0%B0%D1%82%D1%8C' },
+      { char: ' ', url: 'https://' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'https://',
+      'https://'
+      ],
+      links: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      english: ``,
+      englishImages: [
+      'https://',
+      'https://'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      russian: `м<span class="stress">е</span>тко <span class="esp">acertado, preciso, con acierto (dicho de una frase)<br>
+      Точно в цель. Без промаха.<br>
+      <span class="star">☆</span> Стрелять метко <span class="esp">Disparar preciso/con acierto.</span> <span class="star">☦</span> Метко сказал. Точно в<span class="stress">ы</span>разил смысль. <span class="esp">Lo dijo con todo el acierto. Expresó la idea con precisión.</span> <span class="star">☆</span> Он редго говорит, но метко (=почти никогда говорит, но когда говорит, всегда в точку.) <span class="star">☦</span> Босс редко критикует сотрудников, но когда делает это, то всегда в ситуациях, когда это необходимо.<br><br>
+      <span class="sickle">☭</span> There's the fixed expression "Пью редко, но метко" meaning "I rarely drink, but when I do, I mean business = Tomo muy de vez en cuando, pero cuando tomo, tomo bastante."`,
+      inflection: `<span class="aspect">несов:</span> выраж<span class="stress">а</span>ть <span class="aspect">сов:</span> в<span class="stress">ы</span>разить`,
+      russianLinks: [
+      { char: 'выразить', url: 'https://ru.wiktionary.org/wiki/%D0%B2%D1%8B%D1%80%D0%B0%D0%B7%D0%B8%D1%82%D1%8C' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'https://',
+      'https://'
+      ],
+      links: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      english: ``,
+      englishImages: [
+      'https://',
+      'https://'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      russian: `в основном только <span class="or">или просто</span> в основном (also used in conversation) <span class="esp">sobretodo, en su mayoría</span>
+      <span class="star">☆</span> Я обычно тоже вино пью, в последнее время Киндзмараули в оснавном только. <span class="esp">Normalmente también tomo vino, últimamente Kindzmarauli sobretodo.</span>`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'https://',
+      'https://'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'https://',
+      'https://'
+      ],
+      links: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      english: ``,
+      englishImages: [
+      'https://',
+      'https://'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      russian: `доход<span class="stress">и</span>ть <span class="esp">llegar</span><br>
+      <span class="star">☆</span> То есть доходит до вас? <span class="or">или</span> Это к вам туда доходит? <span class="esp">Pero entonces [nombre de producto] llega hasta donde usted?</span>`,
+      inflection: `<span class="aspect">несов:</span> доход<span class="stress">и</span>ть <span class="aspect">сов:</span> дойти`,
+      russianImages: [
+      'https://',
+      'https://'
+      ],
+      russianLinks: [
+      { char: 'доходить', url: 'https://ru.wiktionary.org/wiki/%D0%B4%D0%BE%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%8C' },
+      { char: ' ', url: 'https://' },
+      ],
+    },
+    {
+      chinese: `是不是<br>
+      <span class="esp">no?</span><br><br>
+      Can be placed after a statement as a tag question "isn't it?", or in the middle of a question for a yes/no question with the verb 是 <span class="circle-word">洁</span> —她是不是你的女朋友? —不是 <span class="pinyin">—tā shì bù shì nǐ de nüpéngyou? —bù shì</span> <span class="esp">—Ella es su novia? —No.</span> <span class="circle-word">寿</span> 她很美丽, 是不是? <span class="pinyin">tā hǎo měilì, shì bù shì?</span> <span class="esp">Ella es linda. No?</span>`,
+      handwritten: `是不是`,
+      traditional: `是不是`,
+      strokeOrderImages: [
+      'https://dragonmandarin.com/media/hanzi5-%E7%BE%8E.png',
+      ],
+      english: ``,
+      englishImages: [
+      'https://',
+      'https://'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'https://',
+      'https://'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+    },
+    {
+      chinese: `觉得 vs. 想<br>
+      <span class="esp">creo que, pienso que, siento que, creería que...</span><br><br>
+      <span class="gold">觉得</span> when you are giving an opinion, how you feel about a topic/situation. <span class="circle-word">秋</span> 我觉得这是一个很重要的话题 <span class="pinyin">wǒ juéde zhè shì yī gè hěn zhòngyào de huàtí</span> <span class="esp">Pienso/Creo que es un tema muy importante.</span> <span class="circle-word">僧</span> 我觉得中文其实没有那么难 <span class="pinyin">wǒ juéde zhōngwén qíshí méi yǒu nàme nán</span> <span class="esp">Pienso/Creo que el chino no es tan difícil, la verdad</span> <span class="unpack">⟨WHERE</span> 其实 actually; 难 difficult/difficulty<span class="unpack">⟩</span> <span class="circle-word">洪</span> 我想今天不会来 <span class="pinyin">wǒ xiǎng jīntiān bù huì lái</span> <span class="esp">No creo que él vaya a venir hoy.</span><br><br>
+      <span class="gold">想</span> is completely interchangeable with 觉得, althought some might tend to use 想 for predictions, while they tend to default to 觉得 for expressing opinions. 想 conveys more the act of thinking (more cerebral thinking). On the other hand, it also expresses a wish or desire. <span class="circle-word">铁</span> 让我想想吧 <span class="pinyin">ràng wǒ xiǎngxiǎng ba</span> <span class="esp">Déjeme yo lo pienso.</span> <span class="circle-word">烂</span> 我想试一试 <span class="pinyin">wǒ xiǎng shìyīshì</span> <span class="esp">Quiero/Quisiera intentarlo.</span>`,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'https://',
+      'https://'
+      ],
+      links: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      english: ``,
+      englishImages: [
+      'https://',
+      'https://'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'https://',
+      'https://'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'https://',
+      'https://'
+      ],
+      links: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      english: ``,
+      englishImages: [
+      'https://',
+      'https://'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      russian: `лиш<span class="stress">и</span>ться <span class="esp">perder, perderse (algo), quedarse sin</span><br>
+      <span class="star">☆</span> Я лишился гарантии. <span class="esp">Me perdí la garantía.</span> (de un producto) <span class="star">☦</span> В итоге может лишиться одной или даже об<span class="stress">е</span>их работ. <span class="esp">Al final puede quedarse sin uno o incluso los dos trabajos.</span><br><br>
+      <span class="sickle">☭</span> According to Викисловарь, there's another acceptable declension for обе in conversation. See link above.`,
+      inflection: `<span class="aspect">несов:</span> лиш<span class="stress">а</span>ться <span class="aspect">сов:</span> лиш<span class="stress">и</span>ться
+      <span class="aspect">м/с:</span> <span class="stress">о</span>ба <span class="aspect">ж:</span> <span class="stress">о</span>бе`,
+      russianImages: [
+      'https://',
+      'https://'
+      ],
+      russianLinks: [
+      { char: 'лишиться', url: 'https://ru.wiktionary.org/wiki/%D0%BB%D0%B8%D1%88%D0%B8%D1%82%D1%8C%D1%81%D1%8F' },
+      { char: 'оба', url: 'https://ru.wiktionary.org/wiki/%D0%BE%D0%B1%D0%B0' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'https://',
+      'https://'
+      ],
+      links: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      english: ``,
+      englishImages: [
+      'https://',
+      'https://'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      russian: `до фиг<span class="stress">а</span> (разг.) <span class="esp">un montón</span><br>
+      When used with a verb, it goes into third person singular. Like in English "A ton of people <u>is</u> coming".<br>
+      <span class="star">☆</span> Там до фига дос<span class="stress">о</span>к вал<span class="stress">я</span>ется. <span class="esp">Allá hay un mero montón de tablas ahí tiradas.</span> <span class="star">☦</span> У него денег до фига. <span class="esp">Está tapado en plata.</span> <span class="star">☆</span> Есть типа до фига разных инструментов/т<span class="stress">е</span>хник для создания эффекта старения. У кого-нибудь есть советы, какие из них лучше всего подходят для каких примен<span class="stress">е</span>ний? <span class="esp">Hay como un sinfín de herramientas/técnicas differentes para crear un effecto de envejecimiento. Alguien tiene algún consejo sobre cuáles son mejores para qué usos/aplicaciones?</span>`,
+      inflection: `<span class="aspect">несов:</span> вал<span class="stress">я</span>ться <span class="aspect">сов:</span> none?`,
+      russianLinks: [
+      { char: 'валяться', url: 'https://ru.wiktionary.org/wiki/%D0%B2%D0%B0%D0%BB%D1%8F%D1%82%D1%8C%D1%81%D1%8F' },
+      { char: ' ', url: 'https://' },
+      ],
+    },
+    {
+      chinese: `那<br>
+      <span class="pinyin">nà</span><br>
+      <span class="esp">entonces...</span><br><br>
+      <span class="circle-word">牢</span> 那我想聊这个话题 <span class="pinyin">nà wǒ xiǎng liáo zhè gè huà tí</span> <span class="esp">Entonces quisiera hablar de este tema.</span>`,
+      handwritten: `那`,
+      traditional: `那`,
+      strokeOrderImages: [
+      'https://',
+      'https://'
+      ],
+      links: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      english: ``,
+      englishImages: [
+      'https://',
+      'https://'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'https://',
+      'https://'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+    },    
+    {
+      chinese: `视频 <span class="pinyin">shìpín</span> <span class="esp">video</span><br><br>
+      <span class="circle-word">洞</span> 是因为昨天我看了一个视频 <span class="pinyin">shì yīnwèi zuótiān wǒ kàn le yī gè shìpín</span> <span class="esp">Es porque ayer vi un video.</span>`,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'https://',
+      'https://'
+      ],
+      links: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      english: ``,
+      englishImages: [
+      'https://',
+      'https://'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'https://',
+      'https://'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+    },
+    {
+      chinese: `然后 <span class="pinyin">ránhòu</span> <span class="esp">y (entonces)</span><br><br>
+      <span class="circle-word">凹</span> 昨天我看了一个视频， 然后在这个视频里，有一个人在聊足球 <span class="pinyin">zuótiān wǒ kàn le yī gè shìpín, ránhòu zài zhè gè shìpín lǐ, yǒu yī gè rén zài liáo zúqiú</span> <span class="esp">Ayer vi un video, y en ese video había un man hablando de fútbol.</span> <span class="circle-word">摩</span> 他们就要告诉我一个数字, 然后我把这个题目抽出来给大家念一下题目是什么 <span class="pinyin">tāmen jiùyào gàosu wǒ yī gè shùzì, ránhòu wǒ bǎ zhè gè tímù chōuchū lái gěi dàjiā niàn yīxià tímù shì shénme</span> <span class="esp">Ellos ya me van a decir un número, y (entonces) yo saco la pregunta para todos, y les leo lo que dice la pregunta.</span> <span class="unpack">⟨WHERE</span> 就要 about to do/going to; 题目 subject/title/topic; 抽出 take out; 念 read aloud; 一下 (after a verb) give it a go<span class="unpack">⟩</span>`,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'https://',
+      'https://'
+      ],
+      links: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      english: ``,
+      englishImages: [
+      'https://',
+      'https://'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'https://',
+      'https://'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'https://',
+      'https://'
+      ],
+      links: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      english: `<span class="title">seedy</span> ☜ <span class="usage">(common for places, but uncommon for people)</span> <span class="esp">de dudosa reputación, moridero, una olla, antro, de mala muerte</span><br>
+      A seedy place is a dangerous place where illegal things may happen.<br>
+      <span class="skull">☠︎︎</span> <span class="example">The side of town across from the train tracks is seedy.</span> <span class="skull">☠︎︎</span> <span class="example">This place was known for being seedy, but now it's safe for children of all ages.</span> <span class="skull">☠︎︎</span> <span class="example">He stayed in a seedy hotel.</span> <span class="esp">Se quedó en un hotelucho.</span> <span class="skull">☠︎︎</span> He got involved in a seedy business.</span> <span class="esp">Se metió en un negocio turbio.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'https://',
+      'https://'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'https://',
+      'https://'
+      ],
+      links: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      english: `I remember my dad had my hands, and he was, like, <u>running me through the street</u>, 'cause it was sketchy <u>in those times</u>. <span class="esp">Recuerdo que mi papá me sostenía de la mano, corriendo la calle, porque era bastante peligroso en esos tiempos.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'https://',
+      'https://'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'https://',
+      'https://'
+      ],
+      links: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      english: `<u>As far as life</u> down here, I mean, it's really come back. <span class="esp">Lo que es la vida acá, ha mejorado muchísimo.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'https://',
+      'https://'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'https://',
+      'https://'
+      ],
+      links: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      english: `<span class="title">take the temperature of</span> ☜ <span class="esp">medir el ambiente, tantear el terreno</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">If we're gonna take the temperature of the amount of tourists here, well, I'm seeing a lot of people. I'm surprised with this heat. The thought people would not be out, you know.</span> <span class="skull">☠︎︎</span> <span class="example">The poll is meant to take the temperature of public opinion.</span> <span class="skull">☠︎︎</span> <span class="example">He took the temperature of the team/room before making changes.</span> <span class="skull">☠︎︎</span> <span class="example">I wanted to take the temperature of the situation first.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'https://',
+      'https://'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'https://',
+      'https://'
+      ],
+      links: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      english: `It's a hot one. <span class="esp">Hoy está haciendo calor.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'https://',
+      'https://'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'https://',
+      'https://'
+      ],
+      links: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      english: `<span class="title">make what you will (of it/that) <span class="or">or</span> make of that what you will</span> ☜ <span class="esp">sacar sus propias conclusiones, ya verá ud. cómo lo interpreta, allá ud. lo que quiera pensar de eso.</span><br>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'https://',
+      'https://'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'https://',
+      'https://'
+      ],
+      links: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      english: ``,
+      englishImages: [
+      'https://',
+      'https://'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      russian: `пол<span class="stress">я</span>к (м.) / п<span class="stress">о</span>лька (ж.) <span class="esp">polaco/a</span>`,
+      russianLinks: [
+      { char: 'поляк', url: 'https://ru.wiktionary.org/wiki/%D0%BF%D0%BE%D0%BB%D1%8F%D0%BA' },
+      { char: 'полька', url: 'https://ru.wiktionary.org/wiki/%D0%BF%D0%BE%D0%BB%D1%8C%D0%BA%D0%B0' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'https://',
+      'https://'
+      ],
+      links: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      english: ``,
+      englishImages: [
+      'https://',
+      'https://'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      russian: `русскояз<span class="stress">ы</span>чный<br>
+      англоязычный<br>
+      испаноязычный<br>
+      китаязычный<br>
+      арабоязычный`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'https://',
+      'https://'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'https://',
+      'https://'
+      ],
+      links: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      english: ``,
+      englishImages: [
+      'https://',
+      'https://'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      russian: `магаз<span class="stress">и</span>нчик (ласковое к магазин; кажется часто используется)<br>
+      <span class="star">☆</span> Просто магазинчиков тут тоже, ну, достаточно хватает. <span class="esp">Es que por acá también hay bastantes tiendas.</span> <span class="star">☦</span> Тут полно всяких магазинчиков. <span class="esp">Por acá hay un montón de tiendas.</span>`,
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'https://',
+      'https://'
+      ],
+      links: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      english: ``,
+      englishImages: [
+      'https://',
+      'https://'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      russian: `собираться <span class="esp">ir a (hacer algo); reunirse</span><br>
+      <span class="star">☆</span> Я собираюсь поехать в Турцию. <span class="esp">Voy a viajar a Turquía.</span> <span class="star">☦</span> Мафия вот у нас собирается постоянно. Две мафии у нас в Чикаго постоянно собираются. <span class="esp">Grupos de Mafia—aquí muchas veces se reúnen (para jugar Mafia). Aquí en Chicago hay dos grupos que se reúnen todas las veces.</span> <span class="star">☆</span> Активисты собрались возле п<span class="stress">а</span>мятника Пушкина. <span class="esp">Activistas se congregaron cerca del momumento a Pushkin.</span>`,
+      inflection: `<span class="aspect">несов:</span> собираться <span class="aspect">сов:</span> собраться`,
+      russianLinks: [
+      { char: 'собираться', url: 'https://ru.wiktionary.org/wiki/%D1%81%D0%BE%D0%B1%D0%B8%D1%80%D0%B0%D1%82%D1%8C%D1%81%D1%8F' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'https://',
+      'https://'
+      ],
+      links: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      english: ``,
+      englishImages: [
+      'https://',
+      'https://'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      russian: `вед<span class="stress-y">у</span>щий <span class="esp">anfitrión, moderador</span><br>
+      <span class="star">☆</span> А вот я был на прошлом матче, у нас там день рождения было у ведущего.<span class="esp">Y pues estuve en la última partida, y era el cumpeaños del anfitrión.</span>`,
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'https://',
+      'https://'
+      ],
+      links: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      english: ``,
+      englishImages: [
+      'https://',
+      'https://'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      russian: `каль<span class="stress">я</span>н <span class="esp">cachimba</span><br>
+      <span class="star">☆</span> А вот я был на прошлом матче. Я туда привёз два кальяна, ещё третий был кальян у тренера. <span class="esp">Y pues estuve en el partido pasado. Llegué con/Llevé (=en el carro) dos cachimbas, y había tres en total con el del entrenador.</span>`,
+      inflection: `<span class="aspect">несов:</span> привоз<span class="stress">и</span>ть <span class="aspect">сов:</span> привезт<span class="stress">и</span>`,
+      russianImages: [
+      'https://img.freepik.com/premium-photo/hookah-with-fume-on-dark_392895-21378.jpg',
+      'https://'
+      ],
+      russianLinks: [
+      { char: 'привезти', url: 'https://ru.wiktionary.org/wiki/%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D0%B7%D1%82%D0%B8' },
+      { char: ' ', url: 'https://' },
+      ],
+    },
+    {
+      chinese: `在... 里
+      在 means more closely "at" without specifying if it's inside, under, above, or to a side. That's why 里 is added to mean "inside". When there's no verb in the sentence, 在 functions as a verb, hence it cannot be omitted. For example, 他在屋子里 <span class="pinyin">tā zài wūzi lǐ</span> <span class="esp">He's in the room.</span><br>
+      在 can be omitted when you say where a thing takes place at the beginning of a sentence. For example, 屋里有一个人 <span class="esp">Dentro de la habitación hay un hombre.</span><br>
+      (🧧 Also note how 屋 goes alone without 子, keeping the same meaning: room. Natives often drop 子 when 屋 is used as a location and when it's followed by 里.)<br>
+      Anyway, keeping 在 will always be right.<br>
+      里 is not used when talking about place names, like cities. For example, 他在北京工作 <span class="pinyin">tā zài běijīng gōngzuò</span> <span class="esp">He's working in Beijing.</span><br>
+      NOTE: To say "He's there", both 他在那 and 他在那里 are correct.<br>
+      A rule of thumb is if the location is already a place (city, room, bar, forest, etc.), 里 is optional. But if the location is an object (water, box, video, etc.), 里 is needed.`,
+      handwritten: `在... 里`,
+      traditional: `在... 裏`,
+      english: ``,
+      englishImages: [
+      'https://',
+      'https://'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'https://',
+      'https://'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+    },
+    {
+      chinese: `非常<br>
+      <span class="pinyin">fēicháng</span><br>
+      <span class="esp">mucho, muchísimo, extremadamente</span><br><br>
+      Compared to 很, it's stronger and may feel a bit formal, but can come up in conversation. It can also be repeated "非常非常" in a sentence, whereas 很 cannot be repeated.<br>
+      <span class="circle-word">立</span> 他现在非常非常有钱 <span class="pinyin">tā xiànzài fēicháng fēicháng yǒu qián</span> <span class="esp">Él ya está tapado en plata.</span> <span class="circle-word">净</span> —好吃吗? —非常好吃 <span class="esp">—Está rico? —Uff, riquísimo.</span> <span class="circle-word">典</span> 我非常喜欢这本书 <span class="pinyin">wǒ fēicháng xǐhuān zhè běn shū</span> <span class="esp">Adoro este libro.</span>`,
+      handwritten: `非常`,
+      traditional: `非常`,
+      strokeOrderImages: [
+      'https://',
+      'https://'
+      ],
+      links: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      english: ``,
+      englishImages: [
+      'https://',
+      'https://'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'https://',
+      'https://'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+    },
   ];
 
   // ---------- state ----------
@@ -2763,62 +3840,57 @@
   }
 
   // New function to format Russian text with collapsible content
-  function formatRussianText(text, inflection, russianImages, russianLinks) {
-    if (!text) return '';
-    
-    // Split the text by lines
-    const lines = text.split('\n');
-    if (lines.length === 0) return text;
-    
-    // First line is the trigger
-    const firstLine = lines[0];
-    const restOfText = lines.slice(1).join('\n');
-    
-    // Build the HTML with collapsible content
-    let html = `<div class="collapsible-trigger" onclick="toggleCollapsible(this)">${firstLine}</div>`;
-    
-    // Add the collapsible content
-    html += `<div class="collapsible-content">`;
+  function formatRussianText(text, inflection, russianLinks) {
+  if (!text) return '';
   
-      // Handwritten version (NEW - appears first)
-      if (inflection && inflection.trim()) {
-        const handLines = inflection.split('\n');
-        html += `<div class="inflection-text">${handLines.join('<br>')}</div>`;
-      }
-    
-    // Russian images
-    if (russianImages && Array.isArray(russianImages) && russianImages.length > 0) {
-      html += `<div class="stroke-order-container">`;
-      russianImages.forEach((imgUrl, index) => {
-        html += `
-          <div class="stroke-order-item">
-            <img src="${imgUrl}" alt="Russian image ${index + 1}" loading="lazy" onerror="this.style.display='none'">
-          </div>
-        `;
-      });
-      html += `</div>`;
-    }
-    
-    // Russian links
-    if (russianLinks && Array.isArray(russianLinks) && russianLinks.length > 0) {
-      html += `<div class="links-container-en-ru">`;
-      russianLinks.forEach((link) => {
-        html += `
-          <span class="link-item">
-            <a href="${link.url}" target="_blank" class="char-link">${link.char}</a>
-          </span>
-        `;
-      });
-      html += `</div>`;
-    }
-    
+  const lines = text.split('\n');
+  if (lines.length === 0) return text;
+  
+  const firstLine = lines[0];
+  const restOfText = lines.slice(1).join('\n');
+  
+  let html = `<div class="collapsible-trigger" onclick="toggleCollapsible(this)">${firstLine}</div>`;
+  
+  html += `<div class="collapsible-content">`;
+
+  if (inflection && inflection.trim()) {
+    const handLines = inflection.split('\n');
+    html += `<div class="inflection-text">${handLines.join('<br>')}</div>`;
+  }
+  
+  if (russianLinks && Array.isArray(russianLinks) && russianLinks.length > 0) {
+    html += `<div class="links-container-en-ru">`;
+    russianLinks.forEach((link) => {
+      html += `
+        <span class="link-item">
+          <a href="${link.url}" target="_blank" class="char-link">${link.char}</a>
+        </span>
+      `;
+    });
     html += `</div>`;
-    
-    // Add the rest of the text after the collapsible section
-    if (restOfText) {
-      html += `<br>${restOfText}`;
-    }
-    
+  }
+  
+  html += `</div>`;
+  
+  if (restOfText) {
+    html += `<br>${restOfText}`;
+  }
+  
+  return html;
+}
+
+  function formatRussianImages(russianImages) {
+    if (!russianImages || !Array.isArray(russianImages) || russianImages.length === 0) return '';
+  
+    let html = `<div class="stroke-order-container">`;
+    russianImages.forEach((imgUrl, index) => {
+      html += `
+        <div class="russian-image-item">
+          <img src="${imgUrl}" alt="Russian image ${index + 1}" loading="lazy" onerror="this.style.display='none'">
+        </div>
+      `;
+    });
+    html += `</div>`;
     return html;
   }
 
@@ -2931,13 +4003,15 @@
       note.links || []
     );
 
-    // Format the Russian text with collapsible content
+    // Format the Russian text with collapsible content (no images inside)
     const russianHtml = formatRussianText(
       note.russian || '',
       note.inflection || '',
-      note.russianImages || [],
       note.russianLinks || []
     );
+
+    // Russian images (non-collapsible, shown at the end)
+    const russianImagesHtml = formatRussianImages(note.russianImages || []);
 
     // Format the English text with images and links (non-collapsible)
     const englishHtml = formatEnglishText(
@@ -2959,7 +4033,7 @@
       </div>
       <div class="block block-ru">
         <div class="block-label">Русский</div>
-        <div class="block-content">${russianHtml}</div>
+        <div class="block-content">${russianHtml}${russianImagesHtml}</div>
       </div>
     `;
     
