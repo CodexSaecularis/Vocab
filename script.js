@@ -1856,9 +1856,11 @@
       russian: `зад<span class="stress">о</span>лго до <span class="esp">mucho antes</span><br>
       <span class="star">☆</span> Задолго до знакомства. <span class="esp">Mucho antes de conocernos.</span> <span class="star">☦</span> Этот дом сто<span class="stress">я</span>л здесь задолго до моего рождения. <span class="esp">Esta casa ya estaba mucho antes de yo nacer.</span><br>
       <span class="sickle">☭</span> To mean "mucho después", say "намного позже" or "долгое время после..." <span class="star">☆</span> Часто люди обращаются с заявлением намного позже. <span class="esp">La gente normalmente denuncia mucho tiempo después.</span> <span class="star">☦</span> Эти изменения могут длиться долгое время после непосредсвенного воздействия. <span class="esp">Estos cambios pueden durar mucho tiempo después de los efectos inmediatos.</span>`,
-      inflection: `<span class="aspect">несов:</span> стоять <span class="aspect">сов:</span> постоять`,
+      inflection: `<span class="aspect">несов:</span> стоять <span class="aspect">сов:</span> постоять
+      <span class="aspect">несов:</span> обращ<span class="stress">а</span>ться <span class="aspect">сов:</span> обрат<span class="stress">и</span>ться`,
       russianLinks: [
       { char: 'стоять', url: 'https://ru.wiktionary.org/wiki/%D1%81%D1%82%D0%BE%D1%8F%D1%82%D1%8C' },
+      { char: 'обращаться', url: 'https://ru.wiktionary.org/wiki/%D0%BE%D0%B1%D1%80%D0%B0%D1%89%D0%B0%D1%82%D1%8C%D1%81%D1%8F' },
       ],
     },
     {
@@ -3160,7 +3162,7 @@
       { char: ' ', url: 'https://' },
       ],
       russian: `лиш<span class="stress">и</span>ться <span class="esp">perder, perderse (algo), quedarse sin</span><br>
-      <span class="star">☆</span> Я лишился гарантии. <span class="esp">Me perdí la garantía.</span> (de un producto) <span class="star">☦</span> В итоге может лишиться одной или даже об<span class="stress">е</span>их работ. <span class="esp">Al final puede quedarse sin uno o incluso los dos trabajos.</span><br><br>
+      <span class="star">☆</span> Я лишился гарантии. <span class="esp">Me perdí la garantía.</span> (de un producto) <span class="star">☦</span> В итоге может лишиться одной или даже об<span class="stress">е</span>их работ. <span class="esp">Al final puede quedarse sin uno o incluso sin los dos trabajos.</span><br><br>
       <span class="sickle">☭</span> According to Викисловарь, there's another acceptable declension for обе in conversation. See link above.`,
       inflection: `<span class="aspect">несов:</span> лиш<span class="stress">а</span>ться <span class="aspect">сов:</span> лиш<span class="stress">и</span>ться
       <span class="aspect">м/с:</span> <span class="stress">о</span>ба <span class="aspect">ж:</span> <span class="stress">о</span>бе`,
@@ -3170,7 +3172,7 @@
       ],
       russianLinks: [
       { char: 'лишиться', url: 'https://ru.wiktionary.org/wiki/%D0%BB%D0%B8%D1%88%D0%B8%D1%82%D1%8C%D1%81%D1%8F' },
-      { char: 'оба', url: 'https://ru.wiktionary.org/wiki/%D0%BE%D0%B1%D0%B0' },
+      { char: 'оба/обе', url: 'https://ru.wiktionary.org/wiki/%D0%BE%D0%B1%D0%B0' },
       ],
     },
     {
