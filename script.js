@@ -1740,7 +1740,7 @@
       english: `<span class="title">roam out</span> ☜ <span class="esp">callejear; deambular, vagar</span><br>
       <span class="skull">☠︎︎</span> <span class="example">I don't let my kids out too much, like, roaming out. But they get to do certain things. We do things, but I don't let them hang out with all the knuckleheads (=<span class="esp">güevones</span>) around the neighborhood.</span><br><br>
       <span class="baal">𖤐︎</span> "knucklehead" is used to call someone "stupid" but in a silly/inoffensive way. Its exact meaning is someone that does things without thinking about the consequences. If you saw someone try to perform a stunt or trick because it looks cool without considering if it might be dangerous, you might call them a knucklehead. It's not as harsh as "stupid", but still, it's not as soft as "silly" or "goofy". Close translations may be "güevón, atembado".<br><br>
-      <span class="baal">𖤐︎</span> "roam" can be used in everyday examples, like "I roamed around the hotel" (=estuve andando por el hotel)`,
+      <span class="baal">𖤐︎</span> "roam" can be used in everyday examples, like "I roamed around the hotel" (=estuve andando por el hotel).`,
       russian: ``,
       inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
       russianImages: [
@@ -3441,7 +3441,9 @@
       { char: ' ', url: 'https://' },
       { char: ' ', url: 'https://' },
       ],
-      english: `<span class="title">make what you will (of it/that) <span class="or">or</span> make of that what you will</span> ☜ <span class="esp">sacar sus propias conclusiones, ya verá ud. cómo lo interpreta, allá ud. lo que quiera pensar de eso.</span><br>`,
+      english: `<span class="title">make what you will (of it/that) <span class="or">or</span> make of that what you will</span> ☜ <span class="esp">sacar sus propias conclusiones, ya verá ud. cómo lo interpreta, allá ud. lo que quiera pensar de eso, a saber</span><br>
+      <span class="baal">𖤐︎</span> "make what of that what you will" is far more common or popular than the reversed structure according to Google Ngram.<br>
+      <span class="skull">☠︎︎</span> <span class="example">I shared the facts with you, and you can make what you will of them.</span> <span class="skull">☠︎︎</span> <span class="example">—I had an argument with her yesterday. —Are you still upset with each other? —I don't know. She called me to ask if I had seen her yellow scarf. So, make of that what you will.</span>`,
       russian: ``,
       inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
       russianImages: [
@@ -3664,6 +3666,187 @@
       <span class="circle-word">立</span> 他现在非常非常有钱 <span class="pinyin">tā xiànzài fēicháng fēicháng yǒu qián</span> <span class="esp">Él ya está tapado en plata.</span> <span class="circle-word">净</span> —好吃吗? —非常好吃 <span class="esp">—Está rico? —Uff, riquísimo.</span> <span class="circle-word">典</span> 我非常喜欢这本书 <span class="pinyin">wǒ fēicháng xǐhuān zhè běn shū</span> <span class="esp">Adoro este libro.</span>`,
       handwritten: `非常`,
       traditional: `非常`,
+      strokeOrderImages: [
+      'https://',
+      'https://'
+      ],
+      links: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      english: ``,
+      englishImages: [
+      'https://',
+      'https://'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'https://',
+      'https://'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'https://',
+      'https://'
+      ],
+      links: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      english: `My most adventurous trip, or <u>up there in the top three</u> was Tajikistan.`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'https://',
+      'https://'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'https://',
+      'https://'
+      ],
+      links: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      english: `<span class="title">everything in due time; all in good time</span> ☜ <span class="esp">todo a su tiempo</span><br>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'https://',
+      'https://'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'https://',
+      'https://'
+      ],
+      links: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      english: `<span class="title">flood out</span> ☜ <span class="esp">huir por culpa de la inundación; salir en masa; inundar (figurativo)</span><br>`,
+      englishImages: [
+      'https://',
+      'https://'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'https://',
+      'https://'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'https://',
+      'https://'
+      ],
+      links: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      english: ``,
+      englishImages: [
+      'https://',
+      'https://'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      russian: `в чём смысл...? <span class="esp">Cuál es el sentido (de)...? / De qué sirve...?</span>`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'https://',
+      'https://'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'https://',
+      'https://'
+      ],
+      links: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      english: ``,
+      englishImages: [
+      'https://',
+      'https://'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      russian: `не зр<span class="stress">я</span> <span class="esp">no en vano, no es de extrañar que, no perder la (ida/llevada/cualquier acción), servir (hacer algo), y (lo dijo/hizo) con buena razón</span><br>
+      <span class="star">☆</span> Я привёз кальян, ещё другой был кальян у ведущего. Не зря, короче, привёз. Думал, зря привезу, там же ещё они с детьми приехали. <span class="esp">Llegué con una cachimba, y había otra que era del anfitrión. Al final no perdí la traída (de la cachimba). Pero pensé, voy a perder la traída, igual vienen con niños.</span> <span class="star">☦</span> Пусть это будет не зря. <span class="esp">Qué no sea en vano.</span> <span class="star">☆</span> Всё не зря. <span class="esp">Todo sirve/Valió(Vale) la pena.</span> <span class="star">☦</span> Не зря говорят «утро вечера мудрен<span class="stress">е</span>е» <span class="esp">Con razón/No en vano/Por algo/Bien dicen "mañana lo ves con más calma".</span> <span class="star">☆</span> Не тратьте время зря. <span class="esp">No pierda (el) tiempo.</span> <span class="star">☦</span> Не зря ждал. <span class="esp">No perdí la espera/Sirvió esperar.</span> <span class="star">☆</span> Не зря тебе говорил. <span class="esp">Por algo se lo dije.</span><br><br>
+      <span class="sickle">☭</span> The opposite, "зря", is also common. <span class="star">☆</span> [context: someone sends a video and asks if they watched it] —Посмотрел видео? —Нет. —Очень зря. <span class="esp">—Mal.</span> <span class="or">or</span> <span class="esp">Usted se lo pierde.</span> <span class="star">☦</span> Зря ты не пришёл/посмотрел/и т.д. <span class="esp">Qué pesar que no viniste/lo viste.</span> (but it better expresses the idea of missing out on something, probably a better translation could be "se perdió la fiesta/experiencia/etc.") <span class="star">☆</span> Зря ты беспокоишься. <span class="esp">Haces mal en preocuparte/Te preocupas demasiado/Te preocupas por nada.</span> <span class="star">☦</span> Зря ты пришла. <span class="esp">No debiste haber venido/Hiciste mal en venir.</span> <span class="star">☆</span> Зря я это сделал. <span class="esp">No debí haber dicho eso</span> (=regret) <span class="or">or</span> <span class="esp">Hice eso para nada.</span> (=wasted effort)`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'https://',
+      'https://'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+    },
+    {
+      chinese: `现在<br>
+      xiànzài<br>
+      <span class="esp">ahora, ya (en este momento)</span><br><br>
+      <span class="circle-word">般</span> 我现在很忙 <span class="pinyin">wǒ xiànzài hěn máng<span> <span class="esp">Estoy ocupado ahorita mismo</span> <span class="circle-word">竹</span> 现在这里有很多人 <span class="pinyin">xiànzài zhèlǐ yǒu hěnduō rén</span> <span class="esp">Ya hay bastante gente aquí.</span>`,
+      handwritten: ``,
+      traditional: ``,
       strokeOrderImages: [
       'https://',
       'https://'
