@@ -3875,6 +3875,208 @@
       { char: ' ', url: 'https://' },
       ],
     },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'https://',
+      'https://'
+      ],
+      links: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      english: ``,
+      englishImages: [
+      'https://',
+      'https://'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      russian: `нел<span class="stress">о</span>вко <span class="esp">incómodo; vergüenza, pena</span><br>
+      <span class="star">☆</span> Я думал, блин, сейчас неловко будут себя чувствовать. <span class="esp">Y pensé, "juemadre, ahora todos se van a sentir incómodos".</span> <span class="star">☦</span> Неловко в<span class="stress">ы</span>шло. <span class="esp">Eso fue incómodo/Qué pena.</span> <span class="star">☆</span> Хватит делать это! Это реально неловко! Мне за тебя реально стыдно. <span class="esp">Deje de hacer eso! Qué pena! Me hace dar pena.</span> <span class="star">☦</span> Мне было неловко отказывать. <span class="esp">Me daba pena decir que no.</span><br><br>
+      <span class="sickle">☭</span> According to a Redditor, неловко is for casual things, and стыдно for nudity, body cases, and more serious things.`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'https://',
+      'https://'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'https://',
+      'https://'
+      ],
+      links: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      english: ``,
+      englishImages: [
+      'https://',
+      'https://'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      russian: `достав<span class="stress">а</span>ть <span class="esp">sacar; conseguir; alcanzar (un lugar a cierta distancia)</span><br>
+      <span class="star">☆</span> Я когда начал кальяны доставать... <span class="esp">Cuando empecé a sacar las cachimbas...</span> <span class="star">☦</span> Достать билет в театр. <span class="esp">Conseguir un entrada al teatro.</span> <span class="star">☆</span> Достать рукой до потолк<span class="stress">а</span> (м. потол<span class="stress">о</span>к). <span class="esp">Alcanzar el techo con la mano.</span>`,
+      inflection: `<span class="aspect">несов:</span> достав<span class="stress">а</span>ть <span class="aspect">сов:</span> дост<span class="stress">а</span>ть`,
+      russianLinks: [
+      { char: 'доставать', url: 'https://ru.wiktionary.org/wiki/%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%B0%D1%82%D1%8C' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'https://',
+      'https://'
+      ],
+      links: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      english: ``,
+      englishImages: [
+      'https://',
+      'https://'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      russian: `почувствовать на себе <span class="esp">sentir en carne propia, sentir (sobre uno mismo algo), experimentar</span><br>
+      Apparently, the most common way it is used is with взгляд.<br>
+      <span class="star">☆</span> Я когда начал кальяны доставать, почувствовал на себе кос<span class="stress">ы</span>е взгляды. <span class="esp">Cuando empecé a sacar las cachimbas, sentía que me miraban de reojo.</span> <span class="star">☦</span> Правда ли то, что можно почувствовать не себе чужой взгляд? <span class="esp">Será verdad que uno puede sentir cuando alguien lo mira a uno?</span> <span class="star">☆</span> В будущем они молодёжь будет чувствовать на себе последствия изменения климата. <span class="esp">En el futuro los jóvenes van a sentir en carne propia las consecuencias del cambio climático.</span> `,
+      inflection: `<span class="aspect">несов:</span> чувствовать <span class="aspect">сов:</span> почувствовать`,
+      russianImages: [
+      'https://',
+      'https://'
+      ],
+      russianLinks: [
+      { char: 'чувствовать', url: 'https://ru.wiktionary.org/wiki/%D1%87%D1%83%D0%B2%D1%81%D1%82%D0%B2%D0%BE%D0%B2%D0%B0%D1%82%D1%8C' },
+      { char: ' ', url: 'https://' },
+      ],
+    },
+    {
+      chinese: `经常 | 常 | 常常<br>
+      <span class="pinyin">jīngcháng | cháng | chángcháng<pan><br>
+      <span class="esp">con frecuencia, a menudo, bastante</span><br><br>
+      <span class="gold">常常</span> seems to be less common than just one 常, as the latter is enough and correct. To form the negative of 常常 is 不常. <span class="circle-word">曹</span> 然后她常常说的一句话是... <span class="pinyin">ránhòu tā chángcháng shuō de yī jù huà shì</span> <span class="esp">Y algo que él repetía era...</span> <span class="or">or</span> <span class="esp">...que decía bastante era...</span> <span class="unpack">⟨WHERE</span> 句 measure for sentences/lines<span class="unpack">⟩</span> <span class="circle-word">桥</span> 我不常那里 <span class="pinyin">wǒ bù cháng nàli</span> <span class="esp">No voy allá con frecuencia.</span><br><br>
+      <span class="gold">经常</span> is used more often in daily life, apparently, although this may not be sctrictly right. My thought is all three are used. It's also the adjective "common". <span class="circle-word">忠</span> 我经常乘巴士回家 <span class="pinyin">wǒ jīngcháng chéng bāshì huíjiā</span> <span class="esp">Normalmente me devuelvo para la casa en bus.</span> <span class="unpack">⟨WHERE</span> 乘 ride; 巴士 bus<span class="unpack">⟩</span> <span class="circle-word">禅</span> 在这个城市, 堵车是很经常的 <span class="pinyin">zài zhège chéngshì, dǔchē shì hěn jīngcháng de</span> <span class="esp">Los trancones son bastantes/comúnes en esta ciudad.</span>`,
+      handwritten: `经常 | 常 | 常常`,
+      traditional: `經常 | 常 | 常常`,
+      strokeOrderImages: [
+      'https://',
+      'https://'
+      ],
+      links: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      english: ``,
+      englishImages: [
+      'https://',
+      'https://'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'https://',
+      'https://'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+    },
+    {
+      chinese: `很棒!<br>
+      <span class="pinyin">hěn bàng</span><br>
+      <span class="esp">muy bien/bueno, excelente, increíble, fantástico</span><br><br>
+      <span class="gold">棒</span> or 很棒 is the go-to praise word for most daily conversations. It's the equivalent of "great/awesome". <span class="circle-word">灵</span> 然后觉得 "很棒!" <span class="esp">Y entonces pensé, "bieeen!"</span> <span class="circle-word">空</span> 你很棒 <span class="esp">Ud. es el mejor</span> <span class="circle-word">彩</span> 你的中文很棒 <span class="esp">Su chino es muuy bueno.</span> <span class="circle-word">圆</span> 做得很棒 <span class="pinyin">zuò de hěn bàng</span> <span class="esp">Lo hizo genial.</span>`,
+      handwritten: `很棒`,
+      traditional: `很棒`,
+      strokeOrderImages: [
+      'https://',
+      'https://'
+      ],
+      links: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      english: ``,
+      englishImages: [
+      'https://',
+      'https://'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'https://',
+      'https://'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+    },
+    {
+      chinese: `记得<br>
+      <span class="pinyin">jìde</span><br>
+      <span class="esp">recordar, acordarse</span><br><br>
+      <span class="circle-word">流</span> 我记得我也认识一个人 <span class="pinyin">wǒ jìde wǒ yě rènshí yī gè rén</span> <span class="esp">Yo me acuerdo conocer/ver a alguien [así] también.</span> <span class="unpack">⟨WHERE</span> 记得 remember; 认识 know/recognize/be familiar with<span class="unpack">⟩</span> <span class="circle-word">严</span> 我记得这是我出生的地方 <span class="pinyin">wǒ jìde zhè shì wǒ chūshēng de dìfang</span> <span class="esp">Me acuerdo que aquí fue donde nací.</span>`,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'https://',
+      'https://'
+      ],
+      links: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      english: ``,
+      englishImages: [
+      'https://',
+      'https://'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'https://',
+      'https://'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+    },
   ];
 
   // ---------- state ----------
