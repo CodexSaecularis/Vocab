@@ -3592,7 +3592,7 @@
       { char: ' ', url: 'https://' },
       ],
       russian: `вед<span class="stress-y">у</span>щий <span class="esp">anfitrión, moderador</span><br>
-      <span class="star">☆</span> А вот я был на прошлом матче, у нас там день рождения было у ведущего.<span class="esp">Y pues estuve en la última partida, y era el cumpeaños del anfitrión.</span>`,
+      <span class="star">☆</span> А вот я был на прошлом матче, у нас там день рождения было у ведущего. <span class="esp">Y pues estuve en la última partida, y era el cumpeaños del anfitrión.</span>`,
     },
     {
       chinese: ``,
@@ -4077,9 +4077,141 @@
       { char: ' ', url: 'https://' },
       ],
     },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'https://',
+      'https://'
+      ],
+      links: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      english: ``,
+      englishImages: [
+      'https://',
+      'https://'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      russian: `к<span class="stress">о</span>со смотреть (на кого-то) <span class="or">или</span> брос<span class="stress">а</span>ть (на кого-то) кос<span class="stress">о</span>й взгляд <span class="esp">mirar de reojo/mal (a alguien)</span><br>
+      <span class="sickle">☭</span> Тоже есть "смотреть <span class="stress">и</span>скоса". Слова "<span class="stress">и</span>скоса" используется только в сочетании с глаголами, выражающими взгляд - "взглянуть", "глядеть", "поглядывать", "смотреть". Согласно Ngram, "смотреть косо" встречается намного чаще, чем "смотреть искоса".<br>
+      <span class="sickle">☭</span> On the difference in meaning between the two, a HiNative user says: "Если я смотрю на вас искоса, возможно я глазки строю и заигрываюсь с вами. А может я просто хочу, чтоб вы видели, что я на вас смотрю и бросаю быстрые взгляды искоса. Это не несёт негативной окраски. Но смотреть косо имеет переносный смысл "иметь о ком-то не очень хорошее мнение".<br>
+      <span class="star">☆</span> Я выходила на улицу и проходила мимо парня, который выглядел моего возраста или моложе, он нахм<span class="stress-y">у</span>рил бр<span class="stress">о</span>ви (ж. бровь) и бр<span class="stress">о</span>сил на меня косой взгляд. <span class="esp">Salía yo a la calle y pasé al lado de un man que se veía de mi edad o todavía más joven, frunció el ceño y me miró todo feo/de reojo.</span> <span class="star">☦</span> Не надо смотреть на меня искоса: помою я сейчас посуду. <span class="esp">No tiene que mirarme rayado: ya voy a lavar los trastes.</span> <span class="star">☆</span> Люди на улице косо смотрели на меня, когда я начала танцевать. <span class="star">☦</span> Не буду я у него просить, он и так на меня косо смотрит. <span class="esp">No le voy a pedir nada a él, igual hace si no mirarme feo.</span> <span class="unpack">⟨WHERE</span> он и так si igual él..., ya de por sí él...<span class="unpack">⟩</span> <span class="star">☆</span> Я всего лишь купила пива, а продавщица уже на меня косо посмотрела. <span class="esp">Compré cerveza solamente, y la de la tienda me miró de reojo/todo feo.</span>`,
+      inflection: `<span class="aspect">несов:</span> брос<span class="stress">а</span>ть <span class="aspect">сов:</span> бр<span class="stress">о</span>сить
+      <span class="aspect">несов:</span> нахм<span class="stress-y">у</span>ривать <span class="aspect">сов:</span> нахм<span class="stress-y">у</span>рить`,
+      russianImages: [
+      'https://',
+      'https://'
+      ],
+      russianLinks: [
+      { char: 'бросать', url: 'https://ru.wiktionary.org/wiki/%D0%B1%D1%80%D0%BE%D1%81%D0%B0%D1%82%D1%8C' },
+      { char: 'нахмурить', url: 'https://ru.wiktionary.org/wiki/%D0%BD%D0%B0%D1%85%D0%BC%D1%83%D1%80%D0%B8%D1%82%D1%8C' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'https://',
+      'https://'
+      ],
+      links: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      english: ``,
+      englishImages: [
+      'https://',
+      'https://'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'https://' },
+      { char: ' ', url: 'https://' },
+      ],
+      russian: `никот<span class="stress">и</span>н <span class="esp">nicotina</span><br>
+      <span class="star">☆</span> Никотин опереж<span class="stress">а</span>ет наркотики по скорости возникновения зависимости. <span class="esp">La nicotina supera a las drogas en aparación de adicción.</span><br><br>
+      <span class="sickle">☭</span> опереж<span class="stress">а</span>ть takes the genitive.`,
+      inflection: `<span class="aspect">несов:</span> опереж<span class="stress">а</span>ть <span class="aspect">сов:</span> оперед<span class="stress">и</span>ть`,
+      russianLinks: [
+      { char: 'опережать', url: 'https://ru.wiktionary.org/wiki/%D0%BE%D0%BF%D0%B5%D1%80%D0%B5%D0%B6%D0%B0%D1%82%D1%8C' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `раскл<span class="stress">а</span>дывать <span class="esp">colocar, poner, organizar; abrir (un sofá cama)</span><br>
+      This verb insinuates placing things in their place, like on a shelf, or for example taking items from a bag and onto a table. It's probably closer to "lay out" or "arrange".<br>
+      <span class="star">☆</span> Ну и короче сказали "да, всё нормально, можешь там раскладывать." <span class="esp">Y pues bueno, al final me dijeron "sí, todo bien, puede organizar/colocar todo ahí".</span> <span class="star">☦</span> Он либит раскладывать тарелки по цвету. <span class="esp">A él le gusta organizar los platos por color.</span> <span class="star">☆</span> Я предпочитаю раскладывать еду на тарелке отдельным секциями. <span class="esp">Me gusta más separar la comida en secciones distintas en el plato.</span> <span class="star">☦</span> Раскладывать продукты. <span class="esp">Guardar las cosas del mercado.</span> <span class="star">☆</span> Раскладывать инструменты. <span class="esp">Colocar las herramientas [sobre una mesa o algo].</span> <span class="star">☦</span> Разлож<span class="stress">и</span>ть всё по п<span class="stress">о</span>лкам/п<span class="stress">о</span>лочкам. <span class="esp">(lit.) Organizar/Colocar todo en los estantes. <span class="or">or</span> (fig.) Poner todo en orden.</span> <span class="star">☆</span> Раскладывай див<span class="stress">а</span>н (see image below), будем спать. <span class="esp">Abra el sofá cama, que vamos a dormir.</span> <span class="star">☦</span> 15 способов разложить вещи, так чтобы стало по-настоящему уютно. <span class="esp">15 maneras de organizar la ropa para que sea vea realmente acogedor.</span><br>
+      <span class="sickle">☭</span> When talking about cards, laying out the cards is "разложить карты", but playing a cards game (i.e. solitaire) is "раскладывать карты/пась<span class="stress">я</span>нс = jugar a las cartas/al solitario".
+      <span class="sickle">☭</span> Раскладывать (всё) по полочкам (more common than по полкам), as said above, means to sort out a problem or break something down to understand it, and it's a very common phrase. Similarly, "Всё раскладывается по полочкам" means "ya todo tiene sentido"<br>
+      <span class="sickle">☭</span> The reflexive раскладываться when talking about a person could mean they're organizing their things or is lying down. When used with foldable objects (phone, foldable bed, etc.), it means they unfold.`,
+      inflection: `<span class="aspect">несов:</span> раскл<span class="stress">а</span>дывать <span class="aspect">сов:</span> разлож<span class="stress">и</span>ть`,
+      russianImages: [
+      'https://domdivanov48.com/files/imgs/ig1111921/uglovoi-divan-lider-sv-1-d-14otp07-ppu-590x430.jpg',
+      ],
+      russianLinks: [
+      { char: 'раскладывать', url: 'https://ru.wiktionary.org/wiki/%D1%80%D0%B0%D1%81%D0%BA%D0%BB%D0%B0%D0%B4%D1%8B%D0%B2%D0%B0%D1%82%D1%8C' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `(1) display counter, (2) display case`,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `(1) прил<span class="stress">а</span>вок, (2) витрина`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
   ];
 
-  // ---------- state ----------
+  // ---------- state состояние 满 ----------
   let cards = [];
   let currentIndex = 0;
   let searchMode = false;
