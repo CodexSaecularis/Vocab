@@ -616,7 +616,7 @@
       ],
       english: `<span class="title">karate chop</span> ☜<br>
       A downward strike with the outer edge of an open hand. People karate chop to break wooden boards or bricks. <br>
-      <span class="skull">☠︎︎</span> <span class="example">A was following a guy yesterday, who was karate chopping signs on the street. There were some sidewalk signs, and he'd come karate chopping in, and fall in the process, and then yell at the sign. So he wasn't all there (=<span class="esp">no estaba en su sano juicio</span>).</span>`,
+      <span class="skull">☠︎︎</span> <span class="example">I was following a guy yesterday, who was karate chopping signs on the street. There were some sidewalk signs, and he'd come karate chopping in, and fall in the process, and then yell at the sign. So he wasn't all there (=<span class="esp">no estaba en su sano juicio</span>).</span>`,
       englishImages: [
       'https://t4.ftcdn.net/jpg/05/41/55/25/360_F_541552529_kWDPcqO6KdhANl3oGMJGDwx5jZUH47t9.jpg',
       ],
@@ -1043,7 +1043,7 @@
       { char: ' ', url: 'https://' },
       ],
       english: `<span class="title">take on</span> ☜ <span class="esp">asumir (un desafío, trabajo); enfrentarse (a un oponente); cobrar (un significado, cualidad); contratar (empleados)</span><br>
-      <span class="skull">☠︎︎</span> <span class="example">I took on too much work</span> <span class="skull">☠︎︎</span> <span class="example">They're ready to take on the champions.</span> <span class="skull">☠︎︎</span> <span class="example">Her face took on a worried expression.</span> <span class="skull">☠︎︎</span> <span class="example">The city takes on a magical feel at night.</span> <span class="esp">La ciudad cobra un aire mágico por la noche.</span> <span class="skull">☠︎︎</span> <span class="example">Stores take on extra employees during Christmas.</span> <span class="skull">☠︎︎</span> <span class="example">Many students take on a lot of debt while they are studying at univeristy.</span> <span class="esp">Mucho estudiantes adquieren...</span>`,
+      <span class="skull">☠︎︎</span> <span class="example">I took on too much work</span> <span class="skull">☠︎︎</span> <span class="example">They're ready to take on the champions.</span> <span class="skull">☠︎︎</span> <span class="example">Her face took on a worried expression.</span> <span class="skull">☠︎︎</span> <span class="example">The city takes on a magical feel at night.</span> <span class="esp">La ciudad cobra un aire mágico por la noche.</span> <span class="skull">☠︎︎</span> <span class="example">Stores take on extra employees during Christmas.</span> <span class="skull">☠︎︎</span> <span class="example">Many students take on a lot of debt while they are studying at university.</span> <span class="esp">Mucho estudiantes adquieren...</span>`,
       russian: ``,
       inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
       russianImages: [
@@ -2139,7 +2139,7 @@
       { char: ' ', url: 'https://' },
       { char: ' ', url: 'https://' },
       ],
-      russian: `пренебреж<span class="stress">е</span>ние <span class="esp">desdén</span>`,
+      russian: `пренебреж<span class="stress">е</span>ние <span class="esp">negligencia, desprecio, desdén</span>`,
     },
     {
       chinese: ``,
@@ -3616,7 +3616,7 @@
       { char: ' ', url: 'https://' },
       ],
       russian: `каль<span class="stress">я</span>н <span class="esp">cachimba</span><br>
-      <span class="star">☆</span> А вот я был на прошлом матче. Я туда привёз два кальяна, ещё третий был кальян у тренера. <span class="esp">Y pues estuve en el partido pasado. Llegué con/Llevé (=en el carro) dos cachimbas, y había tres en total con el del entrenador.</span>`,
+      <span class="star">☆</span> А вот я был на прошлом матче. Я туда привёз два кальяна, ещё третий был кальян у тренера. <span class="esp">Y pues estuve en el partido pasado. Llegué con/Llevé (=en el carro) dos cachimbas, y había tres en total con el del entrenador.</span> <span class="or">или</span> <span class="star">☦</span> Ну, короче, поиграли в Мафию, <u>поели</u> шашлык<span class="stress">и</span>, покурили каль<span class="stress">я</span>нчик.`,
       inflection: `<span class="aspect">несов:</span> привоз<span class="stress">и</span>ть <span class="aspect">сов:</span> привезт<span class="stress">и</span>`,
       russianImages: [
       'https://img.freepik.com/premium-photo/hookah-with-fume-on-dark_392895-21378.jpg',
@@ -3754,15 +3754,9 @@
       { char: ' ', url: 'https://' },
       { char: ' ', url: 'https://' },
       ],
-      english: `<span class="title">flood out</span> ☜ <span class="esp">huir por culpa de la inundación; salir en masa; inundar (figurativo)</span><br>`,
-      englishImages: [
-      'https://',
-      'https://'
-      ],
-      englishLinks: [
-      { char: ' ', url: 'https://' },
-      { char: ' ', url: 'https://' },
-      ],
+      english: `<span class="title">flood out</span> ☜ <span class="esp">huir por culpa de la inundación; salir en masa; hacer salir a borbotones (figurativo)</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">Right after the U.S. went to Afghanistan in 2001, the heroin /ˈhɛroʊɪn/ trade just flooded out of Afghanistan like crazy.</span> <span class="skull">☠︎︎</span> <span class="example">People living along the shoreline were flooded out.</span> <span class="esp">La gente que vivía por la orilla tuvieron que salir por la inundación.</span> <span class="skull">☠︎︎</span> <span class="example">When the alarm sounded, people flooded out of the hall.</span> <span class="skull">☠︎︎</span> <span class="example">Refugees flooded out the region.</span><br><br>
+      <span class="baal">𖤐︎</span> "flood into" reflects the opposite. When people flood out/in, they move as fast as they can. <span class="skull">☠︎︎</span> <span class="example">Cheap goods flooded into the market.</span> <span class="skull">☠︎︎</span> <span class="example">The river flooded out into the fields.</span>`,
       russian: ``,
       inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
       russianImages: [
@@ -4043,18 +4037,18 @@
       ],
     },
     {
-      chinese: `记得<br>
-      <span class="pinyin">jìde</span><br>
+      chinese: `记得 vs. 记住<br>
+      <span class="pinyin">jìde vs. jìzhù</span><br>
       <span class="esp">recordar, acordarse</span><br><br>
-      <span class="circle-word">流</span> 我记得我也认识一个人 <span class="pinyin">wǒ jìde wǒ yě rènshí yī gè rén</span> <span class="esp">Yo me acuerdo conocer/ver a alguien [así] también.</span> <span class="unpack">⟨WHERE</span> 记得 remember; 认识 know/recognize/be familiar with<span class="unpack">⟩</span> <span class="circle-word">严</span> 我记得这是我出生的地方 <span class="pinyin">wǒ jìde zhè shì wǒ chūshēng de dìfang</span> <span class="esp">Me acuerdo que aquí fue donde nací.</span>`,
-      handwritten: ``,
-      traditional: ``,
+      <span class="gold">记住</span> probably can be interpreted as "no olvidarse de", where seemingly the importance of the thing being remembered or ability to remember is bigger, but that's my take. So, 记住 is closer to "memorize". <span class="circle-word">流</span> 我记得我也认识一个人 <span class="pinyin">wǒ jìde wǒ yě rènshí yī gè rén</span> <span class="esp">Yo me acuerdo haber conocido/visto a alguien [así] también.</span> <span class="unpack">⟨WHERE</span> 记得 remember; 认识 know/recognize/be familiar with<span class="unpack">⟩</span> <span class="circle-word">严</span> 我记得这是我出生的地方 <span class="pinyin">wǒ jìde zhè shì wǒ chūshēng de dìfang</span> <span class="esp">Me acuerdo que aquí fue donde nací.</span> <span class="circle-word">德</span> 我刚刚记住了他的电话号码 <span class="pinyin">wǒ gānggāng jìzhù le tā de diànhuà hàomǎ</span> <span class="esp">Ya me acordé de su número de celular.</span> <span class="circle-word">洲</span> 记住我的电话号码啊 <span class="pinyin">jìzhù wǒ de diànhuà hàomǎ a</span> <span class="esp">Bueno, acuérdese de mi número.</span> (=se lo voy a decir, no se le vaya a olvidar) <span class="unpack">⟨WHERE</span> 啊 softens it and makes it warm, like "okay?"<span class="unpack">⟩</span>`,
+      handwritten: `记得`,
+      traditional: `記得`,
       strokeOrderImages: [
       'https://',
       'https://'
       ],
       links: [
-      { char: ' ', url: 'https://' },
+      { char: 'difference between 记得 and 记住', url: 'https://www.reddit.com/r/ChineseLanguage/comments/n7vc97/%E8%AE%B0%E4%BD%8F%E8%AE%B0%E5%BE%97_do_both_mean_the_same_thing/?show=original' },
       { char: ' ', url: 'https://' },
       ],
       english: ``,
@@ -4191,6 +4185,121 @@
       ],
       english: `(1) display counter, (2) display case`,
       englishImages: [
+      'https://furniture.ug/wp-content/uploads/2024/08/Modern-Glass-Display-Counter-7-1.jpg',
+      'https://www.fiheroe.com/cdn/shop/files/stackable-lit-led-display-case-for-anime-figures-fiheroe-default-title-33890227585077_1280x.jpg?v=1686369063'
+      ],
+      russian: `(1) прил<span class="stress">а</span>вок, (2) витрина<br>
+      <span class="star">☆</span> На прил<span class="stress">а</span>вке были разл<span class="stress">о</span>жены всякие товары.`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'https://furniture.ug/wp-content/uploads/2024/08/Modern-Glass-Display-Counter-7-1.jpg',
+      'https://www.fiheroe.com/cdn/shop/files/stackable-lit-led-display-case-for-anime-figures-fiheroe-default-title-33890227585077_1280x.jpg?v=1686369063'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `Christ the Redeemer <span class="esp">Cristo Redentor</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">marvel</span> ☜ <span class="esp">maravilla</span><br>
+      <span class="title">marvel at/that</span> ☜ <span class="esp">maravillarse, asombrarse</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">They're genuine architectural marvels that were way beyond their time in terms of craftsmanship or build quality. </span> <span class="esp">Son auténticas maravillas que trascienden su época en cuanto a la calidad en la destreza o construcción.</span> <span class="skull">☠︎︎</span> <span class="example">This country is full of natural marvels.</span> <span class="skull">☠︎︎</span> <span class="example">I marvel at how you can remember all those facts.</span> <span class="skull">☠︎︎</span> <span class="example">He marveled that she could recite the entire play <u>from memory</u>.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">big-ass</span> ☜ <span class="esp">enorme, grande como un hijueputa</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">I saw a big-ass turkey walking down the road yesterday.</span> <span class="skull">☠︎︎</span> <span class="example">I can't see with this big-ass car blocking my view.</span><br><br>
+      <span class="baal">𖤐︎</span> Other common ones:<br>
+      smart-ass<br>
+      bad-ass<br>
+      crazy-ass<br>
+      long-ass<br>
+      tall-ass<br>
+      fat-ass<br>
+      dumb-ass<br>
+      cheap-ass<br>
+      broke-ass<br>
+      fake-ass<br>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
       'h',
       'h'
       ],
@@ -4198,7 +4307,178 @@
       { char: ' ', url: 'h' },
       { char: ' ', url: 'h' },
       ],
-      russian: `(1) прил<span class="stress">а</span>вок, (2) витрина`,
+      russian: `провож<span class="stress">а</span>ть <span class="esp">acompañar; despedir (invitados, el verano/invierno...)</span><br>
+      <span class="star">☆</span> Вчера мы провожали подругу на вокзал. <span class="esp">Ayer estuvimos acompañando a una amiga a la estación de trenes.</span> <span class="star">☦</span> Проводил девушку до дома. <span class="esp">Acompañó a su novia hasta su casa.</span> <span class="star">☆</span> Проводить гостей. <span class="esp">Despedir a los invitados</span> (=going with them to the doorway) <span class="star">☦</span> Провожать лето с грустью. <span class="esp">Despedir el verano con tristeza.</span> <span class="star">☆</span> Приехали поп<span class="stress">ы</span>, короче, провожать оттуда, потому что мы засид<span class="stress">е</span>лись уже. <span class="esp">Llegaron unos curas/sacerdotes para hacernos salir porque ya nos habíamos quedado ahí mucho tiempo.</span>`,
+      inflection: `<span class="aspect">несов:</span> провож<span class="stress">а</span>ть <span class="aspect">сов:</span> провод<span class="stress">и</span>ть`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: 'провожать', url: 'https://ru.wiktionary.org/wiki/%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B6%D0%B0%D1%82%D1%8C' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: `总是<br>
+      <span class="pinyin">zǒngshì</span>
+      <span class="esp">siempre</span><br><br>
+      <span class="circle-word">幻</span> 他也总是跟我说... <span class="esp">Él también siempre me decía...</span> <span class="unpack">⟨WHERE</span> 跟我 is used with 说, because 说我 means "talk about me"<span class="unpack">⟩</span>`,
+      handwritten: `总是`,
+      traditional: `總是`,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: `我好喜欢我自己! <span class="esp">Me amo tanto a mí mismo! / Me amo un montón.</span>`,
+      handwritten: `我好喜欢我自己`,
+      traditional: `我好喜歡我自己`,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: `谁<br>
+      <span class="pinyin">shuí</span><br>
+      <span class="esp">quién?</span><br><br>
+      <span class="circle-word">着</span> 这个人是谁? <span class="esp">Quién es esta persona?</span> <span class="circle-word">时</span> 那个总是跟你说"明天做"的人是谁? <span class="pinyin">nàge zǒngshì gēn nǐ shuō "míngtiān zuò" de rén shì shuí</span> <span class="esp">Quién era el que siempre le decía a usted "mañana lo hago"?</span>`,
+      handwritten: `谁`,
+      traditional: `誰`,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: `是我吗? <span class="esp">Soy yo?</span> (=as in "quién? seré yo?)`,
+      handwritten: `是我吗?`,
+      traditional: `是我嗎?`,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: `肯定 vs. 一定<br>
+      <span class="pinyin">kěndìng vs. yīdìng</span><br>
+      <span class="esp">definitivamente, seguro, sí o sí, obvio; demás que..., lo más seguro es que...</span><br><br>
+      <span class="gold">肯定</span>means being 100% sure/certain. 一定 is an inference, similar to "must" in English to conclude something has to be true after looking at evidence. Probably 一定 is used a little bit more, but a bit less certain than 肯定<br>
+      <span class="circle-word">奥</span> 这么晚还不回消息, 她一定是睡着了 <span class="pinyin">zhème wǎng hái bù huí xiāoxi, tā yīdìng shì shuìzháo le</span> <span class="esp">Aún siendo tan tarde no me ha respondido, demás que ya se durmió.</span> <span class="unpack">⟨WHERE</span> 还 still/yet; 睡着 fall asleep<span class="unpack">⟩</span> <span class="circle-word">無</span>  他肯定知道答案, 只是不想说 <span class="pinyin">tā kěndìng zhīdào dáàn, zhǐshì bù xiǎng shuō</span> <span class="esp">Seguro/Obvio sabe la respuesta, sino que no la quiere decir.</span> <span class="unpack">⟨WHERE</span> 答案 answer/solution; 只是 its' just that<span class="unpack">⟩</span> <span class="circle-word">幽</span> 这个肯定不是我的<span class="pinyin">X</span> <span class="esp">X</span>`,
+      handwritten: `肯定 vs. 一定`,
+      traditional: `肯定 vs. 一定`,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
       inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
       russianImages: [
       'h',
