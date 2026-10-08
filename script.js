@@ -2118,7 +2118,16 @@
       { char: ' ', url: 'https://' },
       { char: ' ', url: 'https://' },
       ],
-      russian: `самооблад<span class="stress">а</span>ние/самоконтроль <span class="esp">autocontrol, calma, compostura</span>`,
+      russian: `самооблад<span class="stress">а</span>ние/самоконтроль <span class="esp">autocontrol, calma, compostura</span><br>
+      Совосочетания:<br>
+      -терять самообладание/самоконтроль <span class="esp">perder...</span><br>
+      -прояв<span class="stress">и</span>ть самообладание/самоконтроль <span class="esp">mostrar...</span><br>
+      -сохранять самообладание/самоконтроль <span class="esp">guardar...</span><br>
+      -обрест<span class="stress">и</span> самообладание/самоконтроль <span class="esp">recobrar/recuperar...</span> (книж.)<br>
+      -развив<span class="stress">а</span>ть самообладание/самоконтроль <span class="esp">desarrollar...</span>`,
+      inflection: `<span class="aspect">несов:</span> терять <span class="aspect">сов:</span> потерять
+      <span class="aspect">несов:</span> обрет<span class="stress">а</span>ть <span class="aspect">сов:</span> обрест<span class="stress">и</span>
+      <span class="aspect">несов:</span> развив<span class="stress">а</span>ть <span class="aspect">сов:</span> разв<span class="stress">и</span>ть`,
     },
     {
       chinese: ``,
@@ -3034,7 +3043,7 @@
       { char: ' ', url: 'https://' },
       ],
       russian: `в основном только <span class="or">или просто</span> в основном (also used in conversation) <span class="esp">sobretodo, en su mayoría</span>
-      <span class="star">☆</span> Я обычно тоже вино пью, в последнее время Киндзмараули в оснавном только. <span class="esp">Normalmente también tomo vino, últimamente Kindzmarauli sobretodo.</span>`,
+      <span class="star">☆</span> Я обычно тоже вино пью, в последнее время Киндзмараули в основном только. <span class="esp">Normalmente también tomo vino, últimamente Kindzmarauli sobretodo.</span>`,
       inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
       russianImages: [
       'https://',
@@ -3971,7 +3980,7 @@
       chinese: `经常 | 常 | 常常<br>
       <span class="pinyin">jīngcháng | cháng | chángcháng<pan><br>
       <span class="esp">con frecuencia, a menudo, bastante</span><br><br>
-      <span class="gold">常常</span> seems to be less common than just one 常, as the latter is enough and correct. To form the negative of 常常 is 不常. <span class="circle-word">曹</span> 然后她常常说的一句话是... <span class="pinyin">ránhòu tā chángcháng shuō de yī jù huà shì</span> <span class="esp">Y algo que él repetía era...</span> <span class="or">or</span> <span class="esp">...que decía bastante era...</span> <span class="unpack">⟨WHERE</span> 句 measure for sentences/lines<span class="unpack">⟩</span> <span class="circle-word">桥</span> 我不常那里 <span class="pinyin">wǒ bù cháng nàli</span> <span class="esp">No voy allá con frecuencia.</span><br><br>
+      <span class="gold">常常</span> seems to be less common than just one 常, as the latter is enough and correct. To form the negative of 常常, say 不常. <span class="circle-word">曹</span> 然后她常常说的一句话是... <span class="pinyin">ránhòu tā chángcháng shuō de yī jù huà shì</span> <span class="esp">Y algo que él repetía era...</span> <span class="or">or</span> <span class="esp">...que decía bastante era...</span> <span class="unpack">⟨WHERE</span> 句 measure for sentences/lines<span class="unpack">⟩</span> <span class="circle-word">桥</span> 我不常那里 <span class="pinyin">wǒ bù cháng nàli</span> <span class="esp">No voy allá con frecuencia.</span><br><br>
       <span class="gold">经常</span> is used more often in daily life, apparently, although this may not be sctrictly right. My thought is all three are used. It's also the adjective "common". <span class="circle-word">忠</span> 我经常乘巴士回家 <span class="pinyin">wǒ jīngcháng chéng bāshì huíjiā</span> <span class="esp">Normalmente me devuelvo para la casa en bus.</span> <span class="unpack">⟨WHERE</span> 乘 ride; 巴士 bus<span class="unpack">⟩</span> <span class="circle-word">禅</span> 在这个城市, 堵车是很经常的 <span class="pinyin">zài zhège chéngshì, dǔchē shì hěn jīngcháng de</span> <span class="esp">Los trancones son bastantes/comúnes en esta ciudad.</span>`,
       handwritten: `经常 | 常 | 常常`,
       traditional: `經常 | 常 | 常常`,
@@ -4814,7 +4823,8 @@
       chinese: `遍 vs. 次<br>
       <span class="pinyin">biàn vs. cì</span><br>
       <span class="esp">vez</span><br><br>
-      次 is a separate occasion, so each instance is a separate event, often at different times or places. While 遍 is when you repeat the same action from beginning to end, like rewatching, re-reading, relistening, redoing... <span class="circle-word">华</span> 你已经说了很多遍 <span class="pinyin">nǐ yǐjīng shuō le hěnduō biàn</span> <span class="esp">Ya lo repetido/dicho un montón de veces.</span> <span class="circle-word">春</span> 这个问题我问过很多次 <span class="pinyin">zhège wèntí wǒ wèn guò hěnduō cì</span> <span class="esp">He hecho la misma pregunta en muchas ocasiones.</span> <span class="circle-word">佛</span> 我玩儿二次 <span class="pinyin">wǒ wánr èr cì</span> <span class="esp">Lo he jugado en dos veces.</span> (=whether I beat the game or not is unknown) <span class="circle-word">悟</span> 我玩儿了一遍 <span class="pinyin">wǒ wánr le yī biàn</span> <span class="esp">Lo he jugado una vez.</span> (=I played it from start to finish) <span class="circle-word">霜</span> 这部电影我看了一次 <span class="pinyin">zhèbù diànyǐng wǒ kàn le yī cì</span> <span class="esp">Me he visto esa película una vez.</span> (using 遍 instead here in this example clearly denotes you watched the movie from start to finish.)`,
+      次 is a separate occasion, so each instance is a separate event, often at different times or places. While 遍 is when you repeat the same action from beginning to end, like rewatching, re-reading, relistening, redoing...<br>
+      <span class="circle-word">华</span> 你已经说了很多遍 <span class="pinyin">nǐ yǐjīng shuō le hěnduō biàn</span> <span class="esp">Ya lo he repetido/dicho un montón de veces.</span> <span class="unpack">⟨WHERE</span> 已经 already<span class="unpack">⟩</span> <span class="circle-word">春</span> 这个问题我问过很多次 <span class="pinyin">zhège wèntí wǒ wèn guò hěnduō cì</span> <span class="esp">He hecho la misma pregunta en muchas ocasiones.</span> <span class="circle-word">佛</span> 我玩儿二次 <span class="pinyin">wǒ wánr èr cì</span> <span class="esp">Lo he jugado en dos veces.</span> (=whether I beat the game or not is unknown) <span class="circle-word">悟</span> 我玩儿了一遍 <span class="pinyin">wǒ wánr le yī biàn</span> <span class="esp">Lo he jugado una vez.</span> (=I played it from start to finish) <span class="circle-word">霜</span> 这部电影我看了一次 <span class="pinyin">zhèbù diànyǐng wǒ kàn le yī cì</span> <span class="esp">Me he visto esa película una vez.</span> (using 遍 instead here in this example clearly denotes you watched the movie from start to finish.)`,
       handwritten: `遍 vs. 次`,
       traditional: `遍 vs. 次`,
       strokeOrderImages: [
@@ -5452,8 +5462,8 @@
       Side note: Russians don't differentiate between these since they're synonymous to each other, and there are few occasions where one cannot replace the other.<br><br>
       <span class="sickle">☭</span> греть <span class="esp">calentar (en general, de manera inespecífica)</span><br>
       <span class="star">☆</span> Луна св<span class="stress">е</span>тит, но не гр<span class="stress">е</span>ет. <span class="esp">La luna da luz/ilumina pero no calienta.</span> <span class="star">☦</span> Эта куртка вообще не греет. <span class="esp">Esta chaqueta no calienta nada.</span><br>
-      <span class="sickle">☭</span> нагр<span class="stress">е</span>ть <span class="esp">calentar (alcanzando una cierta temperatura), llevar a cierta temperatura</span> (разогреть масло is also used) (the most used one because it's broader)<br>
-      <span class="star">☆</span> Еб<span class="stress">а</span>ть, там масло так нагрели, что оно воспламен<span class="stress">и</span>лось, пиздец. <span class="esp">Ay marica, calentaron tanto el aceite que se encendió. Juemadre.</span> <span class="star">☦</span> Нагреть металл до высокой температуры. <span class="star">☆</span> Самый дешёвый способ нагреть бассейн. <span class="esp">La forma más barata de calentar una piscina.</span> <span class="star">☦</span> Нагрев<span class="stress">а</span>й пока металл не покрасн<span class="stress">е</span>ет. <span class="esp">Caliente el metal hasta que se enrojezca.</span> <span class="star">☆</span> Можно ли нагревать мёд? <span class="esp">La miel se puede calentar?</span><br>
+      <span class="sickle">☭</span> нагр<span class="stress">е</span>ть <span class="esp">calentar (alcanzando una cierta temperatura), llevar a cierta temperatura</span> (разогреть масло is also used) (the most used one because it's broader)<span class="esp">; estafar a alguien (con mentiras)</span> (=slang but not very common)<br>
+      <span class="star">☆</span> Еб<span class="stress">а</span>ть, там масло так нагрели, что оно воспламен<span class="stress">и</span>лось, пиздец. <span class="esp">Ay marica, calentaron tanto el aceite que se encendió. Juemadre.</span> <span class="star">☦</span> Нагреть металл до высокой температуры. <span class="star">☆</span> Самый дешёвый способ нагреть бассейн. <span class="esp">La forma más barata de calentar una piscina.</span> <span class="star">☦</span> Нагрев<span class="stress">а</span>й пока металл не покрасн<span class="stress">е</span>ет. <span class="esp">Caliente el metal hasta que se enrojezca.</span> <span class="star">☆</span> Можно ли нагревать мёд? <span class="esp">La miel se puede calentar?</span> <span class="star">☦</span> Меня нагрели. <span class="esp">Me estafaron.</span> <span class="star">☆</span> Меня нагрели на 5 тысяч. <span class="esp">Me tumbaron cinco mil.</span><br>
       <span class="sickle">☭</span> согр<span class="stress">е</span>ть <span class="esp">calentar (del frío con una cobija o estando adentro, normalmente las manos, los pies, el cuerpo, un animal...)</span><br>
       <span class="star">☆</span> В комнате было холодно и он согрелся. <span class="esp">Hacía frío en el cuarto, entonces se abrigó</span> <span class="star">☦</span> Как быстро согреть холодные ноги. <span class="star">☆</span> Моя пицца остыв<span class="stress">а</span>ла, и мой кот решил её согреть. <span class="esp">Mi pizza se estaba enfríando, así que mi gato decidió calentarla (=poniéndose él encima de la pizza para calentarla con el cuerpo).</span><br>
       <span class="sickle">☭</span> подогр<span class="stress">е</span>ть <span class="esp">calentar (un poquito o lo necesario para comer)</span> (used with food) (many times substituted by погреть, разогреть, and нагреть)
@@ -5463,13 +5473,18 @@
       <span class="sickle">☭</span> прогр<span class="stress">е</span>ть <span class="esp">calentar (el carro en época de invierno)</span><br>
       <span class="star">☆</span> Зимой перед поездкой надо прогревать/греть мотор/дв<span class="stress">и</span>гатель. <span class="esp">En época de invierno, antes de salir hay que calentar el motor.</span><br>
       <span class="sickle">☭</span> обогрев<span class="stress">а</span>ть <span class="esp">calentar/dar calefacción (a una casa)</span><br>
-      <span class="star">☆</span> Подв<span class="stress">а</span>л обогревался бурж<span class="stress-y">у</span>йкой. <span class="esp">El sótano se calentaba con una estufa.</span> <span class="star">☦</span> Существуют разные приборы, чтобы обогревать дом. <span class="star">☆</span> Этот дом обогревается газом/электричеством. <span class="esp">La calefacción en esta casa es con gas/electricidad.</span>`,
+      <span class="star">☆</span> Подв<span class="stress">а</span>л обогревался бурж<span class="stress-y">у</span>йкой. <span class="esp">El sótano se calentaba con una estufa.</span> <span class="star">☦</span> Существуют разные приборы, чтобы обогревать дом. <span class="star">☆</span> Этот дом обогревается газом/электричеством. <span class="esp">La calefacción en esta casa es con gas/electricidad.</span><br>
+      <span class="sickle">☭</span> отогр<span class="stress">а</span>ть <span class="esp">descongelar</span> (probably not too common, and used more often with frozen objects than with food)<br>
+      <span class="star">☆</span> Что будет если отогревать машину неправильно? <span class="star">☦</span> Замёрзшие руки нельзя оторевать горячей водой.<br>
+      <span class="sickle">☭</span> угреть (=нагреть) (=not used)<br>
+      <span class="sickle">☭</span> пригреть (=rarely used)`,
       inflection: `<span class="aspect">несов:</span> греть <span class="aspect">сов:</span> (any from below)
       <span class="aspect">несов:</span> нагрев<span class="stress">а</span>ть <span class="aspect">сов:</span> нагр<span class="stress">е</span>ть
       <span class="aspect">несов:</span> согрев<span class="stress">а</span>ть <span class="aspect">сов:</span> согр<span class="stress">е</span>ть
       <span class="aspect">несов:</span> подогрев<span class="stress">а</span>ть <span class="aspect">сов:</span> подогр<span class="stress">е</span>ть
       <span class="aspect">несов:</span> прогрев<span class="stress">а</span>ть <span class="aspect">сов:</span> прогр<span class="stress">е</span>ть
-      <span class="aspect">несов:</span> обогрев<span class="stress">а</span>ть <span class="aspect">сов:</span> обогр<span class="stress">е</span>ть`,
+      <span class="aspect">несов:</span> обогрев<span class="stress">а</span>ть <span class="aspect">сов:</span> обогр<span class="stress">е</span>ть
+      <span class="aspect">несов:</span> отогревать <span class="aspect">сов:</span> отогреть`,
       russianImages: [
       'h',
       'h'
@@ -5481,6 +5496,7 @@
       { char: 'подогревать', url: 'https://ru.wiktionary.org/wiki/%D0%BF%D0%BE%D0%B4%D0%BE%D0%B3%D1%80%D0%B5%D0%B2%D0%B0%D1%82%D1%8C' },
       { char: 'прогревать', url: 'https://ru.wiktionary.org/wiki/%D1%80%D0%B0%D0%B7%D0%BE%D0%B3%D1%80%D0%B5%D0%B2%D0%B0%D1%82%D1%8C' },
       { char: 'обогревать', url: 'https://ru.wiktionary.org/wiki/%D0%BE%D0%B1%D0%BE%D0%B3%D1%80%D0%B5%D0%B2%D0%B0%D1%82%D1%8C#%D0%BE%D0%B1%D0%BE%D0%B3%D1%80%D0%B5%D0%B2%D0%B0%CC%81%D1%82%D1%8C' },
+      { char: 'отогревать', url: 'https://ru.wiktionary.org/wiki/%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B5%D0%B2%D0%B0%D1%82%D1%8C' },
       ],
     },
     {
@@ -5803,12 +5819,13 @@
       ],
     },
     {
-      chinese: `以前<br>
-      <span class="pinyin">yǐqián</span><br>
+      chinese: `以前 vs. 之前<br>
+      <span class="pinyin">yǐqián vs. zhīqián</span><br>
       <span class="esp">antes</span><br><br>
+      <span class="gold">以前</span> is used for an indefinite time in the past, like "back in the old days", while <span class="gold">之前</span> is for specific events, like "before going to bed".<br>
       <span class="circle-word">层</span> 因为以前我总是觉得... <span class="pinyin">yīnwèi yǐqián wǒ zǒngshì juéde...</span> <span class="esp">Porque (antes) siempre pensaba...</span>`,
-      handwritten: `以前`,
-      traditional: `以前`,
+      handwritten: `以前 vs. 之前`,
+      traditional: `以前 vs. 之前`,
       strokeOrderImages: [
       'h',
       'h'
@@ -5837,9 +5854,334 @@
       { char: ' ', url: 'h' },
       ],
     },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">sighting</span> ☜ <span class="esp">avistamiento</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">Lithuania /ˌlɪθuˈeɪniə/ says drone sighting turns out to be a flock of birds, after NATO summons jets.</span> <span class="skull">☠︎︎</span> <span class="example">UFO sightings no one can explain.</span> <span class="skull">☠︎︎</span> <span class="example">Ohio sees a cluster of (=<span class="esp">una serie de</span>) Bigfoot sighting reports within a three-day span.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">take someone in; shelter someone</span> ☜ <span class="esp">acoger a alguien (dar techo); dar refugio</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">The family took the orphaned /ˈɔːr.fənd/ boy in.</span> <span class="skull">☠︎︎</span> <span class="example">The country shelters refugees.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `заказать <span class="esp">pedir (hacer una orden)</span> (universal)<br>
+      оформить зак<span class="stress">а</span>з (bit formal, used for online shopping)<br>
+      сделать зак<span class="stress">а</span>з (restaurant)<br><br>
+      <span class="sickle">☭</span> Ways to order food at a restaurant. Russians like to add добрый день and/or пожалуйста.<br>
+      -Дайте пожалуйста вот это/вот хлеб/вот этот [food item].<br>
+      -Здравствуйте, можно мне, пожалуйста, одну б<span class="stress-y">у</span>лочку. (see img below)<br>
+      -[any of the above] вот это *pointing at it through the glass<br>
+      -Можно мне эту б<span class="stress-y">у</span>лку, пожалуйста.<br>
+      -Мне вот такую б<span class="stress-y">у</span>лочку.<br> (probably adds a bit more specification on the kinda of bun you want)
+      -Малччик, [name of dish] нам принеси.<br>
+      -Я бы хотел [name of dish].`,
+      inflection: `<span class="aspect">несов:</span> зак<span class="stress">а</span>зывать <span class="aspect">сов:</span>заказ<span class="stress">а</span>ть`,
+      russianLinks: [
+      { char: 'заказывать', url: 'https://ru.wiktionary.org/wiki/%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%8B%D0%B2%D0%B0%D1%82%D1%8C' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `Будь (так) добр/люб<span class="stress">е</span>зен, .... <span class="esp">Podría ser tan amable de...?</span><br>
+      люб<span class="stress">е</span>зен/люб<span class="stress">е</span>зна/люб<span class="stress">е</span>зны is the most formal option; used with strangers, officials, or in writing.<br>
+      Another way to phrase it is Не мог бы ты...?`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `<u>По</u> интонации в конце уже стало понятно, что ей стало понятно, <u>какой он тупой</u> — она прямо так и говорит "да лаааднооо". <span class="esp">Por la entonación al final se ve que ella se da cuenta lo tonto que es. Ella literalmente es como "(Es) en serio??"</span>`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: `你这样很好<br>
+      <span class="pinyin">nǐ zhè yàng hěn hǎo</span><br>
+      <span class="esp">Estás bien como eres (físicamente) / Está bien cómo lo estás haciendo. / Cómo lo estás haciendo, vas bien.</span>`,
+      handwritten: `你这样很好`,
+      traditional: `你這樣很好`,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: `漂亮<br>
+      <span class="pinyin">piàoliàng</span><br>
+      <span class="esp">bonita, hermosa</span>`,
+      handwritten: `漂亮`,
+      traditional: `票聯`,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: `但是就这几年<br>
+      <span class="pinyin">dànshì jiù zhè lǐ nián</span><br>
+      <span class="esp">Pero es en estos últimos años</span><br><br>
+      <span class="gold">就</span> here means "just/only/as few as" emphasizing that a quantity or amount is small or limited. So, the sentence above can be translated as "Pero <u>solamente</u> / Pero <u>es (solo)</u> en estos (últimos) años". It can go with 只, or be replaced by it, but 就 is more casual/informal.<br>
+      <span class="circle-word">幻</span> 就只剩下这一个了! <span class="pinyin">jiùzhǐ shèngxià zhè yīgè le</span> <span class="esp">Solamente queda uno!</span> <span class="circle-word">仙</span> 就我一个人 <span class="esp">Soy el único / Solo quedo yo.</span>`,
+      handwritten: `但是就这几年`,
+      traditional: `但是就這幾年`,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: `剩下 vs. 剩<br>
+      <span class="pinyin">shèngxià vs. shèng</span><br>
+      <span class="esp">quedar; faltante</span><br><br>
+      When used as a verb, 剩下 or just 剩 are used. When used as an adjective, the right way is 剩下的<br>
+      <span class="circle-word">福</span> 全部都吃完, 别剩下 / 別剩 <span class="pinyin">quánbù dōu chī wán, bié shèngxià</span> <span class="esp">Cómaselo todo, no deje sobrados.</span> <span class="unpack">⟨WHERE</span> 全部 entire/whole; 完 finish (doing sth)<span class="unpack">⟩</span> <span class="circle-word">寿</span> 班里就剩下我了 / 班里就剩我了 <span class="pinyin">bān lǐ jiù shèng(xià) wǒ le</span> <span class="esp">Sólo quedé yo en la clase.</span> <span class="circle-word">康</span> 剩下的我来做吧 <span class="pinyin">shèngxiàde wǒ lái zuò ba</span> <span class="esp">Yo hago el restante/lo que falta.</span> <span class="unpack">⟨WHERE</span> 来 adds a sense of stepping up, volunteering, or taking initiative — without it, it sounds like a dry general fact; 吧 adds a sensen of suggestion or offer.<span class="unpack">⟩</span>`,
+      handwritten: `剩下 vs. 剩`,
+      traditional: `剩下 vs. 剩`,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `шибко`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
   ];
 
-  // ---------- state состояние 满 ----------
+  // ---------- state френия 满 ----------
   let cards = [];
   let currentIndex = 0;
   let searchMode = false;
