@@ -8,7 +8,7 @@
       <span class="lit"><span class="zh3">you</span> yesterday<span class="zh3"> evening</span> do-what<span class="zh3">-go</span> [past tense marker]</span><br>
       <span class="esp">Qué se fue ud. a hacer anoche?</span> <br><br>
       <span class="gold">去干嘛?</span> means "a qué? / qué necesita hacer allá?", but depending on the context, it can also mean "a qué va a ir (a hacer) ud. allá?" showing confusion or annoyance. For example, someone says they're going to attend a meeting, but you point out that the meeting is intended for managers, and ask why they're going, like questioning. Now, asking "你干嘛去了?" means why the person wasn't at the place you think they should be, like "dónde se metió usted?" with a "qué hace/está haciendo?" feeling. <span class="circle-word">道</span> —你干嘛去了? —我刚才去门口接了个电话 <span class="esp">—Dónde estaba? —Salí a la puerta a contestar una llamada.</span> <span class="circle-word">望</span> —我去趟银行 —(你)去干嘛? (or "去[place]干嘛?)<span class="esp"> —Voy ir al banco —A qué?</span><br>
-      🧧 你干嘛呢? is a casual way to say "qué hace/está haciendo?". Simply "干嘛呢?" is an informal greeting (呢 <span class="pinyin">ne</span> is a softener). <span class="circle-word">德</span> —干嘛呢? —没干嘛, 咋了(什么事)? <span class="esp">—Qué más?/Qué está haciendo? —Nada. Qué?/Qué pasó?</span> <span class="circle-word">着</span> —干嘛呢? —我吃饭呢 <span class="esp">—Qué está haciendo? —Comiendo. Qué?/Qué pasó?</span> 🧧 干嘛? is very informal to genuinely ask "what are you doing?", that's why using the softener 呢 is advisable. But with the right tone, it can be a confrontational "what? what's the matter?" when someone's being annoying. When someone calls your name, you can respond with a "干嘛?" among friends or more politely "怎么了? / 什么事?"`,
+      🧧 你干嘛呢? is a casual way to say "qué hace/está haciendo?". Simply "干嘛呢?" is an informal greeting (呢 <span class="pinyin">ne</span> is a softener). <span class="circle-word">德</span> —干嘛呢? —没干嘛, 咋了(什么事)? <span class="pinyin">—gànmá ne —méi gànmá, zǎ le (shénme shì)?</span> <span class="esp">—Qué más?/Qué está haciendo? —Nada. Qué?/Qué pasó?</span> <span class="circle-word">着</span> —干嘛呢? —我吃饭呢 <span class="esp">—Qué está haciendo? —Comiendo.</span> <span class="unpack">⟨WHERE</span> 呢 conversational marker for ongoing actions<span class="unpack">⟩</span> 🧧 干嘛? is very informal to genuinely ask "what are you doing?", that's why using the softener 呢 is advisable. But with the right tone, it can be a confrontational "what? what's the matter?" when someone's being annoying. When someone calls your name, you can respond with a "干嘛?" among friends or more politely "怎么了? / 什么事?"`,
       handwritten: `<span class="handwritten">你昨天晚上干嘛去了？</span><br>`,
       traditional: `你昨天晚上<span class="trad">幹</span>嘛去了？`,
       strokeOrderImages: [
@@ -2042,7 +2042,7 @@
       { char: ' ', url: 'https://' },
       { char: ' ', url: 'https://' },
       ],
-      russian: `идут сп<span class="stress">о</span>ры о... <span class="esp">hay discusiones sobre...</span><br><span class="star">☆</span> На протяж<span class="stress">е</span>ние десятилетий идут споры о способности северокорейского промышленности нал<span class="stress">а</span>дить регулярный процесс обогащения урана и производства оружейного плутония. <span class="esp">Desde hace décadas hay discusiones sobre la capacidad de la industria norcoreana de mantener un proceso estable de enriquecimiento de uranio y producción de plutonio para sus armas.</span>`,
+      russian: `идут сп<span class="stress">о</span>ры о... <span class="esp">hay discusiones sobre...</span><br><span class="star">☆</span> На протяж<span class="stress">е</span>ние десятилетий идут споры о способности северокорейского пром<span class="stress">ы</span>шленности нал<span class="stress">а</span>дить регулярный процесс обогащения урана и производства оружейного плутония. <span class="esp">Desde hace décadas hay discusiones sobre la capacidad de la industria norcoreana de mantener un proceso estable de enriquecimiento de uranio y producción de plutonio para sus armas.</span>`,
     },
     {
       chinese: ``,
@@ -4469,6 +4469,7 @@
       <span class="pinyin">kěndìng vs. yīdìng</span><br>
       <span class="esp">definitivamente, seguro, sí o sí, obvio; demás que..., lo más seguro es que...</span><br><br>
       <span class="gold">肯定</span> means being 100% sure/certain. 一定 is an inference, similar to "must" in English to conclude something has to be true after looking at evidence. Probably 一定 is used a little bit more, but a bit less certain than 肯定. Also, 肯定 can mean "be sure".<br>
+      不一定 means "not necessarily".<br>
       <span class="circle-word">奥</span> 这么晚还不回消息, 她一定是睡着了 <span class="pinyin">zhème wǎng hái bù huí xiāoxi, tā yīdìng shì shuìzháo le</span> <span class="esp">Aún siendo tan tarde no me ha respondido, demás que ya se durmió.</span> <span class="unpack">⟨WHERE</span> 还 still/yet; 睡着 fall asleep<span class="unpack">⟩</span> <span class="circle-word">無</span>  他肯定知道答案, 只是不想说 <span class="pinyin">tā kěndìng zhīdào dá'àn, zhǐshì bù xiǎng shuō</span> <span class="esp">Seguro/Obvio sabe la respuesta, sino que no la quiere decir.</span> <span class="unpack">⟨WHERE</span> 答案 answer/solution; 只是 its' just that<span class="unpack">⟩</span> <span class="circle-word">幽</span> 这个肯定不是我的 <span class="esp">Ese definitivamente no soy yo.</span> <span class="circle-word">感</span> 我一定去 <span class="esp">Seguro que voy.</span> <span class="circle-word">世</span> 我一定帮你 <span class="pinyin">wǒ yīdìng bāng nǐ</span> <span class="esp">Claro/Por supuesto que te ayudo.</span> <span class="circle-word">自</span> 我肯定 <span class="esp">Estoy seguro.</span>`,
       handwritten: `肯定 vs. 一定`,
       traditional: `肯定 vs. 一定`,
@@ -4975,7 +4976,7 @@
       { char: ' ', url: 'h' },
       ],
       russian: `протрезв<span class="stress">е</span>ть <span class="esp">quitarse la borrachera, estar sobrio otra vez</span><br>
-      <span class="star">☆</span> По щелк<span class="stress-y">у</span> п<span class="stress">а</span>льцев протрезветь невозможно. <span class="esp">Es imposible quitarse la borrachera con un chasquido de dedos.</span> <span class="star">☦</span> Он ещё долго не мог протрезветь. span class="esp">Hace rato que no ha podido quitarse la borrachera.</span>`,
+      <span class="star">☆</span> По щелк<span class="stress-y">у</span> п<span class="stress">а</span>льцев протрезветь невозможно. <span class="esp">Es imposible quitarse la borrachera con un chasquido de dedos.</span> <span class="star">☦</span> Он ещё долго не мог протрезветь. <span class="esp">Hace rato que no ha podido quitarse la borrachera.</span>`,
       inflection: `<span class="aspect">несов:</span> трезв<span class="stress">е</span>ть <span class="aspect">сов:</span> протрезв<span class="stress">е</span>ть`,
       russianImages: [
       'h',
@@ -5310,7 +5311,7 @@
       chinese: `一点点<br>
       <span class="pinyin">yīdiǎndiǎn</span><br>
       <span class="esp">un poquito, ligeramente</span><br><br>
-      一点儿 and 一点点儿 are the Beijing (norhtern) version, probably the first one is the most common one.
+      一点儿 and 一点点儿 are the Beijing (northern) version, probably the first one is the most common one.
       <span class="circle-word">大</span> 可能有一点点不一样 <span class="pinyin">kěnéng yǒu yīdiǎndiǎn bùyīyàng</span> <span class="esp">Puede que haya una pequeña diferencia.</span> <span class="unpack">⟨WHERE</span> 有 + degree + 不一样 is a structure<span class="unpack">⟩</span>`,
       handwritten: `一点点`,
       traditional: `一點點`,
@@ -6168,7 +6169,310 @@
       { char: ' ', url: 'h' },
       { char: ' ', url: 'h' },
       ],
-      russian: `шибко`,
+      russian: `не ш<span class="stress">и</span>бко <span class="esp">no ser muy, no ser particularmente X, no ser exactamente X</span><br>
+      Its negative form is far more common than the positive шибко, and it's used for a slightly ironic or dismissive tone. Even though не шибко is used, it may still have a stylistically odd feel because it's associated with older literature or regional speech, so не очень and не слишком are the go-to alternatives. Besides, шибко means "fast/quickly" in old literature.<br>
+      <span class="star">☆</span> Да она тоже не шибко умная. <span class="esp">Pero ella tampoco es que sea muy inteligente.</span> <span class="star">☦</span> Дом был не шибко болшим. <span class="esp">La casa no era realmente grande.</span> <span class="star">☆</span> Он не шибко умён. <span class="esp">Él no es muy inteligente.</span>`,
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `раз <span class="esp">ya que..., si (pasó así), como (pasó/pasa así), puesto que...</span><br>
+      <span class="star">☆</span> Да она тоже не шибко умная, раз не могла ему сказать прямо. <span class="esp">Pero ella tampoco es que sea muy inteligente — si no pudo decirle de frente/de una.</span> <span class="star">☦</span> Раз пришёл, оставайся. <span class="esp">Ya que vino, quédese.</span> <span class="star">☆</span> Раз так — я ухож<span class="stress-y">у</span>. <span class="esp">Si es así, me voy.</span>`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: `完了 vs. 好了<br>
+      <span class="pinyin">wánle vs. hǎole</span><br>
+      <span class="esp">terminar (de hacer algo); hecho</span><br><br>
+      They're interchangeable in most cases, even though there's a certain regional preferences or distinction. <span class="gold">完了</span> seems to express something is fully done regardless of the quality or thoroughness, while <span class="gold">好了</span> conveys not only completion but also meeting some sort of quality expectation.<br>
+      <span class="circle-word">风</span> 写完了 / 写好了 <span class="pinyin">xiě wánle / xiě hǎole<span> <span class="esp">Terminé de hacer la tarea.</span> <span class="unpack">⟨WHERE</span> 写完了 is preferred in certain regions<span class="unpack">⟩</span> <span class="circle-word">中</span> 我们没吃完 <span class="esp">No terminamos de comer/No comimos todo.</span> <span class="unpack">⟨WHERE</span> 没 cancels 了; Hinative users say using either 完 or 好 is totally fine, but another user says it's incorrect — I think it's fine, but 好 adds that "done carefully and meticulously" flavour when needed.<span class="unpack">⟩</span>`,
+      handwritten: `完了 vs. 好了`,
+      traditional: `完了 vs. 好了`,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: `漂亮 vs. 美丽<br>
+      <span class="pinyin">piàoliàng vs. měilì</span><br>
+      <span class="esp">bonita, hermosa</span> (apariencia) <span class="esp">; bonito, bien hecho</span><br><br>
+      Both words are used to describe, view, flowers, etc. The frequency of use of both options is almost the same. Apparently, <span class="gold">漂亮</span> is more used in spoken Chinese to describe people's appearance and say something was well done, and <span class="gold">美丽</span> for scenes, but they're quite interchangeable. Neither is used for men, they're for women, but 漂亮 is also for kids (boys and girls). 美丽 has a heavier weight of 'beauty' and a deeper nonmaterialistic quality.<br>
+      <span class="circle-word">悟</span> 你很漂亮 <span class="circle-word">铸</span> 这间房子很漂亮/美丽 <span class="pinyin">zhèjiān fángzi hěn piàoliàng/měilì</span> <span class="esp">Esta casa es hermosa.</span> <span class="unpack">⟨WHERE</span> 间 classifier for rooms<span class="unpack">⟩</span> <span class="circle-word">鼎</span> 今天我的心请很不美丽 <span class="pinyin">jīntiān wǒ de xīnqíng hěn bù měilì</span> <span class="esp">Hoy estoy de mal humor.</span> <span class="unpack">⟨WHERE</span> 心情 mood<span class="unpack">⟩</span> <span class="circle-word">末</span> 漂亮的进球 <span class="pinyin">piàoliàng de jìnqiú</span> <span class="esp">Qué golazo!</span> <span class="circle-word">本</span> 漂亮! <span class="esp">Bien! / Uy, qué jugada!</span> (=when a player does a nice trick in sports or videogames) <span class="circle-word">终</span> 美丽的风景 <span class="pinyin">měilì de féngjǐng</span> <span class="esp">Un lindo paisaje.</span> <span class="circle-word">光</span> 做得漂亮 <span class="esp">Bien hecho!</span> <span class="circle-word">露</span> 她的心灵很美丽 <span class="pinyin">tā de xīnlíng hěn měilì</span> <span class="esp">Ella tiene un corazón inmenso.</span>`,
+      handwritten: `漂亮 vs. 美丽`,
+      traditional: `漂亮 vs. 美麗`,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `ходить вокр<span class="stress-y">у</span>г да <span class="stress">о</span>коло <span class="esp">andar con rodeos</span><br>
+      = Изб<span class="stress">е</span>гать точного ответа.<br>
+      <span class="star">☆</span> Она не могла ему сказать прямо, а ходила вокруг да около с намёками. <span class="esp">No fue capaz de decirle de frente y andaba con vueltas e indirectas.</span> <span class="star">☦</span> Не буду ходить вокруг да около... Я встретила мужчину. <span class="star">☆</span> Пол<span class="stress">и</span>тик пытался ходить вокруг да около во время интервью.`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `Да в целом если он тупой, <u>почему бы не</u> снять прикольный вид<span class="stress">о</span>сик?<br>
+      <span class="esp">Pues igual si él es un bobo, por qué no grabar un video chistoso?</span><br><br>
+      <span class="sickle">☭</span> It seems like да adds that flavour of "well / I mean" according to AI. My take is that да here can be replaced by но.<br>
+      Meanings of да:<br>
+      -To replace "and" (probably a bit uncommon) and "but", as in "Дед да баба" (=un viejo y una vieja), and "Маленький, да уд<span class="stress">а</span>ленький" (=pequeño pero peligroso).<br>
+      -`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: `这个play打得漂亮 | 这球打的漂亮<br>
+      <span class="pinyin">zhègè</span> play <span class="pinyin">dǎ de piàoliàng | zhège qiúdǎ de piàoliàng<span><br>
+      <span class="esp">Qué jugada más bonita. | Fue un muy buen tiro.</span>`,
+      handwritten: `这个play打得漂亮 | 这球打的漂亮`,
+      traditional: `這個Play打得漂亮 | 這球打的漂亮`,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: `我的生活很精彩 or 我的生活很多彩<br>
+      <span class="pinyin">wǒ de shēnghuó hěn jīngcǎi</span> or <span class="pinyin">...duōcǎi</span><br>
+      <span class="esp">Tengo una vida maravillosa</span><br><br>
+      <span class="gold">精彩</span> = wonderful<br>
+      <span class="gold">多彩</span> = colorful`,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: `Ways to say "bien" other than 好:
+      🧧 挺好的 <span class="pinyin">tǐng hǎo de</span> is "quite good" = "bastante bien"<br>
+      🧧 还行 <span class="pinyin">háixíng</span> or 还可以 <span class="pinyin">háikěyǐ</span> are the equivalent of "ok/not too bad", like, just average or tolerable = bien, ahí<br>
+      🧧 牛逼 (can come across as vulgar) <span class="pinyin">níubī</span> = amazing, that was sick, bad-ass = qué chimba!<br>
+      <span class="circle-word">般</span> 你也太牛逼了, 中文考试得了100分 <span class="pinyin">nǐ yě táitài niúníubī le, zhōngwén kǎoshì de le fēn</span> <span class="esp">Qué chimba, sacó 100 en el examen de chino.</span> <span class="circle-word">善</span> 牛逼! 你还懂英语啊 <span class="pinyin">níubī, nǐ hái dǒng yīngyǔ a</span> <span class="esp">Qué chimba! Hasta sabe inglés.</span>`,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: 'Reddit post', url: 'https://www.reddit.com/r/ChineseLanguage/comments/z9793p/5_ways_to_say_good_in_chinese_other_than_hao/' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">wrapping paper / gift wrap</span> ☜ <span class="esp">papel regalo</span><br>
+      "Wrapping paper" is more used according to Ngram.<br>
+      <span class="skull">☠︎︎</span> <span class="example">Which brand has the best quality wrapping paper?</span>`,
+      englishImages: [
+      'https://resourceboy.com/wp-content/uploads/2025/09/wrapping-paper-box-mockup-1.jpg',
+      ],
+      russian: ``,
       inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
       russianImages: [
       'h',
@@ -6181,7 +6485,7 @@
     },
   ];
 
-  // ---------- state френия 满 ----------
+  // 满 ---------- state френия ----------
   let cards = [];
   let currentIndex = 0;
   let searchMode = false;
