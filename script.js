@@ -2776,15 +2776,20 @@
       { char: ' ', url: 'https://' },
       ],
       russian: `нам<span class="stress">е</span>рение (нейтрально) <span class="esp">intención</span><br>
-      <span class="stress-y">у</span>мысел (часто негативно) <span class="esp">(mala) intención</span>`,
+      <span class="stress-y">у</span>мысел (часто негативно) <span class="esp">(mala) intención</span><br><br>
+      <span class="sickle">☭</span> The declension of умысел in plural drops the letter "е":<br>
+      <span class="stress-y">у</span>мыслы<br>
+      <span class="stress-y">у</span>мыслов<br>
+      <span class="stress-y">у</span>мыслам<br>
+      <span class="stress-y">у</span>мыслами<br>
+      <span class="stress-y">у</span>мыслах`,
       inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
       russianImages: [
       'https://',
       'https://'
       ],
       russianLinks: [
-      { char: ' ', url: 'https://' },
-      { char: ' ', url: 'https://' },
+      { char: 'склонение слова "умысел"', url: 'https://ru.wiktionary.org/wiki/%D1%83%D0%BC%D1%8B%D1%81%D0%B5%D0%BB' },
       ],
     },
     {
@@ -6817,10 +6822,10 @@
     },
     {
       chinese: `这几年<br>
-      <span class="pinyin">zhè jǐnián</span><br>
+      <span class="pinyin">zhè jǐ nián</span><br>
       <span class="esp">estos (últimos) años</span><br><br>
-      <span class="circle-word">天</span> 这几年我存了些钱 <span class="pinyin">zhè jǐnián wǒ cún le xiē qián</span> <span class="esp">He ahorrado algo de dinero estos años.</span><br>
-      🧧 There's a formal version of this, which is 近几年 <span class="pinyin">jìn jǐnián</span>, and it's normally used for more serious things, like describing social phenomena.`,
+      <span class="circle-word">天</span> 这几年我存了些钱 <span class="pinyin">zhè jǐ nián wǒ cún le xiē qián</span> <span class="esp">He ahorrado algo de dinero estos años.</span><br>
+      🧧 There's a formal version of this, which is 近几年 <span class="pinyin">jìn jǐ nián</span>, and it's normally used for more serious things, like describing social phenomena.`,
       handwritten: `这几年`,
       traditional: `這幾年`,
       strokeOrderImages: [
@@ -6855,7 +6860,9 @@
       chinese: `难<br>
       <span class="pinyin">nán</span><br>
       <span class="esp">difícil</span><br><br>
-      <span class="circle-word">命</span> X<span class="pinyin">X</span> <span class="esp">X</span>`,
+      To say "me cuesta/me es difícil", use 我很难 + verb.<br>
+      <span class="circle-word">命</span> 我觉得中文其实没有那么难 <span class="pinyin">wǒ juéde zhōngwén qíshí méi yǒu nàme nán</span> <span class="esp">Creo que el chino no es tan difícil, la verdad</span> <span class="unpack">⟨WHERE</span> 其实 actually; 难 difficult/difficulty<span class="unpack">⟩</span> <span class="circle-word">德</span> 我很难有这种感觉 <span class="pinyin">wǒ hěn nán zhèzhǒng gǎnjué</span> <span class="esp">Se me dificulta sentirme así.</span> <span class="or">or</span> <span class="esp">Me es difícil tener esa sensación.</span> <span class="circle-word">易</span> 这话题怎么这么难啊? <span class="pinyin">zhè huàtí zěnme zhème nán a?</span> <span class="esp">Pero este tema por qué es tan difícil?</span> <span class="circle-word">性</span> 天哪这个游戏很难 <span class="pinyin">tiānna zhègè yóuxì hěn nán</span> <span class="esp">Ay dios mío, este juego es todo difícil.</span><br>
+      🧧 There's 困难 <span class="pinyin">kùnnán</span> with the same meaning, but it's formal. Also, 困难 is the noun (=difficulty), while 难 is only an adjective.`,
       handwritten: `难`,
       traditional: `難`,
       strokeOrderImages: [
@@ -6962,7 +6969,332 @@
       { char: ' ', url: 'h' },
       ],
       russian: `для начала <span class="esp">para empezar, primero</span><br>
-      <span class="star">☆</span> Рецепт бы хотя бы для начала посмотрел. <span class="esp">Hubiera al menos visto una receta primero/para empezar.</span>`,
+      <span class="star">☆</span> Рецепт бы <u>хотя бы</u> для начала посмотрел. <span class="esp">Hubiera <u>al menos</u> visto una receta primero/para empezar.</span>`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `общ<span class="stress">е</span>ственный <span class="esp">público</span><br>
+      <span class="star">☆</span> Мы были в общественном парке.`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `бес<span class="stress">е</span>дка <span class="esp">kiosko, choza (en un parque)</span><br>
+      <span class="star">☆</span> В летний вечер мы решили поужинать в беседке. <span class="esp">En una tarde veraniega/de verano, decidimos cenar en un kiosko.</span>`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'https://ruspark.ru/upload/iblock/a05/6uklwi9emnzer4wu4guhfmvd0jwp2ypm.jpg',
+      'https://bilet.mos.ru/upload/newsfeed/afisha/508a40a20be85d7568a2d20d58e859e0/share-photo-19233895955.jpg'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `пережд<span class="stress">а</span>ть дождь <span class="esp">escampar</span><br>
+      <span class="star">☆</span> Переждал дождь под д<span class="stress">е</span>ревом. <span class="esp">Escampé debajo de un árbol.</span>`,
+      inflection: `<span class="aspect">несов:</span> пережид<span class="stress">а</span>ть <span class="aspect">сов:</span> пережд<span class="stress">а</span>ть`,
+      russianLinks: [
+      { char: 'пережидать', url: 'https://ru.wiktionary.org/wiki/%D0%BF%D0%B5%D1%80%D0%B5%D0%B6%D0%B8%D0%B4%D0%B0%D1%82%D1%8C' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `несколько (a bit more formal) <span class="esp">algo, un poco</span><br>
+      <span class="star">☆</span> Он был несколько удивлён. <span class="esp">Estuvo un poco sorprendido.</span> <span class="star">☦</span> Это решение в<span class="stress">ы</span>глядело несколько странно. <span class="esp">La decisión pareció un poco extraña.</span>`,
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `ор<span class="stress">е</span>х <span class="esp">nuez</span><br>
+      минд<span class="stress">а</span>ль <span class="esp">almendra</span><br>
+      ар<span class="stress">а</span>хис <span class="esp">maní</span><br>
+      к<span class="stress">е</span>шью <span class="esp">marañón</span> (fig. 1)<br>
+      грецкий ор<span class="stress">е</span>х <span class="esp">nuez de nogal</span> (fig. 2)<br>
+      фист<span class="stress">а</span>шка <span class="esp">pistacho</span><br>
+      бразильский ор<span class="stress">е</span>х <span class="esp">nuez de Brasil</span><br>
+      фунд<span class="stress-y">у</span>к <span class="esp">avellana</span> (fig. 3)<br>
+      пек<span class="stress">а</span>н <span class="esp">nuez pecana</span> (fig. 4)`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBwo7pBokQgaTLIvb7eK44q1qP2Uv5ei7cuLLhmYeFMMqcKrYamy9EyY17&s=10',
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdEZZQWmhw85yQmIWb6N8JHUUvYEi-6PxpAci4CAoYfyxeOQsWrTJZCrc&s=10',
+      'https://ecofood.in.ua/image/cache/catalog/i/pg/po/d740496f0afe8b6d832882c1e4b55798-800x800.jpg',
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWu5z5jiA1ux5yT7O5rvCxP9f45vmSav-8HHzU7DLU5547nQk2-p0gWhs&s=10',
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `(А) я еб<span class="stress-y">у</span>, (что ли)? = Я не еб<span class="stress-y">у</span> <span class="esp">Y yo qué putas voy a saber? / No tengo ni puta idea</span><br>
+      <span class="star">☆</span> Я не ебу, как такую картошку готовить. <span class="esp">No tengo ni puta idea cómo cocinar esas papas.</span><br>
+      <span class="sickle">☭</span> Saying "Я не ебу эту тёлку" may mean "Yo no me estoy culiando a esa vieja", but in the right context, it means "No entiendo a esa vieja".`,
+      inflection: `<span class="aspect">несов:</span> еб<span class="stress">а</span>ть`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: 'ебать', url: 'https://ru.wiktionary.org/wiki/%D0%B5%D0%B1%D0%B0%D1%82%D1%8C' },
+      { char: 'That "girl and her grandpa" story', url: 'https://www.reddit.com/r/russian/comments/jccy6z/magic_of_the_russian_language/' },
+      { char: 'Uses of ебать', url: 'https://www.reddit.com/r/russian/comments/i8ajbt/about_%D0%B5%D0%B1%D0%B0%D1%82%D1%8C_and_all_its_meanings/' },
+      ],
+    },
+    {
+      chinese: `决定<br>
+      <span class="pinyin">juédìng</span><br>
+      <span class="esp">decisión</span><br><br>
+      <span class="circle-word">学</span> 我很难做出一个决定 <span class="pinyin">wǒ hěn nán zuòchū yī gè juédìng</span> <span class="esp">Me cuesta llegar una decisión.</span> <span class="unpack">⟨WHERE</span> 做决定 is the process of making a decision, and 做出决定 is "arriving at a decision"<span class="unpack">⟩</span>`,
+      handwritten: `决定`,
+      traditional: `決定`,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: `真的<br>
+      <span class="pinyin">zhēnde</span><br>
+      <span class="esp">en serio, de verdad; sí? / en serio?</span><br><br>
+      <span class="circle-word">物</span> 我告诉你的那个故事是真的 <span class="pinyin">wǒ gàosù nǐ de nàgè gùshì shì zhēnde</span> <span class="esp">La/Esa historia que yo le conté es en serio.</span> <span class="circle-word">鼎</span> 那部电影真的很好看 <span class="pinyin">nàbù diànyǐng zhēnde hěn hǎo kàn</span> <span class="esp">Esa película en serio que es muy buena.</span> <span class="circle-word">吾</span> 真的? <span class="or">or</span> 真的吗? <span class="esp">En serio? / Sí?</span> <span class="circle-word">有</span> 我真的不喜欢他 <span class="esp">En serio él no me gusta.</span><br>
+      🧧 The last example may translate "En realidad, no me gusta" as well, like "contrary to what you think, I don't like him", but it may be preferrable to use 其实 for this meaning.`,
+      handwritten: `真的`,
+      traditional: `真的`,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: `一定要<br>
+      <span class="pinyin">yīdìngyào</span><br>
+      <span class="esp">tener que, tener la obligación de...</span><br>
+      <span class="circle-word">無</span> 你一定要看 <span class="esp">Tiene que vérsela [la película].</span>`,
+      handwritten: `一定要`,
+      traditional: `一定要`,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
       inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
       russianImages: [
       'h',
