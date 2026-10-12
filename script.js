@@ -809,7 +809,7 @@
       { char: ' ', url: 'https://' },
       ],
       russian: `покуш<span class="stress">е</span>ние <span class="esp">atentado, intento de asesinato</span><br>
-      <span class="star">☆</span> На президента было совершено покушение<span class="esp"> Le realizaron un atentado al presidente.</span> <span class="star">☦</span> Вчера произошло покушение на банк<span class="stress">и</span>ра - в него стрел<span class="stress">я</span>ли.<span class="esp"> Ayer hubo un atentado contra un banquero - le dispararon.</span> <span class="star">☆</span> В результате покушения, никто не пострадал.<span class="esp"> Nadie resultó herido como resultado/consecuencia del intento de asesinato.</span> <span class="star">☦</span> Покушение на жизнь офиц<span class="stress">е</span>ра не обошл<span class="stress">о</span>сь без стрельб<span class="stress">ы</span>. <span class="esp"> El atentado contra el oficial no estuvo exento de disparos.</span>`,
+      <span class="star">☆</span> На президента было соверш<span class="stress">е</span>но покушение<span class="esp"> Le realizaron un atentado al presidente.</span> <span class="star">☦</span> Вчера произошло покушение на банк<span class="stress">и</span>ра - в него стрел<span class="stress">я</span>ли.<span class="esp"> Ayer hubo un atentado contra un banquero - le dispararon.</span> <span class="star">☆</span> В результате покушения, никто не пострадал.<span class="esp"> Nadie resultó herido como resultado/consecuencia del intento de asesinato.</span> <span class="star">☦</span> Покушение на жизнь офиц<span class="stress">е</span>ра не обошл<span class="stress">о</span>сь без стрельб<span class="stress">ы</span>. <span class="esp"> El atentado contra el oficial no estuvo exento de disparos.</span>`,
       inflection: `<span class="aspect">несов:</span> совершать <span class="aspect">сов:</span> совершить
       <span class="aspect">несов:</span> пострад<span class="stress">а</span>ть <span class="aspect">сов:</span> страд<span class="stress">а</span>ть
       <span class="aspect">несов:</span> обход<span class="stress">и</span>ться <span class="aspect">сов:</span> обойт<span class="stress">и</span>сь`,
@@ -2511,9 +2511,9 @@
       { char: ' ', url: 'https://' },
       { char: ' ', url: 'https://' },
       ],
-      english: `<span class="title">shortfall</span> ☜ <span class="esp">déficit</span><br>
+      english: `<span class="title">shortfall (in/of)</span> ☜ <span class="esp">déficit (en)</span><br>
       The gap or difference between what you have and what you actually need.<br>
-      <span class="skull">☠︎︎</span> <span class="example">Critical <u>population drops below replacement</u>, and then it's the 2nd or 3rd entry for AI to solve the shortfall.</span>`,
+      <span class="skull">☠︎︎</span> <span class="example">Critical <u>population drops below replacement</u>, and then it's the 2nd or 3rd entry for AI to solve the shortfall.</span> <span class="skull">☠︎︎</span> <span class="example">The drought caused serious shortfalls in the food supply.</span>`,
       russian: ``,
       inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
       russianImages: [
@@ -5189,7 +5189,8 @@
       { char: ' ', url: 'h' },
       ],
       russian: `пост<span class="stress-y">у</span>пок <span class="esp">acto, acción</span><br>
-      <span class="star">☆</span> По поступкам видно, что долбоёб и кретин. <span class="esp">Por sus actos se ve que es un estúpido/subnormal y un cretino.</span> <span class="star">☦</span> Подлый поступок. <span class="esp">Un acto vil/cobarde.</span>`,
+      <span class="star">☆</span> По поступкам видно, что долбоёб и крет<span class="stress">и</span>н. <span class="esp">Por sus actos se ve que es un estúpido/subnormal/hijueputa bobo/güeva y un cretino.</span> <span class="star">☦</span> Подлый поступок. <span class="esp">Un acto vil/cobarde.</span><br><br>
+      <span class="sickle">☭</span> People on the Internet, spell долбоёб as долбаеб.`,
       inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
       russianImages: [
       'h',
@@ -6079,7 +6080,7 @@
     {
       chinese: `但是就这几年<br>
       <span class="pinyin">dànshì jiù zhè lǐ nián</span><br>
-      <span class="esp">Pero es en estos últimos años</span><br><br>
+      <span class="esp">Pero es (apenas) en estos últimos años</span><br><br>
       <span class="gold">就</span> here means "just/only/as few as" emphasizing that a quantity or amount is small or limited. So, the sentence above can be translated as "Pero <u>solamente</u> / Pero <u>es (solo)</u> en estos (últimos) años". It can go with 只, or be replaced by it, but 就 is more casual/informal.<br>
       <span class="circle-word">幻</span> 就只剩下这一个了! <span class="pinyin">jiùzhǐ shèngxià zhè yīgè le</span> <span class="esp">Solamente queda uno!</span> <span class="circle-word">仙</span> 就我一个人 <span class="esp">Soy el único / Solo quedo yo.</span>`,
       handwritten: `但是就这几年`,
@@ -6301,7 +6302,7 @@
       ],
       russian: `ходить вокр<span class="stress-y">у</span>г да <span class="stress">о</span>коло <span class="esp">andar con rodeos</span><br>
       = Изб<span class="stress">е</span>гать точного ответа.<br>
-      <span class="star">☆</span> Она не могла ему сказать прямо, а ходила вокруг да около с намёками. <span class="esp">No fue capaz de decirle de frente y andaba con vueltas e indirectas.</span> <span class="star">☦</span> Не буду ходить вокруг да около... Я встретила мужчину. <span class="star">☆</span> Пол<span class="stress">и</span>тик пытался ходить вокруг да около во время интервью.`,
+      <span class="star">☆</span> Она не могла ему сказать прямо, а ходила вокруг да около с намёками (м. намёк). <span class="esp">No fue capaz de decirle de frente y andaba con vueltas e indirectas.</span> <span class="star">☦</span> Не буду ходить вокруг да около... Я встретила мужчину. <span class="star">☆</span> Пол<span class="stress">и</span>тик пытался ходить вокруг да около во время интервью.`,
       inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
       russianImages: [
       'h',
@@ -6335,10 +6336,14 @@
       ],
       russian: `Да в целом если он тупой, <u>почему бы не</u> снять прикольный вид<span class="stress">о</span>сик?<br>
       <span class="esp">Pues igual si él es un bobo, por qué no grabar un video chistoso?</span><br><br>
-      <span class="sickle">☭</span> It seems like да adds that flavour of "well / I mean" according to AI. My take is that да here can be replaced by но.<br>
+      <span class="sickle">☭</span> It seems like да adds that flavour of "well / I mean" according to AI. My take is that да in the example above can be replaced by но.<br>
       Meanings of да:<br>
+      -In an exasperated tone, it essentially has that "oh come on" flavour, similar to "Noo" in Spanish.
       -To replace "and" (probably a bit uncommon) and "but", as in "Дед да баба" (=un viejo y una vieja), and "Маленький, да уд<span class="stress">а</span>ленький" (=pequeño pero peligroso).<br>
-      -`,
+      -To express empowerment of a statement, similar to "usted <u>sí (que)</u>... For example, "да у тебя ков<span class="stress">и</span>д!" "usted sí (que) tiene covid!". Another example is "Да ты врун!" = "Usted sí es mentiroso!"<br>
+      -Similarly to the usage above, one can say "Да ты просто социальный паразит" = "Usted lo que es es un parásito social"
+      -Many times it's a "pues" or "entonces" or "vos...", like for example, "Да ты издев<span class="stress">а</span>ешься  что ли????" = "Vos me lo estás diciendo en serio? / Usted lo que está es jodiendo (=kidding me)"<br><br>
+      <span class="sickle">☭</span> Так is used in a similar way when expressing "well / I mean", but так is a bit more explanatory, while да feels slightly more dismissive or impatient. Depending on the context, it may be translated as "igual / de todas maneras". Like, "Так не её квартира, очевидно." = "Igual no es su apartamento obviamente"`,
       inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
       russianImages: [
       'h',
@@ -6473,6 +6478,491 @@
       'https://resourceboy.com/wp-content/uploads/2025/09/wrapping-paper-box-mockup-1.jpg',
       ],
       russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">dead-on</span> ☜ = completely accurate, exact, or precisely on target.<br>
+      <span class="skull">☠︎︎</span> <span class="example">His impersonation of the president was dead-on.</span> <span class="skull">☠︎︎</span> <span class="example">You're dead-on right about that estimate.</span> <span class="skull">☠︎︎</span> <span class="example">She got the answer dead-on.</span> <span class="skull">☠︎︎</span> <span class="example">You're dead on!</span> (=you're completely right!)`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="esp">bajón</span> ☜<br>
+      <span class="title">letdown</span> (emotional — disappointment)<br>
+      <span class="title">downer</span> (emotional)<br>
+      <span class="title">come-down</span> (sobering up from the effects of alcohol, a drug, or an intense rush)<br>
+      <span class="title">crash</span> (energy)<br>
+      <span class="title">slump</span> (sales, performance, emotional, energy)<br>
+      <span class="title">downturn</span> (business, sales, economy)<br>
+      <span class="skull">☠︎︎</span> <span class="example">After the party, I had a come-down.</span> <span class="skull">☠︎︎</span> <span class="example">That comment was a real downer.</span> <span class="skull">☠︎︎</span> <span class="example">I crashed after lunch / I hit a slump after lunch</span> <span class="skull">☠︎︎</span> <span class="example">The team had a slump in the second half.</span> <span class="skull">☠︎︎</span> <span class="example">I had a huge lunch and now I'm crashing.</span> <span class="esp">Comí muchísimo y ahora estoy que me muero de sueño.</span> <span class="skull">☠︎︎</span> <span class="example">I'm coming down from that joint.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="esp">agotar el tema antes de pasar a otro</span> ☜<br>
+      - to exhaust the topic before moving on to the next one.<br>
+      - to cover the topic thoroughly before moving on.<br>
+      - to beat the topic to death before switching (informal)<br>
+      - to fully explore the topic before moving forward.`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `черн<span class="stress">и</span>ла<br>
+      Склоняется по мн. ч.; ед. ч. не используется.<br>
+      <span class="star">☆</span> Как начать рисовать чернилами.`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'https://preview.free3d.com/img/2014/11/2154253914461964071/mcq86xc8.jpg',
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `Найти другого идиота — не сложно, <u>а вот</u> снять годный контент... <span class="esp">Encontrar a otro idiota no es difícil, pero crear buen contenido...</span>`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `но не цен<span class="stress">о</span>й + род. п. <span class="esp">pero no a cambio de, pero no a costa de...</span><br>
+      Apparently, this and similar phrases only work with nouns, not actions.<br>
+      <span class="star">☆</span> Но не ценой же сожжённой квартиры. <span class="esp">Pero no a cambio de que el apartamento quede incendiado.</span> <span class="star">☦</span> Но не ценой своих пр<span class="stress">и</span>нципов. <span class="esp">Pero no a costa de tus principios.</span> <span class="star">☆</span> Мир возм<span class="stress">о</span>жен, но не ценой интересов страны. <span class="esp">La paz es posible, pero no a costa de los intereses del país.</span>`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `черт<span class="stress">и</span>ть <span class="esp">dibujar, trazar</span><br>
+      This sounds technical, but pops up in conversation when needed. Usually when talking about graphs, geometrical shapes, schemes, etc. Things you can чертить:
+      -чертить чертёж <span class="esp">dibujar un plano</span><br>
+      -чертить схему <span class="esp">dibujar un esquema</span><br>
+      -чертить план <span class="esp">dibujar un plano (de una casa)</span><br>
+      -черить график <span class="esp">Trazar una gráfica</span><br>
+      -чертить карту <span class="esp">Trazar un mapa</span><br>
+      -чертить по лин<span class="stress">е</span>йке треуг<span class="stress">о</span>льники в тетради.<br><br>
+      It can also be draw lines freely on any surface:<br>
+      -чертить на песк<span class="stress">е</span> (м. пес<span class="stress">о</span>к), по воздухе, на доске, на снегу, на столе...`,
+      inflection: `<span class="aspect">несов:</span> черт<span class="stress">и</span>ть <span class="aspect">сов:</span> начерт<span class="stress">и</span>ть`,
+      russianLinks: [
+      { char: 'чертить', url: 'https://ru.wiktionary.org/wiki/%D1%87%D0%B5%D1%80%D1%82%D0%B8%D1%82%D1%8C' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `неприв<span class="stress">ы</span>чно <span class="esp">inusual, poco común</span><br>
+      <span class="star">☆</span> Непривычно, что я пью чай с молоком. <span class="esp">Es muy raro que yo tome té con leche.</span>`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `осознать <span class="esp">darse cuenta, comprender, ser consciente de</span><br>
+      <span class="star">☆</span> Прям почувствовал, как она осознала, что будет дальше. <span class="esp">Ahí mismo sentí que se dio cuenta de qué iba a pasar.</span> <span class="star">☦</span> Только сейчас я осознал тот факт, что... <span class="esp">Apenas ahora vengo a ser consciente del hecho de que...</span> <span class="star">☆</span> Они осознали, в чём заключается учение Иисуса Христа. <span class="esp">Comprendieron cuál era la enseñanza de Jesucristo.</span> <span class="star">☦</span> Осознал, как устроена вселенная.`,
+      inflection: `<span class="aspect">несов:</span> осознав<span class="stress">а</span>ть <span class="aspect">сов:</span> осозн<span class="stress">а</span>ть`,
+      russianLinks: [
+      { char: 'осознать', url: 'https://ru.wiktionary.org/wiki/%D0%BE%D1%81%D0%BE%D0%B7%D0%BD%D0%B0%D1%82%D1%8C' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `смотря <span class="esp">dependiendo de</span><br>
+      <span class="star">☆</span> Смотря что считать свиданиями. <span class="esp">Dependiendo de qué se considera una cita.</span> <span class="star">☦</span> Смотря с какой стороны посмотреть. <span class="star">☆</span> Смотря как всё пойдёт. <span class="esp">Dependiendo de cómo vaya todo.</span>`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: `还<br>
+      <span class="pinyin">hái</span><br>
+      <span class="esp">todavía; incluso, hasta</span><br><br>
+      <span class="circle-word">符</span> 你还会弹吉他? <span class="pinyin">nǐ hái huì tán jítā</span> <span class="esp">Hasta guitarra sabe tocar?</span> <span class="circle-word">圆</span> 她还去过俄罗斯 <span class="pinyin">tā hái qù guò éluósī</span> <span class="esp">Ella hasta ha ido a Rusia.</span> <span class="circle-word">道</span> 我累了, 还没吃饭 <span class="pinyin">wǒ lèi le, hái méi chīfàn<span> <span class="esp">Estoy cansado, y encima no he comido nada.</span>`,
+      handwritten: `还`,
+      traditional: `還`,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: '俄罗斯', url: 'https://forvo.com/search/%E4%BF%84%E7%BD%97%E6%96%AF/' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: `这几年<br>
+      <span class="pinyin">zhè jǐnián</span><br>
+      <span class="esp">estos (últimos) años</span><br><br>
+      <span class="circle-word">天</span> 这几年我存了些钱 <span class="pinyin">zhè jǐnián wǒ cún le xiē qián</span> <span class="esp">He ahorrado algo de dinero estos años.</span><br>
+      🧧 There's a formal version of this, which is 近几年 <span class="pinyin">jìn jǐnián</span>, and it's normally used for more serious things, like describing social phenomena.`,
+      handwritten: `这几年`,
+      traditional: `這幾年`,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: `难<br>
+      <span class="pinyin">nán</span><br>
+      <span class="esp">difícil</span><br><br>
+      <span class="circle-word">命</span> X<span class="pinyin">X</span> <span class="esp">X</span>`,
+      handwritten: `难`,
+      traditional: `難`,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `дело не в + пред. п. <span class="esp">no se trata de..., no es un tema de..., no es de...</span><br>
+      <span class="star">☆</span> Да тут не в возрасте дело, а человек долбоёб. <span class="esp">En este caso no es por la edad, es que el man es una güeva.</span> <span class="star">☦</span> Дело не в нём. <span class="esp">No se trata de él.</span>`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `изоб<span class="stress">и</span>лие <span class="esp">abundancia</span><br>
+      <span class="star">☆</span> Закон изобилия <span class="esp">La ley de la abundancia</span> <span class="star">☦</span> Изобилие фруктов = фрукты в изобилии <span class="star">☆</span> Мне не пришлось искать, так как деревья той породы росли здесь в изобилии. <span class="esp">No tuve que buscarlo, ya que aquí crecían árboles de esa especie en abundancia.</span><br><br>
+      <span class="sickle">☭</span> This is a рог изобилия = cornucopia:`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'https://thumbs.dreamstime.com/b/beautifully-arranged-cornucopia-brimming-assorted-fruits-vegetables-bread-displayed-wooden-table-capturing-333486275.jpg',
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `для начала <span class="esp">para empezar, primero</span><br>
+      <span class="star">☆</span> Рецепт бы хотя бы для начала посмотрел. <span class="esp">Hubiera al menos visto una receta primero/para empezar.</span>`,
       inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
       russianImages: [
       'h',
