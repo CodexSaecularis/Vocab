@@ -4915,7 +4915,8 @@
       { char: ' ', url: 'h' },
       ],
       russian: `курица (сленг) = глупая женщина <span class="esp">descerebrada</span><br>
-      <span class="star">☆</span> Засиделись у родителей. Звонит супруга с криками: "Ты не у родни, а с какой нить курицей!" <span class="esp">...con alguna descerebrada/estúpida.</span>`,
+      <span class="star">☆</span> Засиделись у родителей. Звонит супруга с криками: "Ты не у родн<span class="stress">и</span> (ж. родн<span class="stress">я</span>), а с какой нить курицей!" <span class="esp">...con alguna descerebrada/estúpida.</span><br><br>
+      <span class="sickle">☭</span> родн<span class="stress">я</span> (разг.) means "familiares" and it's always used in singular. It may refer to the core family, but it talks more about the second-order family.`,
       inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
       russianImages: [
       'h',
@@ -5040,7 +5041,8 @@
       { char: ' ', url: 'h' },
       { char: ' ', url: 'h' },
       ],
-      russian: `общ<span class="stress">е</span>ственный <span class="esp">público</span>`,
+      russian: `общ<span class="stress">е</span>ственный <span class="esp">público</span><br>
+      <span class="star">☆</span> И вот эти общественные парки закрываются обычно после заката.`,
       inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
       russianImages: [
       'h',
@@ -6434,7 +6436,8 @@
       🧧 挺好的 <span class="pinyin">tǐng hǎo de</span> is "quite good" = "bastante bien"<br>
       🧧 还行 <span class="pinyin">háixíng</span> or 还可以 <span class="pinyin">háikěyǐ</span> are the equivalent of "ok/not too bad", like, just average or tolerable = bien, ahí<br>
       🧧 牛逼 (can come across as vulgar) <span class="pinyin">níubī</span> = amazing, that was sick, bad-ass = qué chimba!<br>
-      <span class="circle-word">般</span> 你也太牛逼了, 中文考试得了100分 <span class="pinyin">nǐ yě táitài niúníubī le, zhōngwén kǎoshì de le fēn</span> <span class="esp">Qué chimba, sacó 100 en el examen de chino.</span> <span class="circle-word">善</span> 牛逼! 你还懂英语啊 <span class="pinyin">níubī, nǐ hái dǒng yīngyǔ a</span> <span class="esp">Qué chimba! Hasta sabe inglés.</span>`,
+      <span class="circle-word">般</span> 你也太牛逼了, 中文考试得了100分 <span class="pinyin">nǐ yě tài níubī le, zhōngwén kǎoshì dé le yībǎi fēn</span> <span class="esp">Qué chimba/Usted es demasiado bueno, sacó 100 en el examen de chino.</span> <span class="circle-word">善</span> 牛逼! 你还懂英语啊 <span class="pinyin">níubī, nǐ hái dǒng yīngyǔ a</span> <span class="esp">Qué chimba! Hasta sabe inglés.</span><br>
+      <span class="gold">也太 + adj. + 了(吧)</span> is a structure to mean "too, extremely"`,
       handwritten: ``,
       traditional: ``,
       strokeOrderImages: [
@@ -7026,7 +7029,7 @@
       { char: ' ', url: 'h' },
       { char: ' ', url: 'h' },
       ],
-      russian: `бес<span class="stress">е</span>дка <span class="esp">kiosko, choza (en un parque)</span><br>
+      russian: `бес<span class="stress">е</span>дка <span class="esp">caseta, quiosco (en un parque)</span><br>
       <span class="star">☆</span> В летний вечер мы решили поужинать в беседке. <span class="esp">En una tarde veraniega/de verano, decidimos cenar en un kiosko.</span>`,
       inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
       russianImages: [
@@ -7277,6 +7280,132 @@
       chinese: ``,
       handwritten: ``,
       traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `Там восемь-девять вечера <u>где-то вот так</u>. <span class="esp">Y eran por ahí las 8 o 9.</span>`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `как раз <span class="esp">justo, justamente, preciso, precisamente</span><br>
+      <span class="star">☆</span> —Слушай, а ты так и не общался с ним? —А он как раз мне вчера звонил. <span class="esp">—Oiga, y nada que habla con él? —Preciso ayer me llamó.</span> <span class="star">☦</span> Там восемь-девять вечера где-то вот так, и мы как раз чуть дольше девяти задерж<span class="stress">а</span>лись. <span class="esp">Eran por ahí las 8 o 9 de la noche, y nos demoramos apenas (=precisamente) pasadas las 9.</span> <span class="star">☆</span> Как раз поэтому надо торопиться. <span class="esp"><u>Por eso (mismo)</u> hay que correrle.</span> <span class="star">☆</span> Вечером как раз придёт Дима. <span class="esp">Preciso viene Dmitriy en la tarde/noche.</span> <span class="star">☦</span> —Как рубашка? —Как раз. <span class="esp">—Qué tal la camisa. —Apenas es.</span> <span class="star">☆</span> Как раз об этом хотел спросить. <span class="esp">Preciso/Justo le iba a preguntar sobre eso.</span> <span class="star">☦</span> Я как раз выходил, когда... <span class="esp">Preciso/Justo estaba saliendo cuando...</span>`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `задерж<span class="stress">а</span>ться <span class="esp">quedarse más tiempo, tenerse que quedar, demorarse, tenerlo a uno parado el trancón</span><br>
+      <span class="star">☆</span> Мы чуть дольше девяти задержались. <span class="esp">Nos quedamos (=neutral) / demoramos (=be delayed, held up) hasta un poquito más de las 9.</span> <span class="star">☦</span> Мне пришлось задержаться <span class="or">или</span> Я задерживаюсь на работе. <span class="esp">Me tengo que quedar en el trabajo.</span> <span class="star">☆</span> Поезд задержался в пути. <span class="esp">El tren se demoró en el camino.</span> <span class="star">☦</span> Ещё не пришёл, он задерживается. <span class="esp">Todavía no ha llegado, se está demorando.</span> <span class="star">☆</span> Я здесь не задерж<span class="stress-y">у</span>сь. Я тут на пару дней. <span class="esp">No me voy a quedar mucho tiempo aquí. Estoy acá por un par de días.</span> <span class="star">☦</span> Поезд задерживается. <span class="esp">El tren se está demorando.</span><br>
+      <span class="sickle">☭</span> There's the fixed idiomatic expression "Ты здесь не зад<span class="stress">е</span>ржишься" = "Ud. no va a durar mucho acá" as a hostile warning or dry fact.`,
+      inflection: `<span class="aspect">несов:</span> зад<span class="stress">е</span>рживаться <span class="aspect">сов:</span> задерж<span class="stress">а</span>ться`,
+      russianLinks: [
+      { char: 'задержаться', url: 'https://ru.wiktionary.org/wiki/%D0%B7%D0%B0%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D1%82%D1%8C%D1%81%D1%8F' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `р<span class="stress">е</span>жет слух <span class="esp">chirría en los oídos, machaca el oído</span><br>
+      Said about a sound, word, voice or speech that sounds unpleasant, harsh, or wrong.<br>
+      <span class="star">☆</span> Это режет мне слух. <span class="star">☦</span> У меня называют в семье, всегда режет слух. <span class="esp">Así me llaman en la familia, siempre me chirría los oídos.</span> <span class="star">☆</span> Кофе: он или оно? Можно и так и так, он "оно" всё равно режет слух.`,
+      inflection: `<span class="aspect">несов:</span> р<span class="stress">е</span>зать`,
+      russianLinks: [
+      { char: 'резать', url: 'https://ru.wiktionary.org/wiki/%D1%80%D0%B5%D0%B7%D0%B0%D1%82%D1%8C' },
+      ],
+    },
+    {
+      chinese: `最<br>
+      <span class="pinyin">zuì</span><br>
+      <span class="esp">el más (superlativo)</span><br><br>
+      <span class="circle-word">吾</span> 这是我见过最大的狗 <span class="pinyin">zhè shì wǒ jiàn guò zuì dà de gǒu<span> <span class="esp">Es el perro más grande que he visto.</span> <span class="circle-word">無</span> 世界上最大的国家 <span class="pinyin">shìjiè shàng zuì dà de guójiā</span> <span class="esp">El país más grande del mundo</span> <span class="unpack">⟨WHERE</span> 世界上 in the world<span class="unpack">⟩</span>`,
+      handwritten: `最`,
+      traditional: `最`,
       strokeOrderImages: [
       'h',
       'h'
