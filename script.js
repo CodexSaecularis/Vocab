@@ -4175,7 +4175,7 @@
       ],
       russian: `раскл<span class="stress">а</span>дывать <span class="esp">colocar, poner, organizar; abrir (un sofá cama)</span><br>
       This verb insinuates placing things in their place, like on a shelf, or for example taking items from a bag and onto a table. It's probably closer to "lay out" or "arrange".<br>
-      <span class="star">☆</span> Ну и короче сказали "да, всё нормально, можешь там раскладывать." <span class="esp">Y pues bueno, al final me dijeron "sí, todo bien, puede organizar/colocar todo ahí".</span> <span class="star">☦</span> Он либит раскладывать тарелки по цвету. <span class="esp">A él le gusta organizar los platos por color.</span> <span class="star">☆</span> Я предпочитаю раскладывать еду на тарелке отдельным секциями. <span class="esp">Me gusta más separar la comida en secciones distintas en el plato.</span> <span class="star">☦</span> Раскладывать продукты. <span class="esp">Guardar las cosas del mercado.</span> <span class="star">☆</span> Раскладывать инструменты. <span class="esp">Colocar las herramientas [sobre una mesa o algo].</span> <span class="star">☦</span> Разлож<span class="stress">и</span>ть всё по п<span class="stress">о</span>лкам/п<span class="stress">о</span>лочкам. <span class="esp">(lit.) Organizar/Colocar todo en los estantes. <span class="or">or</span> (fig.) Poner todo en orden.</span> <span class="star">☆</span> Раскладывай див<span class="stress">а</span>н (see image below), будем спать. <span class="esp">Abra el sofá cama, que vamos a dormir.</span> <span class="star">☦</span> 15 способов разложить вещи, так чтобы стало по-настоящему уютно. <span class="esp">15 maneras de organizar la ropa para que sea vea realmente acogedor.</span><br>
+      <span class="star">☆</span> Ну и короче сказали "да, всё нормально, можешь там раскладывать." <span class="esp">Y pues bueno, al final me dijeron "sí, todo bien, puede organizar/colocar todo ahí".</span> <span class="star">☦</span> Он любит раскладывать тарелки по цвету. <span class="esp">A él le gusta organizar los platos por color.</span> <span class="star">☆</span> Я предпочитаю раскладывать еду на тарелке отдельным секциями. <span class="esp">Me gusta más separar la comida en secciones distintas en el plato.</span> <span class="star">☦</span> Раскладывать продукты. <span class="esp">Guardar las cosas del mercado.</span> <span class="star">☆</span> Раскладывать инструменты. <span class="esp">Colocar las herramientas [sobre una mesa o algo].</span> <span class="star">☦</span> Разлож<span class="stress">и</span>ть всё по п<span class="stress">о</span>лкам/п<span class="stress">о</span>лочкам. <span class="esp">(lit.) Organizar/Colocar todo en los estantes. <span class="or">or</span> (fig.) Poner todo en orden.</span> <span class="star">☆</span> Раскладывай див<span class="stress">а</span>н (see image below), будем спать. <span class="esp">Abra el sofá cama, que vamos a dormir.</span> <span class="star">☦</span> 15 способов разложить вещи, так чтобы стало по-настоящему уютно. <span class="esp">15 maneras de organizar la ropa para que sea vea realmente acogedor.</span><br>
       <span class="sickle">☭</span> When talking about cards, laying out the cards is "разложить карты", but playing a cards game (i.e. solitaire) is "раскладывать карты/пась<span class="stress">я</span>нс = jugar a las cartas/al solitario".
       <span class="sickle">☭</span> Раскладывать (всё) по полочкам (more common than по полкам), as said above, means to sort out a problem or break something down to understand it, and it's a very common phrase. Similarly, "Всё раскладывается по полочкам" means "ya todo tiene sentido"<br>
       <span class="sickle">☭</span> The reflexive раскладываться when talking about a person could mean they're organizing their things or is lying down. When used with foldable objects (phone, foldable bed, etc.), it means they unfold.`,
@@ -6567,7 +6567,7 @@
       english: `<span class="esp">agotar el tema antes de pasar a otro</span> ☜<br>
       - to exhaust the topic before moving on to the next one.<br>
       - to cover the topic thoroughly before moving on.<br>
-      - to beat the topic to death before switching (informal)<br>
+      - to beat the topic to death before switching. (informal)<br>
       - to fully explore the topic before moving forward.`,
       russian: ``,
       inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
@@ -7393,7 +7393,7 @@
       ],
       russian: `р<span class="stress">е</span>жет слух <span class="esp">chirría en los oídos, machaca el oído</span><br>
       Said about a sound, word, voice or speech that sounds unpleasant, harsh, or wrong.<br>
-      <span class="star">☆</span> Это режет мне слух. <span class="star">☦</span> У меня называют в семье, всегда режет слух. <span class="esp">Así me llaman en la familia, siempre me chirría los oídos.</span> <span class="star">☆</span> Кофе: он или оно? Можно и так и так, он "оно" всё равно режет слух.`,
+      <span class="star">☆</span> Это режет мне слух. <span class="star">☦</span> У меня называют в семье, всегда режет слух. <span class="esp">Así me llaman en la familia, siempre me chirría los oídos.</span> <span class="star">☆</span> Кофе: он или оно? Можно и так и так, но "оно" всё равно режет слух.`,
       inflection: `<span class="aspect">несов:</span> р<span class="stress">е</span>зать`,
       russianLinks: [
       { char: 'резать', url: 'https://ru.wiktionary.org/wiki/%D1%80%D0%B5%D0%B7%D0%B0%D1%82%D1%8C' },
@@ -7415,6 +7415,258 @@
       { char: ' ', url: 'h' },
       ],
       english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `выгон<span class="stress">а</span>ть <span class="esp">sacar, echar</span><br>
+      <span class="star">☆</span> Подожди здесь, пока я в<span class="stress">ы</span>гоню/вывожу свою машину. <span class="esp">Espere aquí mientras saco el carro.</span> <span class="star">☦</span> Меня в<span class="stress">ы</span>гнали из дома/из школы/из страны/с работы. <span class="star">☆</span> В<span class="stress">ы</span>нать ученика из урока за плохое поведение. <span class="esp">Lo sacaron de la clase por mala conducta.</span> <span class="star">☦</span> И мы чуть дольше девяти задерж<span class="stress">а</span>лись, и нас приехали оттуда выгонять, короче. <span class="esp">Nos quedamos más tiempo un poquito más de las 9, y pues vinieron para sacarnos de ahí.</span>`,
+      inflection: `<span class="aspect">несов:</span> выгон<span class="stress">я</span>ть <span class="aspect">сов:</span> в<span class="stress">ы</span>гнать`,
+      russianLinks: [
+      { char: 'выгнать', url: 'https://ru.wiktionary.org/wiki/%D0%B2%D1%8B%D0%B3%D0%BD%D0%B0%D1%82%D1%8C' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `кв<span class="stress">а</span>дрик <span class="or">или</span> квадроц<span class="stress">и</span>кл<br>
+      <span class="star">☆</span> Просто приехали на кв<span class="stress">а</span>дриках два к<span class="stress">о</span>па и сказали, что всё, ребят. <span class="esp">Simplimente vinieron dos polícias en cuatrimotos a decirnos, "listo, muchachos, ya".</span> <span class="unpack">⟨WHERE</span> коп is exclusively a cop in the U.S., and it'd sound wrong to mean a local Russian policeman.<span class="unpack">⟩</span>`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'https://lalafo.kg/_next/image?url=https%3A%2F%2Fimg5.lalafo.com%2Fi%2Fposters%2Fapi%2F8e%2F0f%2F43%2F6eb446537843014e8a4b7b9c0f.jpeg&w=384&q=75',
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `разбир<span class="stress">а</span>ться <span class="esp">entender, comprender; lidiar (con), resolver (un problema)</span><br>
+      <span class="star">☆</span> <span class="esp">X</span>`,
+      inflection: `<span class="aspect">несов:</span> разбир<span class="stress">а</span>ться <span class="aspect">сов:</span> разобр<span class="stress">а</span>ться`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">to get to the bottom of it</span> ☜ <span class="esp">investigar a fondo</span><br>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">to be left wondering / to never find out</span> ☜ <span class="esp">quedarse con la duda</span><br>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="esp">desventaja:</span> ☜<br>
+      <span class="title">drawback</span> (general, neutral)<br>
+      <span class="title">trade-off</span> (what you sacrifice)<br>
+      <span class="title">catch</span> (what they don't tell you)<br>
+      <span class="title">pitfall</span> (hidden problem)<br>
+      <span class="skull">☠︎︎</span> <span class="example">One of the pitfalls of freelancing is the unstable income.</span> <span class="skull">☠︎︎</span> <span class="example">The trade-off is that you work weekends.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">sell yourself short</span> ☜ <span class="esp">subestimarse</span><br>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `translucent /trænsˈlusənt/ (=semi-transparent)<br>
+      opaque /oʊˈpeɪk/<br>
+      <span class="skull">☠︎︎</span> <span class="example">If the empanada is so greasy it turns a napkin translucent, it shouldn't be served as if you're supposed to eat that much grease.</span>`,
+      englishImages: [
+      'https://baoshengindustry.com/wp-content/uploads/2026/02/Transparent-vs-Translucent-vs-Opaque.png',
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">blot <span class="or">or</span> soak up <span class="or">or</span> pat down</span> ☜ <span class="esp">secar la grasa extra (en comidas freídas)</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">You have to blot the extra grease off.</span> <span class="skull">☠︎︎</span> <span class="example">X</span>`,
       englishImages: [
       'h',
       'h'
