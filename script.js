@@ -4544,7 +4544,7 @@
       { char: ' ', url: 'h' },
       ],
       english: `<span class="title">contender</span> ☜<br>
-      <span class="skull">☠︎︎</span> <span class="example">Bobby is a good contender for the championship this year.</span> <span class="skull">☠︎︎</span> <span class="example">She's no longer a contender for the world title after her <u>latest</u> defeat.</span> <span class="skull">☠︎︎</span> <span class="example">These new running shoes are a strong contender for my daily workout gear.</span> <span class="skull">☠︎︎</span> <span class="example">Surely Angkor Wat and Timbuktu are more viable contenders for one of the seven wonders of the world.</span>`,
+      <span class="skull">☠︎︎</span> <span class="example">Bobby is a good contender for the championship this year.</span> <span class="skull">☠︎︎</span> <span class="example">She's no longer a contender for the world title after her <u>latest</u> defeat.</span> <span class="skull">☠︎︎</span> <span class="example">These new running shoes are a strong contender for my daily workout gear.</span> <span class="skull">☠︎︎</span> <span class="example">Surely Angkor Wat and Timbuktu are more viable /ˈvaɪəbəl/ contenders for one of the seven wonders of the world.</span>`,
       russian: ``,
       inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
       russianImages: [
@@ -5074,7 +5074,8 @@
       { char: ' ', url: 'h' },
       { char: ' ', url: 'h' },
       ],
-      russian: `вообще: Used very often at the beginning of a sentence to mean "en general/normalmente".`,
+      russian: `вообще: Used very often at the beginning of a sentence to mean "en general/normalmente".<br>
+      "А вообще..." can mean "y por cierto / ah, y de paso...". For example, "А вообще лайфхак как определить готовность разогрева масла - кинуть кусочек еды что будешь жарить туда. Когда будет булькать как тебе нравится то масло стало ок."`,
       inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
       russianImages: [
       'h',
@@ -7403,7 +7404,7 @@
       chinese: `最<br>
       <span class="pinyin">zuì</span><br>
       <span class="esp">el más (superlativo)</span><br><br>
-      <span class="circle-word">吾</span> 这是我见过最大的狗 <span class="pinyin">zhè shì wǒ jiàn guò zuì dà de gǒu<span> <span class="esp">Es el perro más grande que he visto.</span> <span class="circle-word">無</span> 世界上最大的国家 <span class="pinyin">shìjiè shàng zuì dà de guójiā</span> <span class="esp">El país más grande del mundo</span> <span class="unpack">⟨WHERE</span> 世界上 in the world<span class="unpack">⟩</span>`,
+      <span class="circle-word">吾</span> 这是我见过最大的狗 <span class="pinyin">zhè shì wǒ jiàn guò zuì dà de gǒu<span> <span class="esp">Es el perro más grande que he visto.</span> <span class="circle-word">無</span> 世界上最大的国家 <span class="pinyin">shìjiè shàng zuì dà de guójiā</span> <span class="esp">El país más grande del mundo</span> <span class="unpack">⟨WHERE</span> 世界上 in the world<span class="unpack">⟩</span> <span class="circle-word">有</span> 最好的例子 <span class="pinyin">zuì hǎo de lìzi</span> <span class="esp">El mejor ejemplo.</span> <span class="circle-word">凹</span> 最好再问一次 <span class="pinyin">zuìhǎo zài wèn yīcì</span> <span class="esp">Mas vale preguntar de nuevo.</span> <span class="unpack">⟨WHERE</span> 再 again<span class="unpack">⟩</span> <span class="circle-word">浅</span> 秋天你最好来北京 <span class="or">or</span> 你最好秋天来北京 <span class="pinyin">qiūtiān nǐ zuìhǎo lái běijīng</span> <span class="esp">Es mejor (=más te vale) que venga a Pekín en otoño.</span> <span class="circle-word">残</span> 秋天是来北京最好的时候 <span class="pinyin">qiūtiān shì lái běijīng zuìhǎo de shíhou</span> <span class="esp">Otoño es el mejor tiempo para venir a Pekín.</span> <span class="circle-word">贱</span> 最美的国家 <span class="pinyin">zuìměi de guójiā</span> <span class="esp">El país más hermoso.</span> <span class="circle-word">人</span> 我最喜欢苹果(了) <span class="pinyin">wǒ zuì xǐhuān píngguǒ (le)</span> <span class="esp">Me gustan más las manzanas (=son lo que más me gusta)</span> <span class="unpack">⟨WHERE</span> 了 in opinion statements makes them sound more committed, like "definitely/for sure"<span class="unpack">⟩</span> <span class="circle-word">魂</span> 她是我们之中最高的 <span class="pinyin">tā shì wǒmen zhīzhōng zuìgāo de</span> <span class="esp">De nosotras ella es la más alta.</span> <span class="unpack">⟨WHERE</span> 之中 among<span class="unpack">⟩</span> <span class="circle-word">魄</span> 我最喜欢的音乐是摇滚和金属 <span class="pinyin">wǒ zuì xǐhuān de yīnyuè shì yáogǔn hé jīnshǔ</span> <span class="esp">La música que más me gusta es el rock y el metal.</span> <span class="circle-word">灵</span> 我只能买到最便宜的那个 <span class="pinyin">wǒ zhǐ néng meǎidào zuì piányi de nàge</span> <span class="esp">Solo pude conseguir lo más barato.</span>`,
       handwritten: `最`,
       traditional: `最`,
       strokeOrderImages: [
@@ -7455,8 +7456,8 @@
       { char: ' ', url: 'h' },
       { char: ' ', url: 'h' },
       ],
-      russian: `выгон<span class="stress">а</span>ть <span class="esp">sacar, echar</span><br>
-      <span class="star">☆</span> Подожди здесь, пока я в<span class="stress">ы</span>гоню/вывожу свою машину. <span class="esp">Espere aquí mientras saco el carro.</span> <span class="star">☦</span> Меня в<span class="stress">ы</span>гнали из дома/из школы/из страны/с работы. <span class="star">☆</span> В<span class="stress">ы</span>нать ученика из урока за плохое поведение. <span class="esp">Lo sacaron de la clase por mala conducta.</span> <span class="star">☦</span> И мы чуть дольше девяти задерж<span class="stress">а</span>лись, и нас приехали оттуда выгонять, короче. <span class="esp">Nos quedamos más tiempo un poquito más de las 9, y pues vinieron para sacarnos de ahí.</span>`,
+      russian: `выгон<span class="stress">я</span>ть <span class="esp">sacar, echar</span><br>
+      <span class="star">☆</span> Подожди здесь, пока я в<span class="stress">ы</span>гоню/вывожу свою машину. <span class="esp">Espere aquí mientras saco el carro.</span> <span class="star">☦</span> Меня в<span class="stress">ы</span>гнали из дома/из школы/из страны/с работы. <span class="star">☆</span> В<span class="stress">ы</span>гнать ученика из урока за плохое поведение. <span class="esp">Sacar a un estudiante de la clase por mala conducta.</span> <span class="star">☦</span> И мы чуть дольше девяти задерж<span class="stress">а</span>лись, и нас приехали оттуда выгонять, короче. <span class="esp">Nos quedamos más tiempo un poquito más de las 9, y pues vinieron para sacarnos de ahí.</span>`,
       inflection: `<span class="aspect">несов:</span> выгон<span class="stress">я</span>ть <span class="aspect">сов:</span> в<span class="stress">ы</span>гнать`,
       russianLinks: [
       { char: 'выгнать', url: 'https://ru.wiktionary.org/wiki/%D0%B2%D1%8B%D0%B3%D0%BD%D0%B0%D1%82%D1%8C' },
@@ -7511,16 +7512,12 @@
       { char: ' ', url: 'h' },
       { char: ' ', url: 'h' },
       ],
-      russian: `разбир<span class="stress">а</span>ться <span class="esp">entender, comprender; lidiar (con), resolver (un problema)</span><br>
-      <span class="star">☆</span> <span class="esp">X</span>`,
+      russian: `разбир<span class="stress">а</span>ться <span class="esp">entender, comprender, desenvolverse; lidiar (con), resolver (un problema)</span>; descubrir (=find out)<br>
+      In the sense of understanding sth, it can mean knowing the problem OR trying to understand the subject; but another Reddit user says разбираться с чем-то (not в чём-то) would be more appropriate in the latter scenario.<br>
+      <span class="star">☆</span> Разбираюсь в этой теме. <span class="esp">Yo conozco de este tema.</span> <span class="star">☦</span> Я пытаюсь разобраться в математике. <span class="esp">Intento comprender las matemáticas</span> <span class="star">☆</span> Нам нужно разобраться с жалобами. <span class="esp">Tenemos que lidiar con las quejas.</span> <span class="star">☦</span> Разобраться с проблемой. <span class="esp">Lidiar con/Tratar de resolver un problema.</span> <span class="star">☆</span> Мы разобрались, Петя случайно взял чужой карандаш. <span class="esp">Ya lo descubrimos/resolvimos, Petya cogió por accidente el lápiz de otra persona.</span>`,
       inflection: `<span class="aspect">несов:</span> разбир<span class="stress">а</span>ться <span class="aspect">сов:</span> разобр<span class="stress">а</span>ться`,
-      russianImages: [
-      'h',
-      'h'
-      ],
       russianLinks: [
-      { char: ' ', url: 'h' },
-      { char: ' ', url: 'h' },
+      { char: 'разбираться', url: 'https://ru.wiktionary.org/wiki/%D1%80%D0%B0%D0%B7%D0%B1%D0%B8%D1%80%D0%B0%D1%82%D1%8C%D1%81%D1%8F' },
       ],
     },
     {
@@ -7667,6 +7664,677 @@
       ],
       english: `<span class="title">blot <span class="or">or</span> soak up <span class="or">or</span> pat down</span> ☜ <span class="esp">secar la grasa extra (en comidas freídas)</span><br>
       <span class="skull">☠︎︎</span> <span class="example">You have to blot the extra grease off.</span> <span class="skull">☠︎︎</span> <span class="example">X</span>`,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">vilify</span> ☜ <span class="esp">denigrar, vilipendiar</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">Pro-life people are vilified and thought of as in opposition to the values that lead someone to be pro-choice.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">virtuous</span> ☜ <span class="esp">virtuoso, moral</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">Both are equally virtuous stances.</span> <span class="esp">Ambos son dos posturas igualmente morales.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">adamant</span> ☜ <span class="esp">firme, inflexible</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">I understand why pro-life people are so adamant in their stance.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">compromise on</span> ☜ <span class="esp">ceder</span><br> = accept a substandard<br>
+      <span class="skull">☠︎︎</span> <span class="example">In that belief, abortion would then be baby murder. This is something that can ever really be compromised on.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">weigh X against Y</span> ☜ <span class="esp">sopesar X frente Y, comparar X con Y</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">All benefits of a pro-choice outlook have to be directly weighed against baby murder.</span>`,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">grave sin</span> ☜ <span class="esp">pecado mortal</span><br>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">serious/grave offense</span> ☜ <span class="esp">delito grave</span><br>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">doesn't compute to me</span> ☜ <span class="esp">no me cuadra</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">It doesn't really compute to me that...</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">moral high ground</span> ☜ <span class="esp">supremacía moral</span><br>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">equate (sth with sth)</span> /ɪˈkweɪt/ ☜ <span class="esp">equiparar (algo con algo)</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">You are equating being pro-life with being religious.</span>`,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="esp">mentalmente tosta'o</span><br>
+      - mentally fried/exhausted/drained<br>
+      - brain-dead`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `fetus /ˈfitəs/ <span class="esp">feto</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">bodily</span> ☜ <span class="esp">corporal, del cuerpo, fisiológico</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">Does the mind survive when bodily life ends?</span> <span class="skull">☠︎︎</span> <span class="example">She's lost several bodily functions and now needs constant care.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">trespass (on someone's property)</span> ☜ <span class="esp">violar propiedad privada, meterse/entrar (a la propiedad de alguien)</span><br>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">all manner of</span> ☜ <span class="esp">todo tipo de</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">The Bible says all manner of things that the average Christian would never subscribe to, particularly in the Old Testament /ˈtɛstəmənt/.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `сгор<span class="stress">а</span>ние <span class="esp">combustión</span>`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `на медленном/среднем/сильном огне <span class="esp">a fuego lento/medio/alto</span><br>
+      <span class="star">☆</span> Разогрейте масло на среднем огне.`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `Verbs for "put":<br><br>
+      <span class="sickle">☭</span> класть (несов.) / положить (сов.) <span class="esp">poner</span> (dentro de / objetos "planos" / acostando un objeto alto)<br>
+      NOTE: Never say ложить (несов.) as it sounds illiterate. There's an entry of it on Викисловарь and it's labeled as просторечное.<br>
+      <span class="star">☆</span> Когда масло хорошо разогрелось, положите подготовленный картофель. <span class="esp">Cuando el aceite se haya calentado bien, ponga las papas ya listas.</span> <span class="star">☦</span> Я клад<span class="stress-y">у</span> телефон в карман перед тем, как выйти из дома. <span class="star">☆</span> Положи книгу на стол. <span class="star">☦</span> Мама сказала, что на этот стол нельзя ничего класть.<br>
+      <span class="sickle">☭</span> ставить (несов.) / постасить (сов.) (objetos "parados")<br>
+      <span class="star">☆</span> Официантка ставит тарелки на стол. <span class="esp">La mesera está poniendo los platos en la mesa.</span> <span class="star">☦</span> Поставь тарелку в р<span class="stress">а</span>ковину. <span class="esp">Ponga el plato en el lavaplatos.</span><br>
+      <span class="sickle">☭</span> вешать (несов.) / повесить (сов.) <span class="esp">poner (=colgando), colgar</span><br>
+      <span class="star">☆</span> Работаю в магазине одежды и целый день в<span class="stress">е</span>шаю одежду на в<span class="stress">е</span>шалки. <span class="esp">Trabajo en una tienda de ropa y todo el día estoy colgando ropa en los ganchos.</span> <span class="star">☦</span> В СССР люди часто в<span class="stress">е</span>шали ковёр на стену. <span class="esp">En la URSS, la gente solía poner (=colgar) el tapete en la pared.</span>`,
+      inflection: `<span class="aspect">несов:</span> класть <span class="aspect">сов:</span> положить
+      <span class="aspect">несов:</span> ставить <span class="aspect">сов:</span> поставить
+      <span class="aspect">несов:</span> в<span class="stress">е</span>шать <span class="aspect">сов:</span> пов<span class="stress">е</span>сить`,
+      russianLinks: [
+      { char: 'класть', url: 'http://ru.wiktionary.org/wiki/%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D1%8C' },
+      { char: 'поставить', url: 'https://ru.wiktionary.org/wiki/%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%B8%D1%82%D1%8C' },
+      { char: 'повесить', url: 'https://ru.wiktionary.org/wiki/%D0%BF%D0%BE%D0%B2%D0%B5%D1%81%D0%B8%D1%82%D1%8C' },
+      ],
+    },
+    {
+      chinese: `最不 + subjective verb<br>
+      <span class="pinyin">zuìbù</span><br>
+      <span class="esp">lo último que quiero/deseo + verbo</span><br><br>
+      <span class="circle-word">着</span> X<span class="pinyin">X</span> <span class="esp">X</span>`,
+      handwritten: `最不`,
+      traditional: `最不`,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `Когда масло хорошо разогрелось положите подготовленный картофель чтобы он <u>лежал</u> свободно. <span class="esp">...de manera que queden sueltas [las papas].</span>`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `определить <span class="esp">determinar, indentificar, definir, establecer</span><br>
+      <span class="star">☆</span> А вообще лайфхак как определить готовность разогрева масла - кинуть кусочек еды что будешь жарить туда. Когда будет б<span class="stress-y">у</span>лькать как тебе нравится то масло стало ок. <span class="esp">Ah, y de paso, un tip para saber cuándo está caliente el aceite — le tiras/echas un pedacito de lo que vas a freír. Cuando burbujee como te gusta, ya está listo.</span>`,
+      inflection: `<span class="aspect">несов:</span> определ<span class="stress">я</span>ть <span class="aspect">сов:</span> определ<span class="stress">и</span>ть`,
+      russianLinks: [
+      { char: 'определить', url: 'https://ru.wiktionary.org/wiki/%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B8%D1%82%D1%8C' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `А это похоже <u>больше</u> на картошка фри. <span class="esp">Pero esto se parece <u>más</u> a papas fritas.</span>`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+    },
+    {
+      chinese: `起床<br>
+      <span class="pinyin">qǐchuáng</span><br>
+      <span class="esp">levantarse</span><br><br>
+      <span class="circle-word">神</span> 为什么起床这么难? <span class="pinyin">wèishénme qǐchuáng zhème nán?</span> <span class="esp">Por qué es tan difícil levantarse?</span> <span class="circle-word">佛</span> 什么情况, 你还没起床呢?! <span class="pinyin">shénme qíngkuàng, nǐ háiméi qǐchuáng ne</span> <span class="esp">Qué pasó? Todavía no se ha levantado?</span>`,
+      handwritten: `起床`,
+      traditional: `起床`,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: `苹果<br>
+      <span class="pinyin">píngguǒ</span><br>
+      <span class="esp">manzana</span><br><br>
+      <span class="circle-word">禅</span> 他说你说过你喜欢苹果 <span class="esp">Él dijo que usted dijo que a usted le gustan las manzanas.</span> <span class="circle-word">悟</span> 听说苹果能给人能量 <span class="pinyin">tīngshuō píngguǒ néng gěi rén néngliàng</span> <span class="esp">Dicen/He escuchado que las manzanas le dan a uno energía.</span>`,
+      handwritten: `苹果`,
+      traditional: `蘋果`,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
       englishImages: [
       'h',
       'h'
