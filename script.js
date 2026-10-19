@@ -7401,10 +7401,10 @@
       ],
     },
     {
-      chinese: `最<br>
+      chinese: `最 / 最不<br>
       <span class="pinyin">zuì</span><br>
-      <span class="esp">el más (superlativo)</span><br><br>
-      <span class="circle-word">吾</span> 这是我见过最大的狗 <span class="pinyin">zhè shì wǒ jiàn guò zuì dà de gǒu<span> <span class="esp">Es el perro más grande que he visto.</span> <span class="circle-word">無</span> 世界上最大的国家 <span class="pinyin">shìjiè shàng zuì dà de guójiā</span> <span class="esp">El país más grande del mundo</span> <span class="unpack">⟨WHERE</span> 世界上 in the world<span class="unpack">⟩</span> <span class="circle-word">有</span> 最好的例子 <span class="pinyin">zuì hǎo de lìzi</span> <span class="esp">El mejor ejemplo.</span> <span class="circle-word">凹</span> 最好再问一次 <span class="pinyin">zuìhǎo zài wèn yīcì</span> <span class="esp">Mas vale preguntar de nuevo.</span> <span class="unpack">⟨WHERE</span> 再 again<span class="unpack">⟩</span> <span class="circle-word">浅</span> 秋天你最好来北京 <span class="or">or</span> 你最好秋天来北京 <span class="pinyin">qiūtiān nǐ zuìhǎo lái běijīng</span> <span class="esp">Es mejor (=más te vale) que venga a Pekín en otoño.</span> <span class="circle-word">残</span> 秋天是来北京最好的时候 <span class="pinyin">qiūtiān shì lái běijīng zuìhǎo de shíhou</span> <span class="esp">Otoño es el mejor tiempo para venir a Pekín.</span> <span class="circle-word">贱</span> 最美的国家 <span class="pinyin">zuìměi de guójiā</span> <span class="esp">El país más hermoso.</span> <span class="circle-word">人</span> 我最喜欢苹果(了) <span class="pinyin">wǒ zuì xǐhuān píngguǒ (le)</span> <span class="esp">Me gustan más las manzanas (=son lo que más me gusta)</span> <span class="unpack">⟨WHERE</span> 了 in opinion statements makes them sound more committed, like "definitely/for sure"<span class="unpack">⟩</span> <span class="circle-word">魂</span> 她是我们之中最高的 <span class="pinyin">tā shì wǒmen zhīzhōng zuìgāo de</span> <span class="esp">De nosotras ella es la más alta.</span> <span class="unpack">⟨WHERE</span> 之中 among<span class="unpack">⟩</span> <span class="circle-word">魄</span> 我最喜欢的音乐是摇滚和金属 <span class="pinyin">wǒ zuì xǐhuān de yīnyuè shì yáogǔn hé jīnshǔ</span> <span class="esp">La música que más me gusta es el rock y el metal.</span> <span class="circle-word">灵</span> 我只能买到最便宜的那个 <span class="pinyin">wǒ zhǐ néng meǎidào zuì piányi de nàge</span> <span class="esp">Solo pude conseguir lo más barato.</span>`,
+      <span class="esp">el más / menos (superlativo)</span><br><br>
+      <span class="circle-word">吾</span> 这是我见过最大的狗 <span class="pinyin">zhè shì wǒ jiàn guò zuì dà de gǒu<span> <span class="esp">Es el perro más grande que he visto.</span> <span class="circle-word">無</span> 世界上最大的国家 <span class="pinyin">shìjiè shàng zuì dà de guójiā</span> <span class="esp">El país más grande del mundo</span> <span class="unpack">⟨WHERE</span> 世界上 in the world<span class="unpack">⟩</span> <span class="circle-word">有</span> 最好的例子 <span class="pinyin">zuì hǎo de lìzi</span> <span class="esp">El mejor ejemplo.</span> <span class="circle-word">凹</span> 最好再问一次 <span class="pinyin">zuìhǎo zài wèn yīcì</span> <span class="esp">Mas vale preguntar de nuevo.</span> <span class="unpack">⟨WHERE</span> 再 again<span class="unpack">⟩</span> <span class="circle-word">浅</span> 秋天你最好来北京 <span class="or">or</span> 你最好秋天来北京 <span class="pinyin">qiūtiān nǐ zuìhǎo lái běijīng</span> <span class="esp">Es mejor (=más te vale) que vengas a Pekín en otoño.</span> <span class="circle-word">残</span> 秋天是来北京最好的时候 <span class="pinyin">qiūtiān shì lái běijīng zuìhǎo de shíhou</span> <span class="esp">Otoño es el mejor tiempo para venir a Pekín.</span> <span class="circle-word">贱</span> 最美的国家 <span class="pinyin">zuìměi de guójiā</span> <span class="esp">El país más hermoso.</span> <span class="circle-word">人</span> 我最喜欢苹果(了) <span class="pinyin">wǒ zuì xǐhuān píngguǒ (le)</span> <span class="esp">Me gustan más las manzanas (=son lo que más me gusta)</span> <span class="unpack">⟨WHERE</span> 了 in opinion statements makes them sound more committed, like "definitely/for sure"<span class="unpack">⟩</span> <span class="circle-word">魂</span> 她是我们之中最高的 <span class="pinyin">tā shì wǒmen zhīzhōng zuìgāo de</span> <span class="esp">De nosotras ella es la más alta.</span> <span class="unpack">⟨WHERE</span> 之中 among<span class="unpack">⟩</span> <span class="circle-word">魄</span> 我最喜欢的音乐是摇滚和金属 <span class="pinyin">wǒ zuì xǐhuān de yīnyuè shì yáogǔn hé jīnshǔ</span> <span class="esp">La música que más me gusta es el rock y el metal.</span> <span class="circle-word">灵</span> 我只能买到最便宜的那个 <span class="pinyin">wǒ zhǐ néng mǎidào zuì piányi de nàge</span> <span class="esp">Solo pude conseguir lo más barato.</span> <span class="circle-word">律</span> 你去过最不友好的国家是哪个? <span class="pinyin">nǐ qù guò zuìbù yǒuhǎo de guójiā shì něge?</span> <span class="esp">Cuál ha sido el país menos amigable que ud. haya ido?</span>`,
       handwritten: `最`,
       traditional: `最`,
       strokeOrderImages: [
@@ -7663,15 +7663,7 @@
       { char: ' ', url: 'h' },
       ],
       english: `<span class="title">blot <span class="or">or</span> soak up <span class="or">or</span> pat down</span> ☜ <span class="esp">secar la grasa extra (en comidas freídas)</span><br>
-      <span class="skull">☠︎︎</span> <span class="example">You have to blot the extra grease off.</span> <span class="skull">☠︎︎</span> <span class="example">X</span>`,
-      englishImages: [
-      'h',
-      'h'
-      ],
-      englishLinks: [
-      { char: ' ', url: 'h' },
-      { char: ' ', url: 'h' },
-      ],
+      <span class="skull">☠︎︎</span> <span class="example">You have to blot the extra grease off.</span>`,
       russian: ``,
       inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
       russianImages: [
@@ -8176,8 +8168,8 @@
     {
       chinese: `最不 + subjective verb<br>
       <span class="pinyin">zuìbù</span><br>
-      <span class="esp">lo último que quiero/deseo + verbo</span><br><br>
-      <span class="circle-word">着</span> X<span class="pinyin">X</span> <span class="esp">X</span>`,
+      <span class="esp">lo que menos..., lo último que... + verbo</span><br><br>
+      <span class="circle-word">戒</span> 我最不想看到的是你哭 <span class="pinyin">wǒ zuìbù xiǎng kàndào de shì nǐ kū</span> <span class="esp">Lo que menos quiero ver a ti llorando.</span> }<span class="circle-word">律</span> 他的意见我最不在乎的 <span class="pinyin">tā de yìjiàn wǒ zuìbù zàihu de</span> <span class="esp">Su opinión es lo que menos me importa.</span>`,
       handwritten: `最不`,
       traditional: `最不`,
       strokeOrderImages: [
@@ -8326,6 +8318,699 @@
       <span class="circle-word">禅</span> 他说你说过你喜欢苹果 <span class="esp">Él dijo que usted dijo que a usted le gustan las manzanas.</span> <span class="circle-word">悟</span> 听说苹果能给人能量 <span class="pinyin">tīngshuō píngguǒ néng gěi rén néngliàng</span> <span class="esp">Dicen/He escuchado que las manzanas le dan a uno energía.</span>`,
       handwritten: `苹果`,
       traditional: `蘋果`,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">take hold</span> ☜ <span class="esp">establecerse, consolidarse, afianzarse, arraigarse (=dicho de un sistema, una política, o un hábito); agarrar, tomar (algo); apoderarse, invadir (=dicho de un sentimiento)</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">The new policy is starting to take hold.</span> <span class="skull">☠︎︎</span> <span class="example">Once the habit takes hold, it's hard to break.</span> <span class="esp">Una vez el hábito se arraiga, es difícil dejarlo.</span> <span class="skull">☠︎︎</span> <span class="example">Take hold of the rope and pull.</span> <span class="esp">Agarra la cuerda y jala.</span> <span class="skull">☠︎︎</span> <span class="example">Panic took hold of the crowd.</span> <span class="esp">El pánico se apoderó de la multitud.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">barren</span> /ˈbærən/ ☜ <span class="esp">árido, infértil, estéril</span><br>`,
+      englishImages: [
+      'https://dcom-image-definition-optimized.dictionary.com/definitions/barren/barren-6a051a8608d51f4b2c710417-450.jpg',
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">whinny</span> /ˈhwɪni, ˈwɪni/ ☜ <span class="esp">relinchar; relincho</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">The horse was whinnying in its stall.</span> <span class="skull">☠︎︎</span> <span class="example">The horse let out a whinny.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">to chance</span> ☜ <span class="usage">(informal, common)</span> <span class="esp">arriesgar</span><br>
+      The phrase "chance it = arriesgarse" is particularly common.<br>
+      <span class="skull">☠︎︎</span> <span class="example">The forecast <u>called for</u>, but we decided to chance it and drive up to the cabin anyway.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">perilous</span>/ˈpɛrələs/ ☜ <span class="esp">peligroso, arriesgado</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">The sailor embarked on a perilous journey/voyage /ˈvɔɪɪdʒ/ across the Atlantic in a small boat.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">blistering heat / blistering cold</span> ☜ <span class="esp">calor abrasador / frío violento/feroz/despiadado</span><br>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">risk life and limb</span> ☜ <span class="esp">jugarse la vida (haciendo algo peligroso)</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">Firefighters risked life and limb to pull the children from the burning house.</span> <span class="skull">☠︎︎</span> <span class="example">He was risking life and limb just to get that perfect photograph.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">physical/bodily integrity</span> ☜ <span class="esp">integridad física</span><br>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">ominous</span> /ˈɑmənəs/ ☜ <span class="esp">amenazante, siniestro, inquietante, de mal agüero</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">Those clouds look very ominous; I think there's going to be a storm.</span> <span class="skull">☠︎︎</span> <span class="example">An ominous sign appeared.</span> <span class="skull">☠︎︎</span> <span class="example">The atmosphere was ominous.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">moat</span> /moʊt/ ☜ <span class="esp">foso</span><br>
+      The deep, wide ditch (=<span class="esp">zanja</span>) or trench (=<span class="esp">zanja</span>) dug around a castle, fortress, or fortified town, which is often filled with water.`,
+      englishImages: [
+      'https://www.castlewales.com/2023-09-29-14h19m32s970.jpg',
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">zipline / zip line</span> ☜ <span class="esp">tirolesa</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">I've always wanted to ride a zipline high up in the trees.</span>`,
+      englishImages: [
+      'https://eldoradosonoma.com/wp-content/uploads/2020/08/Sonoma-Zipline-Canopy-Tour.jpg',
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">hair net</span> ☜ <span class="esp">redecilla</span><br>`,
+      englishImages: [
+      'https://image.made-in-china.com/202f0j00vYgoQUMahdkA/100PCS-Lot-Five-Colors-Nylon-Hairnets-Black-Brown-Coffee-Color-Invisible-Soft-Elastic-Lines-Hair-Net.webp',
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">dreaded</span> ☜ <span class="esp">temido, terrible</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">It was destiny that his kiss wold break the dreaded curse.</span> <span class="skull">☠︎︎</span> <span class="example">The dreaded day arrived/came.</span> <span class="skull">☠︎︎</span> <span class="example">He finally faced his dreaded opponent.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `shake out the hair (loosen and let fall freely)<br>
+      toss your hair (back/free (flip back with a quick motion)<br>
+      swish (side to side)<br>
+      = verbs for shaking your hair to let your hair fall freely and settle after being confined, like after taking off a helmet.`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">chamber of commerce</span> ☜ <span class="esp">cámara de comercio</span><br>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">go on / be on our honeymoon</span> ☜ <span class="esp">irse de / estar en la luna de miel</span><br>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `туш<span class="stress">и</span>ть <span class="esp">apagar, extinguir (el fuego); cocinar a fuego lento; guisar (carne)</span> (común y natural)<br>
+      <span class="star">☆</span> Я на первых <u>же</u> секундах подумал: "Он что, будет горящее масло водой тушить?" <span class="esp">..."Este qué? En serio va a apagar el aceite ardiendo con agua?</span> <span class="star">☦</span> Тушить пож<span class="stress">а</span>р. <span class="esp">Apagar un incendio.</span> <span class="star">☆</span> Потушить св<span class="stress">е</span>чку. <span class="esp">Apagar una vela.</span> <span class="star">☦</span> Тушить мясо/капусту...`,
+      inflection: `<span class="aspect">несов:</span> туш<span class="stress">и</span>ть <span class="aspect">сов:</span> затуш<span class="stress">и</span>ть/потуш<span class="stress">и</span>ть`,
+      russianLinks: [
+      { char: 'тушить', url: 'https://ru.wiktionary.org/wiki/%D1%82%D1%83%D1%88%D0%B8%D1%82%D1%8C' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `гор<span class="stress">я</span>щий <span class="esp">en llamas, ardiendo</span><br>
+      <span class="star">☆</span> Пожарные использовали авиационное оборудование для сброса воды на горящий лес. <span class="esp">Los bomberos usaron equipos aéreos para arrojar agua sobre el bosque en llamas.</span> <span class="star">☦</span> Не вздумай лить воду в горящее масло. <span class="esp">No se le vaya a ocurrir echarle agua al aceite ardiendo.</span>`,
+      inflection: `<span class="aspect">несов:</span> лить`,
+      russianLinks: [
+      { char: 'лить', url: 'https://ru.wiktionary.org/wiki/%D0%BB%D0%B8%D1%82%D1%8C' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `пот<span class="stress-y">у</span>хнуть <span class="esp">apagarse (fuego); apagarse, atenuarse (figurativo)</span><br>
+      <span class="star">☆</span> Свеч<span class="stress">а</span> сама пот<span class="stress-y">у</span>хла. <span class="esp">La vela se apagó sola.</span> <span class="star">☦</span> Костёр пот<span class="stress-y">у</span>х. <span class="esp">La hoguera se apagó.</span> <span class="star">☆</span> Интерес пот<span class="stress-y">у</span>х. <span class="star">☦</span> Вражд<span class="stress">а</span> пот<span class="stress-y">у</span>хла. <span class="esp">Las hostilidades se atenuaron.</span> <span class="star">☆</span> Свет потух. <span class="esp">Se fue la luz.</span> (although here "свет погас" is slightly more common for a power outage) <span class="star">☦</span> Когда выключил огонь, возникла надежда (stylistic with a humorous tone, one would say была надежда more often) — в принципе можно было даже оставить, оно бы пот<span class="stress-y">у</span>хло. <span class="esp">Cuando apagó el fuego, hubo esperanza, lo normal hubiera sido dejarlo ahí, se hubiera apagado.</span>`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> пот<span class="stress-y">у</span>хнуть`,
+      russianLinks: [
+      { char: 'потухнуть', url: 'https://ru.wiktionary.org/wiki/%D0%BF%D0%BE%D1%82%D1%83%D1%85%D0%BD%D1%83%D1%82%D1%8C' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `Verbs for "catch fire":<br><br>
+      <span class="sickle">☭</span> загор<span class="stress">е</span>ть<br> <span class="esp">encenderse, incendiarse</span>
+      <span class="star">☆</span> Осторожно! Дом может загореться! <span class="esp">Cuidado! Se puede incendiar la casa!</span> <span class="star">☦</span> Бумажные фон<span class="stress">а</span>рики легко могут загореться, если с ними не обращаться осторожно. <span class="esp">Los faroles de papel se pueden quemar (=incendiar) si no se manejan con cuidado.</span> <span class="star">☆</span> Я налила много масла и сковородка загорелась. <span class="esp">Le eché mucho aceite y la paila se encendió.</span><br>
+      There's the expression загореться идеей (=emocionarse con una idea). For example, Он загорелся идеей открыть кафе.<br>
+      <span class="sickle">☭</span> всп<span class="stress">ы</span>хнуть`,
+      inflection: `<span class="aspect">несов:</span> загор<span class="stress">а</span>ться <span class="aspect">сов:</span> загор<span class="stress">е</span>ться`,
+      russianLinks: [
+      { char: 'загореться', url: 'https://ru.wiktionary.org/wiki/%D0%B7%D0%B0%D0%B3%D0%BE%D1%80%D0%B5%D1%82%D1%8C%D1%81%D1%8F' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `Больше ничего на ум не приходит. <span class="esp">No se me ocurre nada más.</span>`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: `音乐<br>
+      <span class="pinyin">yīnyuè</span><br>
+      <span class="esp">música</span><br><br>
+      <span class="circle-word">空</span> 会是他反音乐吗? <span class="pinyin">huì shì tā fàng yīnyuè ma? </span> <span class="esp">Será él el que ponga la música?</span>`,
+      handwritten: `音乐`,
+      traditional: `音樂`,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: `摇滚<br>
+      <span class="pinyin">yáogǔn</span><br>
+      <span class="esp">rock</span><br><br>
+      <span class="circle-word">静</span> 我是听(着)摇滚长大的, (都)因为我(的)哥哥们 <span class="pinyin">wǒ shì tīng (zhe) yáogǔn zhǎngdà de, (dōu) yīnwèi wǒ (de) gēgemen </span> <span class="esp">Crecí escuchando rock por mis hermanos.</span> <span class="unpack">⟨WHERE</span> 是... 长大的 is a structure to mean how you grew up; 都因为 all because...<span class="unpack">⟩</span>`,
+      handwritten: `摇滚`,
+      traditional: `搖滾`,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: `金属<br>
+      <span class="pinyin">jīnshǔ</span><br>
+      <span class="esp">metal</span><br><br>
+      <span class="circle-word">定</span> 我(用吉他)弹金属歌 <span class="pinyin">wǒ (yòng jítā) tán jīnshǔ gē</span> <span class="esp">Toco canciones de metal (en la guitarra)</span> <span class="circle-word">忍</span> 我玩金属乐 or 我搞金属 <span class="pinyin">wǒ wán jīnshǔ yuè ...or... wǒ gǎo jīnshǔ<span> <span class="esp">Toco metal.</span>`,
+      handwritten: `金属`,
+      traditional: `金屬`,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: `便宜<br>
+      <span class="pinyin">piányi</span><br>
+      <span class="esp">barato</span><br><br>
+      <span class="circle-word">慧</span> 想法就是买便宜的 <span class="pinyin">xiǎngfǎ jiùshì mǎi piányi de</span> <span class="esp">La idea es comprar barato.</span>`,
+      handwritten: `便宜`,
+      traditional: `便宜`,
       strokeOrderImages: [
       'h',
       'h'
