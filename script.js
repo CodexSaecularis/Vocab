@@ -2717,7 +2717,7 @@
       { char: ' ', url: 'https://' },
       ],
       english: `<span class="title">brainrot</span> ☜ <span class="esp">basura en redes sociales que fritan el cerebro</span><br>
-      <span class="skull">☠︎︎</span> <span class="example">Does he intend to lobotomize everyone with brainrot so people rely on his product for "intelligence"?</span>`,
+      <span class="skull">☠︎︎</span> <span class="example">Does he intend to lobotomize  /ləˈbɑtəˌmaɪz/ everyone with brainrot so people rely on his product for "intelligence"?</span>`,
       russian: ``,
       inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
       russianImages: [
@@ -5479,7 +5479,7 @@
       <span class="sickle">☭</span> подогр<span class="stress">е</span>ть <span class="esp">calentar (un poquito o lo necesario para comer)</span> (used with food) (many times substituted by погреть, разогреть, and нагреть)
       <span class="star">☆</span> Каша ост<span class="stress">ы</span>ла и её надо подогреть. <span class="esp">Se me enfrío la avena y tengo que calentarla.</span> <span class="star">☦</span> Подогреть в микроволн<span class="stress">о</span>вке. <span class="star">☆</span> Как подогреть бут<span class="stress">ы</span>лочку. <span class="esp">Cómo calentar un tetero.</span><br>
       <span class="sickle">☭</span> разогр<span class="stress">е</span>ть <span class="esp">calentar (comida que ya estaba caliente (=recalentar) que o está congelada o sacada de la nevera); precalentar (un sartén/horno o los músculos para ejercitarse; calentar un público (said of an opening band/act)</span> (used especially when the food is frozen or too cold, so it's a stronger version of подогреть as the food may be hotter)<br>
-      <span class="star">☆</span> Возьми курицу из холодильника и разогрей на ужин. <span class="star">☦</span> Разогреть еду в микроволновке. <span class="star">☆</span> Разогрейте дух<span class="stress">о</span>ку до 200 (двухс<span class="stress">о</span>т) градусов. <span class="esp">Precaliente el horno a 200°C</span> <span class="star">☦</span> В рецепте не написано насколько греть/нагреть/разогреть масло.<br>
+      <span class="star">☆</span> Возьми курицу из холодильника и разогрей на ужин. <span class="star">☦</span> Разогреть еду в микроволновке. <span class="star">☆</span> Разогрейте дух<span class="stress">о</span>ку до 200 (двухс<span class="stress">о</span>т) градусов. <span class="esp">Precaliente el horno a 200°C</span> <span class="star">☦</span> В рецепте не написано насколько греть/нагреть/разогреть масло. <span class="star">☆</span> Мне нужно разогреться перед тренировкой. <span class="esp">Tengo que calentar antes del entrenamiento/ejercicio.</span><br>
       <span class="sickle">☭</span> прогр<span class="stress">е</span>ть <span class="esp">calentar (el carro en época de invierno)</span><br>
       <span class="star">☆</span> Зимой перед поездкой надо прогревать/греть мотор/дв<span class="stress">и</span>гатель. <span class="esp">En época de invierno, antes de salir hay que calentar el motor.</span><br>
       <span class="sickle">☭</span> обогрев<span class="stress">а</span>ть <span class="esp">calentar/dar calefacción (a una casa)</span><br>
@@ -8166,10 +8166,45 @@
       ],
     },
     {
+      chinese: `在乎<br>
+      <span class="pinyin">zàihu</span><br>
+      <span class="esp">importar</span><br><br>
+      <span class="circle-word">戒</span> 我不在乎你的想法 <span class="pinyin">wǒ bù zàihu nǐ de xiǎngfǎ</span> <span class="esp">No me importa lo que piense ud.</span> <span class="circle-word">律</span> 我不在乎钱 <span class="pinyin">wǒ bù zàihu qián</span> <span class="esp">No me importa el dinero.</span> <span class="circle-word">缘</span> 你在乎别人怎么看你妈? <span class="pinyin">nǐ zàihu biérén zěnme kàn nǐ ma?</span> <span class="esp">A usted le importa cómo la gente lo vea?</span> <span class="circle-word">劫</span> 家人是每个人最在乎的 <span class="esp">La familia es lo que más nos importa a todos.</span>`,
+      handwritten: `在乎`,
+      traditional: `在乎`,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
       chinese: `最不 + subjective verb<br>
       <span class="pinyin">zuìbù</span><br>
       <span class="esp">lo que menos..., lo último que... + verbo</span><br><br>
-      <span class="circle-word">戒</span> 我最不想看到的是你哭 <span class="pinyin">wǒ zuìbù xiǎng kàndào de shì nǐ kū</span> <span class="esp">Lo que menos quiero ver a ti llorando.</span> }<span class="circle-word">律</span> 他的意见我最不在乎的 <span class="pinyin">tā de yìjiàn wǒ zuìbù zàihu de</span> <span class="esp">Su opinión es lo que menos me importa.</span>`,
+      <span class="circle-word">戒</span> 我最不想看到的是你哭 <span class="pinyin">wǒ zuìbù xiǎng kàndào de shì nǐ kū</span> <span class="esp">Lo que menos quiero ver a ti llorando.</span> <span class="circle-word">律</span> 他的意见我最不在乎的 <span class="pinyin">tā de yìjiàn wǒ zuìbù zàihu de</span> <span class="esp">Su opinión es lo que menos me importa.</span>`,
       handwritten: `最不`,
       traditional: `最不`,
       strokeOrderImages: [
@@ -8833,7 +8868,7 @@
       { char: ' ', url: 'h' },
       ],
       russian: `пот<span class="stress-y">у</span>хнуть <span class="esp">apagarse (fuego); apagarse, atenuarse (figurativo)</span><br>
-      <span class="star">☆</span> Свеч<span class="stress">а</span> сама пот<span class="stress-y">у</span>хла. <span class="esp">La vela se apagó sola.</span> <span class="star">☦</span> Костёр пот<span class="stress-y">у</span>х. <span class="esp">La hoguera se apagó.</span> <span class="star">☆</span> Интерес пот<span class="stress-y">у</span>х. <span class="star">☦</span> Вражд<span class="stress">а</span> пот<span class="stress-y">у</span>хла. <span class="esp">Las hostilidades se atenuaron.</span> <span class="star">☆</span> Свет потух. <span class="esp">Se fue la luz.</span> (although here "свет погас" is slightly more common for a power outage) <span class="star">☦</span> Когда выключил огонь, возникла надежда (stylistic with a humorous tone, one would say была надежда more often) — в принципе можно было даже оставить, оно бы пот<span class="stress-y">у</span>хло. <span class="esp">Cuando apagó el fuego, hubo esperanza, lo normal hubiera sido dejarlo ahí, se hubiera apagado.</span>`,
+      <span class="star">☆</span> Свеч<span class="stress">а</span> сама пот<span class="stress-y">у</span>хла. <span class="esp">La vela se apagó sola.</span> <span class="star">☦</span> Костёр пот<span class="stress-y">у</span>х. <span class="esp">La fogata se apagó.</span> <span class="star">☆</span> Интерес пот<span class="stress-y">у</span>х. <span class="star">☦</span> Вражд<span class="stress">а</span> пот<span class="stress-y">у</span>хла. <span class="esp">Las hostilidades se atenuaron.</span> <span class="star">☆</span> Свет потух. <span class="esp">Se fue la luz.</span> (although here "свет погас" is slightly more common for a power outage) <span class="star">☦</span> Когда выключил огонь, возникла надежда (stylistic with a humorous tone, one would say была надежда more often) — в принципе можно было даже оставить, оно бы пот<span class="stress-y">у</span>хло. <span class="esp">Cuando apagó el fuego, hubo esperanza, lo normal hubiera sido dejarlo ahí, se hubiera apagado.</span>`,
       inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> пот<span class="stress-y">у</span>хнуть`,
       russianLinks: [
       { char: 'потухнуть', url: 'https://ru.wiktionary.org/wiki/%D0%BF%D0%BE%D1%82%D1%83%D1%85%D0%BD%D1%83%D1%82%D1%8C' },
@@ -8860,15 +8895,12 @@
       { char: ' ', url: 'h' },
       { char: ' ', url: 'h' },
       ],
-      russian: `Verbs for "catch fire":<br><br>
-      <span class="sickle">☭</span> загор<span class="stress">е</span>ть<br> <span class="esp">encenderse, incendiarse</span>
-      <span class="star">☆</span> Осторожно! Дом может загореться! <span class="esp">Cuidado! Se puede incendiar la casa!</span> <span class="star">☦</span> Бумажные фон<span class="stress">а</span>рики легко могут загореться, если с ними не обращаться осторожно. <span class="esp">Los faroles de papel se pueden quemar (=incendiar) si no se manejan con cuidado.</span> <span class="star">☆</span> Я налила много масла и сковородка загорелась. <span class="esp">Le eché mucho aceite y la paila se encendió.</span><br>
-      There's the expression загореться идеей (=emocionarse con una idea). For example, Он загорелся идеей открыть кафе.<br>
-      <span class="sickle">☭</span> всп<span class="stress">ы</span>хнуть`,
+      russian: `загор<span class="stress">е</span>ться <span class="esp">encenderse, prenderse, incendiarse</span><br>
+      <span class="star">☆</span> Осторожно! Дом может загореться! <span class="esp">Cuidado! Se puede prender/incendiar la casa!</span> <span class="star">☦</span> Бумажные фон<span class="stress">а</span>рики легко могут загореться, если с ними не обращаться осторожно. <span class="esp">Los faroles de papel se pueden quemar (=incendiar) si no se manejan con cuidado.</span> <span class="star">☆</span> Я налил<span class="stress">а</span> много масла и сковородка загорелась. <span class="esp">Le eché mucho aceite y la paila se encendió/prendió.</span><br>
+      <span class="sickle">☭</span> There's the expression загореться идеей (=emocionarse con una idea). For example, Он загорелся идеей открыть каф<span class="stress">е</span>.<br>`,
       inflection: `<span class="aspect">несов:</span> загор<span class="stress">а</span>ться <span class="aspect">сов:</span> загор<span class="stress">е</span>ться`,
       russianLinks: [
-      { char: 'загореться', url: 'https://ru.wiktionary.org/wiki/%D0%B7%D0%B0%D0%B3%D0%BE%D1%80%D0%B5%D1%82%D1%8C%D1%81%D1%8F' },
-      { char: ' ', url: 'h' },
+      { char: 'загореться', url: 'https://ru.wiktionary.org/wiki/%D0%B7%D0%B0%D0%B3%D0%BE%D1%80%D0%B5%D1%82%D1%8C%D1%81%D1%8F' }
       ],
     },
     {
@@ -9011,6 +9043,248 @@
       <span class="circle-word">慧</span> 想法就是买便宜的 <span class="pinyin">xiǎngfǎ jiùshì mǎi piányi de</span> <span class="esp">La idea es comprar barato.</span>`,
       handwritten: `便宜`,
       traditional: `便宜`,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">steed</span> ☜ <span class="esp">corcel</span>`,
+      englishImages: [
+      'https://equineworld.co.uk/images/black.jpg',
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `разогр<span class="stress">е</span>ться <span class="or">или</span> размин<span class="stress">а</span>ться <span class="esp">calentar (los músculos)</span><br>
+      <span class="star">☆</span> Разогрейтесь / Разомн<span class="stress">и</span>тесь <span class="esp">Calienten!</span><br>
+      <span class="sickle">☭</span> A "warm-up" is разм<span class="stress">и</span>нка. For example, давайте делаем разминку.`,
+      inflection: `<span class="aspect">несов:</span> разогрев<span class="stress">а</span>ться <span class="aspect">сов:</span> разогр<span class="stress">е</span>ться
+      <span class="aspect">несов:</span> размин<span class="stress">а</span>ться <span class="aspect">сов:</span> разм<span class="stress">я</span>ться`,
+      russianLinks: [
+      { char: 'разогреться', url: 'https://ru.wiktionary.org/wiki/%D1%80%D0%B0%D0%B7%D0%BE%D0%B3%D1%80%D0%B5%D1%82%D1%8C%D1%81%D1%8F' },
+      { char: 'размяться', url: 'https://ru.wiktionary.org/wiki/%D1%80%D0%B0%D0%B7%D0%BC%D1%8F%D1%82%D1%8C%D1%81%D1%8F#%D1%80%D0%B0%D0%B7%D0%BC%D1%8F%CC%81%D1%82%D1%8C%D1%81%D1%8F' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `фит<span class="stress">и</span>ль <span class="esp">mecha de una vela</span><br><br>`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'https://cs11.livemaster.ru/storage/topicavatar/600x450/3d/37/3b1b1ed25d9c20a3a382c2ed98fe8a1c49b7pw.jpg?h=_R88trKP1ANUnxp_i0zDBQ',
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `"light fire/turn on/burn" verbs thesaurus:<br>
+      &nbsp;<br>
+      <span class="gold">Starting the fire / Igniting / Turning on</span><br>
+      <span class="sickle">☭</span> зажиг<span class="stress">а</span>ть <span class="esp">prender, encender</span> (especially a match, candle, gas stove burner, paper, fire, bulb, or light [включить is more common for electric light]) (implies a quick action)<br>
+      <span class="star">☆</span> Зажечь сп<span class="stress">и</span>чку. <span class="esp">Prender un fósforo.</span> <span class="star">☦</span> Зажечь (газовую) конф<span class="stress">о</span>рку. <span class="esp">Prender el fogón.</span> <span class="star">☆</span> Зажечь лампу. <span class="esp">Encender/Prender el bombillo.</span> <span class="star">☦</span> Зажечь огонь в Москве/квартире. <span class="esp">Prender fuego a Moscú/su apartamento.</span> <span class="star">☆</span> Зажечь олимпийский огонь. <span class="esp">Encender la torcha olímpica.</span><br>
+      <span class="sickle">☭</span> разжиг<span class="stress">а</span>ть <span class="esp">prender, avivar</span> (especially a campfire, firepit, fireplace) (implies effort, starting it from small pieces and get it going) (when used figuratively, it's "avivar/reavivar/incitar")<br>
+      <span class="star">☆</span> Разжечь костёр. <span class="esp">Prender/Hacer una fogata.</span> <span class="star">☦</span> Разжечь пл<span class="stress">а</span>мя их любви. <span class="esp">Reavivar las llamas de su amor.</span> <span class="star">☆</span> Разжечь конфликт. <span class="esp">Provocar el conflicto.</span> <span class="star">☦</span> Разжечь ненависть. <span class="esp">Incitar al odio.</span> <span class="star">☆</span> Разжечь войну. <span class="esp">Provocar una guerra.</span> <span class="star">☦</span> Разжечь манг<span class="stress">а</span>л. <span class="esp">Prender la parrilla.</span><br>
+      <span class="sickle">☭</span> поджиг<span class="stress">а</span>ть <span class="esp">prenderle fuego, incendiar</span> (set sth on fire) (implies destruction)<br>
+      <span class="star">☆</span> Поджечь дом/здание/машину/мусор/бумагу... <span class="star">☦</span> Он поджёг дом и убежал. <span class="esp">Le prendió fuego a la casa y salió corriendo.</span><br>
+      <span class="gold">Catching fire</span><br>
+      <span class="sickle">☭</span> загор<span class="stress">е</span>ться <span class="esp">encenderse, incendiarse</span><br>
+      <span class="star">☆</span> Осторожно! Дом может загореться! <span class="esp">Cuidado! Se puede incendiar la casa!</span> <span class="star">☦</span> Бумажные фон<span class="stress">а</span>рики легко могут загореться, если с ними не обращаться осторожно. <span class="esp">Los faroles de papel se pueden quemar (=incendiar) si no se manejan con cuidado.</span> <span class="star">☆</span> Я налил<span class="stress">а</span> много масла и сковородка загорелась. <span class="esp">Le eché mucho aceite y la paila se encendió.</span><br>
+      There's the expression загореться идеей (=emocionarse con una idea). For example, Он загорелся идеей открыть кафе.<br>
+      <span class="sickle">☭</span> всп<span class="stress">ы</span>хнуть
+      <span class="gold">Burning</span><br>`,
+      inflection: `<span class="aspect">несов:</span> зажиг<span class="stress">а</span>ть <span class="aspect">сов:</span> заж<span class="stress">е</span>чь
+      <span class="aspect">несов:</span> разжиг<span class="stress">а</span>ть <span class="aspect">сов:</span> разж<span class="stress">е</span>чь
+      <span class="aspect">несов:</span> поджиг<span class="stress">а</span>ть <span class="aspect">сов:</span> подж<span class="stress">е</span>чь
+      <span class="aspect">несов:</span> загор<span class="stress">а</span>ться <span class="aspect">сов:</span> загор<span class="stress">е</span>ться
+      <span class="aspect">несов:</span> всп<span class="stress">ы</span>хивать <span class="aspect">сов:</span> всп<span class="stress">ы</span>хнуть`,
+      russianLinks: [
+      { char: 'зажечь', url: 'https://ru.wiktionary.org/wiki/%D0%B7%D0%B0%D0%B6%D0%B5%D1%87%D1%8C#%D0%B7%D0%B0%D0%B6%D0%B5%CC%81%D1%87%D1%8C' },
+      { char: 'поджечь', url: 'https://ru.wiktionary.org/wiki/%D0%BF%D0%BE%D0%B4%D0%B6%D0%B5%D1%87%D1%8C' },
+      { char: 'разжечь', url: 'https://ru.wiktionary.org/wiki/%D1%80%D0%B0%D0%B7%D0%B6%D0%B5%D1%87%D1%8C' },
+      { char: 'загореться', url: 'https://ru.wiktionary.org/wiki/%D0%B7%D0%B0%D0%B3%D0%BE%D1%80%D0%B5%D1%82%D1%8C%D1%81%D1%8F' },
+      { char: 'вспыхнуть', url: 'https://ru.wiktionary.org/wiki/%D0%B2%D1%81%D0%BF%D1%8B%D1%85%D0%BD%D1%83%D1%82%D1%8C' },
+      ],
+    },
+    {
+      chinese: `我不会说这样的东西<br>
+      <span class="esp">Yo no diría algo así</span>`,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: `完美<br>
+      <span class="pinyin">wánměi</span><br>
+      <span class="esp">perfecto</span><br><br>
+      <span class="circle-word">业</span> 你是完美的 <span class="esp">Eres perfecta.</span> <span class="circle-word">果</span> 好完美的夜晚 <span class="pinyin">hǎo wánměi de yèwǎn</span> <span class="esp">Qué noche perfecta!</span>`,
+      handwritten: `完美`,
+      traditional: `完美`,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: `到底 (not vulgar, slightly colloquial)<br>
+      <span class="pinyin">dàodǐ</span><br>
+      <span class="esp">al final [sí o no?]</span> (in some cases)<br><br>
+      More than anything, it's an emphatic expression that makes the sentence sound stronger. It can carry impatience or simply curiosity.<br>
+      <span class="circle-word">因</span> 你到底去不去? <span class="esp">Al final sí va a ir o no?</span> <span class="circle-word">真</span> 你到底是谁? <span class="pinyin">nǐ dàodǐ shì shéi?</span> <span class="esp">Y quién es que es usted?</span> <span class="circle-word">诚</span> 你到底想做什么? <span class="esp">Qué es lo que quiere hacer ud. pues entonces?</span> (with exasperation) <span class="circle-word">信</span> 你到底去哪了? <span class="pinyin">nǐ dàodǐ qù nǎ le?</span> <span class="esp">Y ud. dónde es que estaba metido?</span> <span class="circle-word">义</span> 他们俩到底为什么分手? <span class="pinyin">tāmen liǎ dàodǐ wèishénme fēnshǒu?</span> <span class="esp">Y esos dos por qué fue que se separaron?</span> <span class="unpack">⟨WHERE</span> 俩 two/both; 分手 break up<span class="unpack">⟩</span>`,
+      handwritten: `到底`,
+      traditional: `到底`,
       strokeOrderImages: [
       'h',
       'h'
