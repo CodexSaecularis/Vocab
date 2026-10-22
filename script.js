@@ -3650,7 +3650,7 @@
       (🧧 Also note how 屋 goes alone without 子, keeping the same meaning: room. Natives often drop 子 when 屋 is used as a location and when it's followed by 里.)<br>
       Anyway, keeping 在 will always be right.<br>
       里 is not used when talking about place names, like cities. For example, 他在北京工作 <span class="pinyin">tā zài běijīng gōngzuò</span> <span class="esp">He's working in Beijing.</span><br>
-      NOTE: To say "He's there", both 他在那 and 他在那里 are correct.<br>
+      NOTE: To say "He's there", both 他在那 and 他在那里 are correct. Ngram says the former is clearly more common.<br>
       A rule of thumb is if the location is already a place (city, room, bar, forest, etc.), 里 is optional. But if the location is an object (water, box, video, etc.), 里 is needed.`,
       handwritten: `在... 里`,
       traditional: `在... 裏`,
@@ -9285,6 +9285,248 @@
       <span class="circle-word">因</span> 你到底去不去? <span class="esp">Al final sí va a ir o no?</span> <span class="circle-word">真</span> 你到底是谁? <span class="pinyin">nǐ dàodǐ shì shéi?</span> <span class="esp">Y quién es que es usted?</span> <span class="circle-word">诚</span> 你到底想做什么? <span class="esp">Qué es lo que quiere hacer ud. pues entonces?</span> (with exasperation) <span class="circle-word">信</span> 你到底去哪了? <span class="pinyin">nǐ dàodǐ qù nǎ le?</span> <span class="esp">Y ud. dónde es que estaba metido?</span> <span class="circle-word">义</span> 他们俩到底为什么分手? <span class="pinyin">tāmen liǎ dàodǐ wèishénme fēnshǒu?</span> <span class="esp">Y esos dos por qué fue que se separaron?</span> <span class="unpack">⟨WHERE</span> 俩 two/both; 分手 break up<span class="unpack">⟩</span>`,
       handwritten: `到底`,
       traditional: `到底`,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">talking-to / scolding / telling-off</span> ☜ <span class="esp">jalón de orejas</span><br>
+      = to lecture, to reprimand<br>
+      <span class="skull">☠︎︎</span> <span class="example">My dad gave me a talking-to.</span> <span class="skull">☠︎︎</span> <span class="example">I'll give him a good talking-to.</span>`,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">report</span> ☜ <span class="esp">denunciar</span><br>
+      = informing authorities or a company about a crime, accident, or rule violation.<br>
+      <span class="skull">☠︎︎</span> <span class="example">Why do women wait years to report rape/sexual assault cases?</span> <span class="skull">☠︎︎</span> <span class="example">I need to report a stolen car.</span>`,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: `但是 vs. 可是<br>
+      <span class="pinyin">dànshì vs. kěshì</span><br>
+      <span class="esp">pero</span><br><br>
+      Interchangeable for "but", but the structure 虽然..., 但是 (=although...) can only have 但是. 可是 can be used by itself, and it also has another meaning, which is "indeed". 但是 or simply 但 seems to be more common, carrying more weight than 可是, which may sound more euphemistic. In structures like 简单但是好看 <span class="pinyin">jiǎndān dànshì hǎokàn</span> <span class="esp">Simple pero bonito/hermosa.</span>, 可是 cannot be used.`,
+      handwritten: `但是 vs. 可是`,
+      traditional: `但是vs. 可是`,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: `虽然很晚了, 但(是)他还在学习<br>
+      <span class="pinyin">suīrán hěn wǎn le, dàn(shì) tā háizài xuéxí</span>
+      <span class="esp">Aunque es tarde, él sigue estudiando.</span>`,
+      handwritten: `虽然很晚了, 但是他还在学习`,
+      traditional: `雖然很晚了，但是他還在學習`,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: `房子 <span class="pinyin">fángzi</span> <span class="esp">casa</span> (estructura)<br>
+      屋子 <span class="pinyin">wūzi</span> <span class="esp">habitación</span><br>
+      屋 <span class="pinyin">wū</span> (seen as 屋里 <span class="esp">en el cuarto</span>)<br>
+      家 <span class="pinyin">jiā</span> <span class="esp">hogar</span><br><br>
+      <span class="circle-word">礼</span> 这房子很大 <span class="pinyin">zhè fángzi hěn dà</span> <span class="esp">Esa casa es muy grande.</span> <span class="circle-word">智</span> 屋子里有人 <span class="pinyin">wūzi lǐ yǒu rén</span> <span class="esp">En el cuarto hay alguien.</span>`,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: `相信<br>
+      <span class="pinyin">xiāngxìn</span><br>
+      <span class="esp">creer</span><br><br>
+      <span class="circle-word">仁</span> 我不相信这样的东西 <span class="esp">No creo en esas cosas.</span> <span class="circle-word">勇</span> 我相信你所说一切 <span class="pinyin">wǒ xiāngxìn nǐ suǒ shuō yīqiè</span> <span class="esp">Creo todo lo que usted dice.</span> <span class="circle-word">恕</span> 我不相信他 <span class="esp">No le creo [lo que él dice/está diciendo].</span>`,
+      handwritten: `相信`,
+      traditional: `相信`,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: `一... 就<br>
+      <span class="esp">apenas... / cuando... / siempre que...</span><br><br>
+      <span class="circle-word">孝</span> 他一回来我就告诉他 <span class="esp">Yo le digo apenas vuelva.</span>`,
+      handwritten: ``,
+      traditional: ``,
       strokeOrderImages: [
       'h',
       'h'
