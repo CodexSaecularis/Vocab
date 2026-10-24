@@ -9188,25 +9188,44 @@
       <span class="star">☆</span> Зажечь сп<span class="stress">и</span>чку. <span class="esp">Prender un fósforo.</span> <span class="star">☦</span> Зажечь (газовую) конф<span class="stress">о</span>рку. <span class="esp">Prender el fogón.</span> <span class="star">☆</span> Зажечь лампу. <span class="esp">Encender/Prender el bombillo.</span> <span class="star">☦</span> Зажечь огонь в Москве/квартире. <span class="esp">Prender fuego a Moscú/su apartamento.</span> <span class="star">☆</span> Зажечь олимпийский огонь. <span class="esp">Encender la torcha olímpica.</span><br>
       <span class="sickle">☭</span> разжиг<span class="stress">а</span>ть <span class="esp">prender, avivar</span> (especially a campfire, firepit, fireplace) (implies effort, starting it from small pieces and get it going) (when used figuratively, it's "avivar/reavivar/incitar")<br>
       <span class="star">☆</span> Разжечь костёр. <span class="esp">Prender/Hacer una fogata.</span> <span class="star">☦</span> Разжечь пл<span class="stress">а</span>мя их любви. <span class="esp">Reavivar las llamas de su amor.</span> <span class="star">☆</span> Разжечь конфликт. <span class="esp">Provocar el conflicto.</span> <span class="star">☦</span> Разжечь ненависть. <span class="esp">Incitar al odio.</span> <span class="star">☆</span> Разжечь войну. <span class="esp">Provocar una guerra.</span> <span class="star">☦</span> Разжечь манг<span class="stress">а</span>л. <span class="esp">Prender la parrilla.</span><br>
-      <span class="sickle">☭</span> поджиг<span class="stress">а</span>ть <span class="esp">prenderle fuego, incendiar</span> (set sth on fire) (implies destruction)<br>
+      <span class="sickle">☭</span> поджиг<span class="stress">а</span>ть <span class="esp">prenderle fuego a algo, incendiar</span> (set sth on fire) (implies destruction)<br>
       <span class="star">☆</span> Поджечь дом/здание/машину/мусор/бумагу... <span class="star">☦</span> Он поджёг дом и убежал. <span class="esp">Le prendió fuego a la casa y salió corriendo.</span><br>
       <span class="gold">Catching fire</span><br>
       <span class="sickle">☭</span> загор<span class="stress">е</span>ться <span class="esp">encenderse, incendiarse</span><br>
       <span class="star">☆</span> Осторожно! Дом может загореться! <span class="esp">Cuidado! Se puede incendiar la casa!</span> <span class="star">☦</span> Бумажные фон<span class="stress">а</span>рики легко могут загореться, если с ними не обращаться осторожно. <span class="esp">Los faroles de papel se pueden quemar (=incendiar) si no se manejan con cuidado.</span> <span class="star">☆</span> Я налил<span class="stress">а</span> много масла и сковородка загорелась. <span class="esp">Le eché mucho aceite y la paila se encendió.</span><br>
       There's the expression загореться идеей (=emocionarse con una idea). For example, Он загорелся идеей открыть кафе.<br>
-      <span class="sickle">☭</span> всп<span class="stress">ы</span>хнуть
-      <span class="gold">Burning</span><br>`,
+      <span class="sickle">☭</span> всп<span class="stress">ы</span>хнуть <span class="esp">encenderse de golpe</span><br> (a bit journalistic)
+      <span class="star">☆</span> Огонь вспыхнул. <span class="esp">El fuego se avivó.</span> <span class="star">☦</span> В квартире посред<span class="stress">и</span> ночи вспыхнул пожар. <span class="esp">Se produjo un incendio en el medio de la noche en el apartamento.</span><br>
+      <span class="gold">Burning down</span><br>
+      <span class="sickle">☭</span> сжечь <span class="esp">quemar, incinerar</span> (transitive) (implies destroying with fire voluntarily or accidentally) (also used with food)<br>
+      <span class="star">☆</span> Сжёг все письма. <span class="esp">Quemó todas las cartas.</span> <span class="star">☦</span> Это письмо нужло было сжечь раньше. <span class="esp">Esta carta debió haber sido quemada antes.</span> <span class="star">☆</span> Сжечь мосты. <span class="esp">Quemar puentes/Cortar lazos.</span> (fig.) <span class="star">☦</span> Протестующие сожгл<span class="stress">и</span> несколько автомоб<span class="stress">и</span>лей. <span class="esp">Los protestantes quemaron varios carros.</span> <span class="star">☆</span> Меня сжигает страсть к ней. <span class="esp">Me arde la pasión por ella.</span> <span class="star">☦</span> Поэты стихами жгут сердца людей. (сжигать here is not suitable) <span class="star">☆</span> Она сожгл<span class="stress">а</span> дом. <span class="esp">Quemó la casa.</span> <span class="star">☦</span> Сожгла еду. <span class="esp">Quemé la comida.</span><br>
+      <span class="sickle">☭</span> сгор<span class="stress">е</span>ть <span class="esp">quemarse</span> (reflexive) (also used with food)<br>
+      Difference between the imperfectives сгорать and гореть is that the former is about to burn out/burn to ashes, while the latter is the general ongoing "burn".
+      <span class="star">☆</span> Лучше быстро сгореть, чем медленно угас<span class="stress">а</span>ть. <span class="esp">Mejor quemarse que apagarse lentamente.</span> <span class="star">☦</span> Дом сгорел дотл<span class="stress">а</span>. <span class="esp">La casa se quemó hasta los cimientos.</span> <span class="star">☆</span> Мотор сгорел. <span class="esp">El motor se quemó.</span> (=not necessarily flames) <span class="star">☦</span> Боюсь сгореть з<span class="stress">а</span>живо. <span class="esp">Mi miedo es morir quemado.</span> <span class="star">☆</span> В воде бумага не гор<span class="stress">и</span>т вообще. <span class="esp">Un papel no arde en el agua.</span> <span class="star">☦</span> Горит свет. <span class="esp">Una luz resplandece.</span> <span class="star">☆</span> Дом горит. <span class="esp">La casa se quema/se está quemando.</span> <span class="star">☦</span> Спичка сгорает за 3 секунды. <span class="esp">Un fósforo se quema en 3 segundos.</span> <span class="star">☆</span> Костёр горит всю ночь. <span class="esp">Una fogata arde/sigue encendida toda la noche.</span><br>
+      <span class="sickle">☭</span> подгор<span class="stress">е</span>ть <span class="esp">quemarse</span> (used with food)<br>
+      <span class="star">☆</span> Арепа подгор<span class="stress">а</span>ет! <span class="esp">Se está quemando la arepa!</span> <span class="star">☦</span> У меня сгорел рис. <span class="esp">Se me quemó el arroz.</span><br>
+      <span class="gold">Burning oneself</span><br>
+      <span class="sickle">☭</span> обжечь(ся) <span class="esp">quemarse</span> (accidentally)<br>
+      <span class="star">☆</span> Я обжёг палец о горячую плиту. <span class="esp">Me quemé el dedo con el fogón caliente.</span> <span class="star">☦</span> Горячий чай может обжечь язык. <span class="esp">El té caliente puede quemar la lengua.</span> <span class="star">☆</span> Осторожно, не обожг<span class="stress">и</span>сь. <span class="esp">Cuidado se quema.</span><br>`,
       inflection: `<span class="aspect">несов:</span> зажиг<span class="stress">а</span>ть <span class="aspect">сов:</span> заж<span class="stress">е</span>чь
       <span class="aspect">несов:</span> разжиг<span class="stress">а</span>ть <span class="aspect">сов:</span> разж<span class="stress">е</span>чь
       <span class="aspect">несов:</span> поджиг<span class="stress">а</span>ть <span class="aspect">сов:</span> подж<span class="stress">е</span>чь
+      ━━━━━━━━━━━━━━━
       <span class="aspect">несов:</span> загор<span class="stress">а</span>ться <span class="aspect">сов:</span> загор<span class="stress">е</span>ться
-      <span class="aspect">несов:</span> всп<span class="stress">ы</span>хивать <span class="aspect">сов:</span> всп<span class="stress">ы</span>хнуть`,
+      <span class="aspect">несов:</span> всп<span class="stress">ы</span>хивать <span class="aspect">сов:</span> всп<span class="stress">ы</span>хнуть
+      ━━━━━━━━━━━━━━━
+      <span class="aspect">несов:</span> сжиг<span class="stress">а</span>ть / жечь <span class="aspect">сов:</span> сжечь
+      <span class="aspect">несов:</span> сгор<span class="stress">а</span>ть / гор<span class="stress">е</span>ть <span class="aspect">сов:</span> сгор<span class="stress">е</span>ть
+      ━━━━━━━━━━━━━━━
+      <span class="aspect">несов:</span> обжиг<span class="stress">а</span>ть(ся) <span class="aspect">сов:</span> обжечь(ся)`,
       russianLinks: [
       { char: 'зажечь', url: 'https://ru.wiktionary.org/wiki/%D0%B7%D0%B0%D0%B6%D0%B5%D1%87%D1%8C#%D0%B7%D0%B0%D0%B6%D0%B5%CC%81%D1%87%D1%8C' },
       { char: 'поджечь', url: 'https://ru.wiktionary.org/wiki/%D0%BF%D0%BE%D0%B4%D0%B6%D0%B5%D1%87%D1%8C' },
       { char: 'разжечь', url: 'https://ru.wiktionary.org/wiki/%D1%80%D0%B0%D0%B7%D0%B6%D0%B5%D1%87%D1%8C' },
       { char: 'загореться', url: 'https://ru.wiktionary.org/wiki/%D0%B7%D0%B0%D0%B3%D0%BE%D1%80%D0%B5%D1%82%D1%8C%D1%81%D1%8F' },
       { char: 'вспыхнуть', url: 'https://ru.wiktionary.org/wiki/%D0%B2%D1%81%D0%BF%D1%8B%D1%85%D0%BD%D1%83%D1%82%D1%8C' },
+      { char: 'сжечь', url: 'https://ru.wiktionary.org/wiki/%D1%81%D0%B6%D0%B5%D1%87%D1%8C' },
+      { char: 'обжечь', url: 'https://ru.wiktionary.org/wiki/%D0%BE%D0%B1%D0%B6%D0%B5%D1%87%D1%8C' },
       ],
     },
     {
@@ -9490,7 +9509,7 @@
       chinese: `相信<br>
       <span class="pinyin">xiāngxìn</span><br>
       <span class="esp">creer</span><br><br>
-      <span class="circle-word">仁</span> 我不相信这样的东西 <span class="esp">No creo en esas cosas.</span> <span class="circle-word">勇</span> 我相信你所说一切 <span class="pinyin">wǒ xiāngxìn nǐ suǒ shuō yīqiè</span> <span class="esp">Creo todo lo que usted dice.</span> <span class="circle-word">恕</span> 我不相信他 <span class="esp">No le creo [lo que él dice/está diciendo].</span>`,
+      <span class="circle-word">仁</span> 我不相信这样的东西 <span class="esp">No creo en esas cosas.</span> <span class="circle-word">勇</span> 我相信你所说的一切 <span class="pinyin">wǒ xiāngxìn nǐ suǒ shuō yīqiè</span> <span class="esp">Creo todo lo que usted dice.</span> <span class="circle-word">恕</span> 我不相信他 <span class="esp">No le creo [lo que él dice/está diciendo].</span>`,
       handwritten: `相信`,
       traditional: `相信`,
       strokeOrderImages: [
@@ -9524,9 +9543,303 @@
     {
       chinese: `一... 就<br>
       <span class="esp">apenas... / cuando... / siempre que...</span><br><br>
-      <span class="circle-word">孝</span> 他一回来我就告诉他 <span class="esp">Yo le digo apenas vuelva.</span>`,
+      <span class="circle-word">孝</span> 他一回来我就告诉他 <span class="esp">Yo le digo apenas vuelva.</span> <span class="circle-word">忠</span> 我一放学就找你玩 <span class="pinyin">wǒ yī fàngxué jiù zhǎo nǐ wán</span> <span class="esp">Apenas/Cuando salga del colegio, lo busco para que juguemos.</span> <span class="circle-word">廉</span> 一收到通知我就告诉你 <span class="pinyin">yī shōudào tōngzhī wǒ jiù gàosù nǐ</span> <span class="esp">Apenas me llegue el aviso/la notificación, yo le digo.</span><br>
+      🧧 The variant 一但... 就 is also used, but it's carries a bit more weight and can sound slightly more formal.`,
       handwritten: ``,
       traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">rub off</span> ☜ <span class="esp">salirse, borrarse, quitarse (frotando o)</span><br>
+      <span class="title">rub off on someone/sth</span> ☜ <span class="esp">pegársele, contagiárse a alguien/algo</span><br>
+      The latter means you're starting to have the same mannerisms (=<span class="esp">costumbre</span>)<br>
+      <span class="skull">☠︎︎</span> <span class="example">His laziness rubbed off on everyone.</span> <span class="skull">☠︎︎</span> <span class="example">He's talented. Maybe if you spend time with him, his skills will rub off on you.</span> <span class="skull">☠︎︎</span> <span class="example">His bad behaviour has rubbed off on his little brother.</span> <span class="skull">☠︎︎</span> <span class="example">I put lipstick on, but it rubbed off when I ate.</span> <span class="skull">☠︎︎</span> <span class="example">I accidentally drew on my arm with marker, and I had a hard time getting it to rub off.</span> <span class="skull">☠︎︎</span> <span class="example">Mud will rub off easily.</span> <span class="skull">☠︎︎</span> <span class="example">Rob off the excess with a dry cloth.</span> <span class="esp">Quita el exceso frotando con un paño seco.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">gold-plated</span> ☜ <span class="esp">bañado en oro</span><br>
+      <span class="title">gold-filled</span> ☜ <span class="esp">laminado en oro</span><br>
+      <span class="title">solid gold</span> ☜ <span class="esp">oro puro</span><br>`,
+      englishImages: [
+      'https://cdn.shopify.com/s/files/1/1770/8517/files/Types_of_Gold_Jewelry_Chart_-_Gold_Plated_Gold_Vermeil_Gold_Filled_Solid_Gold.png?v=1692146484',
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">hanger</span> ☜ <span class="esp">gancho</span><br>`,
+      englishImages: [
+      'https://m.media-amazon.com/images/I/61548Cj26xL._AC_UF894,1000_QL80_.jpg',
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">bleed onto</span> ☜ <span class="esp">desteñirse</span> (in the wash or hung wet together)<br>
+      <span class="title">the dye ran</span> ☜ <span class="esp">el color/la tinta se corrió</span><br>
+      <span class="title">rub off on</span> <span class="or">or</span> <span class="title">transfer onto</span> ☜ (from contact)<br>
+      <span class="skull">☠︎︎</span> <span class="example">The red shirt bled onto my white socks.</span> <span class="skull">☠︎︎</span> <span class="example">The dye ran and now everything's pink.</span> <span class="skull">☠︎︎</span> <span class="example">The dye ran and stained my shirt.</span> <span class="skull">☠︎︎</span> <span class="example">The color rubbed off on my white couch.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">upkeep</span> ☜ <span class="usage">(more likely to appear in writing/formal speech)</span> <span class="esp">mantenimiento, manutención</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">He pays for the upkeep of his children.</span> <span class="skull">☠︎︎</span> <span class="example">The upkeep of the buliding is expensive.</span> <span class="skull">☠︎︎</span> <span class="example">Gardens require a lot of upkeep.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">common area</span> ☜ <span class="esp">área común</span><br>
+      = Any space, facility, or land within a property that is shared by multiple residents, tenants, or visitors rather than belonging to a single private owner.<br>
+      <span class="baal">𖤐︎</span> The use of 'maintenance' is slightly more natural, but both options are fine.`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">Can you point me to...?</span> ☜ <span class="esp">Me indica...?</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">Excuse me, can you point me to the elevators?</span> <span class="skull">☠︎︎</span> <span class="example">Can you point me to the nearest station?</span> <span class="skull">☠︎︎</span> <span class="example">Can you point me to the right person?</span> <span class="esp">Me puede dirigir a la persona indicada?</span> <span class="skull">☠︎︎</span> <span class="example">Can you point me to the policy?</span> <span class="esp">Me dice dónde está la política (=dónde puedo encontrarla)?</span> <span class="skull">☠︎︎</span> <span class="example">Can you point me in the right direction?</span> (idiom) <span class="esp">Me puede orientar/guiar?</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: `一般<br>
+      <span class="pinyin">yībān</span><br>
+      <span class="esp">en general, normalmente; normal (=average, not so good), más o menos, ahí</span><br><br>
+      In the second meaning, it's normally a slightly negative "meh". 一般般 is seemingly more common(?)<br>
+      <span class="circle-word">耻</span> 我一般七点起床 <span class="pinyin">wǒ yībān qī diǎn qǐchuáng</span> <span class="esp">Normalmente me levanto a las 7.</span> <span class="circle-word">恒</span> 一般周末我都在家 <span class="pinyin">yībān zhōumò wǒ dōu zài jiā</span> <span class="esp">Normalmente me quedo en la casa los fines de semana.</span> <span class="circle-word">勤</span> 我一般 <span class="esp">Yo soy más bien normalito</span> (apariencia física) <span class="circle-word">敬</span> 这部电影一般 <span class="pinyin">zhèbù diànyǐng yībān</span> <span class="esp">Esa película es más bien normalita.</span> <span class="circle-word">畏</span> 我水平一般 <span class="pinyin">wǒ shuǐpíng yībān</span> <span class="esp">Mi nivel es... ahí.</span>`,
+      handwritten: `一般`,
+      traditional: `一般`,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: `水平<br>
+      <span class="pinyin">shuǐpíng</span><br>
+      <span class="esp">nivel</span><br><br>
+      <span class="circle-word">威</span> 我是什么水平? <span class="esp">Qué nivel soy?</span>`,
+      handwritten: `水平`,
+      traditional: `水平`,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: `比较<br>
+      <span class="pinyin">bǐjiào</span><br>
+      <span class="esp">[ser] como/más bien/algo/relativamente/bastante</span><br><br>
+      The structure 比较喜欢 is a comparative "me gusta más" or "prefiero".<br>
+      <span class="circle-word">严</span> 我比较喜欢这个 <span class="esp">Como que me gusta más este.</span> <span class="circle-word">肃</span> 他比较高 <span class="pinyin">tā bǐjiào gāo</span> <span class="esp">Él es como/relativamente alto.</span> <span class="circle-word">穆</span> 这部电影比较好看 <span class="pinyin">zhèbù diànyǐng bǐjiào hǎo kàn</span> <span class="esp">Esta película está como buena.</span> `,
+      handwritten: `比较`,
+      traditional: `比較`,
       strokeOrderImages: [
       'h',
       'h'
