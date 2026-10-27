@@ -10267,7 +10267,7 @@
       { char: ' ', url: 'h' },
       ],
       russian: `выжид<span class="stress">а</span>ть <span class="esp">esperar</span> (strategic waiting)<br>
-      <span class="star">☆</span> Он выжидал удобный/подходящий момент. <span class="esp">Esperó el momento oportuno/adecuado.</span> <span class="star">☦</span> Они выжидали, когда рыба подплывёт ближе. <span class="esp">Esperaban hasta/a que el pez se acercara.</span> <span class="star">☆</span> Выждать, пока пройдёт. span class="esp">Esperar a que pase (todo).</span> <span class="star">☦</span> Надо выждать время. Сейчас не момент. <span class="esp">Hay que esperar el momento. Ahora no es.</span>`,
+      <span class="star">☆</span> Он выжидал удобный/подходящий момент. <span class="esp">Esperó el momento oportuno/adecuado.</span> <span class="star">☦</span> Они выжидали, когда рыба подплывёт ближе. <span class="esp">Esperaban hasta/a que el pez se acercara.</span> <span class="star">☆</span> Выждать, пока пройдёт. <span class="esp">Esperar a que pase (todo).</span> <span class="star">☦</span> Надо выждать время. Сейчас не момент. <span class="esp">Hay que esperar el momento. Ahora no es.</span>`,
       inflection: `<span class="aspect">несов:</span> выжид<span class="stress">а</span>ть <span class="aspect">сов:</span> в<span class="stress">ы</span>ждать
       <span class="aspect">несов:</span> подплыв<span class="stress">а</span>ть <span class="aspect">сов:</span> подпл<span class="stress">ы</span>ть`,
       russianLinks: [
@@ -10449,6 +10449,601 @@
       <span class="circle-word">囍</span> 你不用太谦虚, 我是来向你学习的 <span class="pinyin">nǐ bùyòng tài qiānxū, wǒ shì lái xiàng nǐ xuéxí</span> <span class="esp">No tiene por qué ser tan modesto, yo estoy aquí es para aprender de usted.</span> <span class="unpack">⟨WHERE</span> 是... 的 emphasizes "it's learning what I'm here for anyways"<span class="unpack">⟩</span> <span class="circle-word">㐂</span> 他这个人很谦虚 <span class="esp">Él es una persona muy humilde / Él, como persona, es muy humilde.</span>`,
       handwritten: `谦虚`,
       traditional: `謙虛`,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `бесславный <span class="esp">ignominioso, sin glorio, infame</span><br>
+      A good collocation is бесславный конец = un triste final<br>
+      <span class="star">☆</span> Это был бесславный конец несчастного з<span class="stress-y">у</span>мера. <span class="esp">Fue el triste final / final sin gloria de un zoomer (generación Z) desafortunado.</span>`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `А конца-то и не показали. <span class="esp">Y el final ni siquiera lo mostraron.</span><br>
+      Here, the -то here is emphatic, highlighting конец as the topic, like "the ending, of all things" --> "justo el final"`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `несчастный случай <span class="esp">accidente, muerte accidental</span>
+      Used when someone has falled out of the window, drowned, etc., and the death of the person was due to an accident. Rarely used for car crashes. It's used when the accident or incident wasn't caused by or related to you.`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `несчастный человек <span class="esp">persona infeliz, pobre hombre</span>`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `несчастный вид <span class="esp">aspecto triste</span><br>
+      <span class="star">☆</span> Так почему у тебя такой несчастный вид? <span class="esp">Entonces por qué la cara larga?</span>`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `прост<span class="stress">а</span>та <span class="esp">próstata</span>`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `к<span class="stress">а</span>пля <span class="esp">gota</span><br>
+      <span class="star">☆</span> Капля воды/крови/пота... <span class="esp">Gota de agua/sangre/sudor... </span>`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianLinks: [
+      { char: 'капля', url: 'https://ru.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BF%D0%BB%D1%8F' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `даров<span class="stress">а</span>ние <span class="esp">talento, don; pridigio (=persona)</span><br>
+      <span class="star">☆</span> У этой девочки редкое музыкальное дарование. <span class="esp">Esta niña tiene un talento inusual para la música.</span> <span class="star">☦</span> <span class="stress">Ю</span>ное дарование в музыке. <span class="esp">Un niño prodigio en la música.</span>`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `т<span class="stress">я</span>га <span class="esp">empuje, deseo, anhelo, ansia; empuje/tracción/propulsión (de un motor)</span><br>
+      <span class="star">☆</span> У него дикая тяга к знаниям. <span class="esp">Tiene en gran deseo por aprender.</span> <span class="star">☦</span> Я не понимаю эту тягу к сладкому. <span class="esp">No entiendo ese antojo por lo dulce.</span> <span class="star">☆</span> Тяга двигателя. <span class="esp">Potencia del motor.</span>`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `прит<span class="stress">о</span>к <span class="esp">flujo, afluencia</span><br>
+      There is приток реки = afluente.<br>
+      <span class="star">☆</span> Ограничения на приток инностраного капитала. <span class="esp">Restricciones al flujo de capital extranjero.</span> <span class="star">☦</span> Приток инвестиций/средств/б<span class="stress">е</span>женцев... <span class="esp">Flujo/Afluencia de inversiones/fondos/refugiados...</span>`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `отб<span class="stress">о</span>р <span class="esp">selección, preselección</span><br>
+      <span class="star">☆</span> Осуществлялся отбор лучших произведений для показа. <span class="esp">Se hizo/realizó una selección de las mejores obras para exhibir.</span> <span class="star">☦</span> Естественный отбор не прощает. <span class="esp">La selección natural no perdona.</span>`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `весьм<span class="stress">а</span> (книжн.) <span class="esp">muy, sumamente</span><br>
+      <span class="star">☆</span> В таких случаях весьма вероятно краткоср<span class="stress">о</span>чное падение рентабельности. <span class="esp">Por lo tanto, es muy probable una caída de la rentabilidad a corto plazo.</span> <span class="star">☦</span> По той же причине весьма турдно... <span class="esp">Por esa misma razón, es muy difícil...</span>`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `ебл<span class="stress">а</span>н <span class="esp">huevón, güeva, carechimba</span><br>
+      = It describes an incredibly stupid, incompetent, or highly annoying person. Used among friends, or to insult someone.<br>
+      <span class="star">☆</span> Это еблан, который видимо ничего не знает. <span class="esp">Ese es un huevón/güeva que se ve que no sabe nada.</span> <span class="star">☦</span> Ну ты и еблан. <span class="esp">Ud. lo que es es una güeva.</span>`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+    },
+    {
+      chinese: `笑死 (slang)<br>
+      <span class="pinyin">xiàosǐ</span><br>
+      <span class="esp">qué caja!, me meo!, morirse de la risa</span><br><br>
+      <span class="circle-word">亖</span> 笑死我了 <span class="esp">Sí me hizo tirar caja!</span> <span class="circle-word">兲</span> 这个电视节目笑死我了 <span class="pinyin">zhègè diànshì jiémù</span> <span class="esp">Ese programa es una caja.</span> `,
+      handwritten: `笑死`,
+      traditional: `笑死`,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: `占位<br>
+      <span class="pinyin">zhànwèi</span><br>
+      <span class="esp">guardar el puesto</span><br>`,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: `季<br>
+      <span class="pinyin">jì</span><br>
+      <span class="esp">temporada</span><br><br>
+      <span class="circle-word">囍</span> 第四季呢? <span class="pinyin">dìsì jì ne?</span> <span class="esp">Y la cuarta temporada?</span>`,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: `还得<br>
+      <span class="pinyin">háiděi</span><br>
+      <span class="esp">aún así; también</span><br><br>
+      <span class="circle-word">囍</span> 我还得写作业呢 <span class="pinyin">wǒ háiděi xiě zuòyè ne</span> <span class="esp">Aún así tengo que hacer la tarea.</span>`,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: `也太<br>
+      <span class="pinyin">yětài</span><br>
+      <span class="esp">tan, ser/hacer todo +adj.</span><br>br>
+      There's the "也太 + verb/adj. + 了 (+ 吧)<br><br>
+      <span class="circle-word">囍</span> 这也太快了! <span class="esp">Eso es todo rápido!</span> <span class="circle-word">囍</span> 他走路也太慢了吧! <span class="pinyin">tā zǒulù yětài màn le ba</span> <span class="esp">Camina todo lento!</span>`,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: `一直<br>
+      <span class="pinyin">yīzhí</span><br>
+      <span class="esp">siempre, todo este tiempo, hace rato</span><br><br>
+      <span class="circle-word">囍</span> 我一直想要这款耳机 <span class="pinyin">wǒ yiīzhí xiǎoyào zhèkuǎn ěrjī</span> <span class="esp">Hace rato he querido esos audífonos.</span> <span class="unpack">⟨WHERE</span> 款 classifier for versions/models of a product<span class="unpack">⟩</span> <span class="circle-word">囍</span> 你是俄罗斯人啊? 我一直以为你是美国人 <span class="pinyin">nǐ shì éluósī rén a? nǐ yīzhí yǐwèi nǐ shì měiguó rén</span> <span class="esp">Ud. es ruso? Yo todo el rato pensando que era estadounidense.</span> <span class="unpack">⟨WHERE</span> 以为 mistakenly think<span class="unpack">⟩</span>`,
+      handwritten: ``,
+      traditional: ``,
       strokeOrderImages: [
       'h',
       'h'
