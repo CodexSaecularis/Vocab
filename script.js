@@ -5484,8 +5484,8 @@
       <span class="star">☆</span> Зимой перед поездкой надо прогревать/греть мотор/дв<span class="stress">и</span>гатель. <span class="esp">En época de invierno, antes de salir hay que calentar el motor.</span><br>
       <span class="sickle">☭</span> обогрев<span class="stress">а</span>ть <span class="esp">calentar/dar calefacción (a una casa)</span><br>
       <span class="star">☆</span> Подв<span class="stress">а</span>л обогревался бурж<span class="stress-y">у</span>йкой. <span class="esp">El sótano se calentaba con una estufa.</span> <span class="star">☦</span> Существуют разные приборы, чтобы обогревать дом. <span class="star">☆</span> Этот дом обогревается газом/электричеством. <span class="esp">La calefacción en esta casa es con gas/electricidad.</span><br>
-      <span class="sickle">☭</span> отогр<span class="stress">а</span>ть <span class="esp">descongelar</span> (probably not too common, and used more often with frozen objects than with food)<br>
-      <span class="star">☆</span> Что будет если отогревать машину неправильно? <span class="star">☦</span> Замёрзшие руки нельзя оторевать горячей водой.<br>
+      <span class="sickle">☭</span> отогр<span class="stress">е</span>ть <span class="esp">descongelar</span> (probably not too common, and used more often with frozen objects than with food)<br>
+      <span class="star">☆</span> Что будет если отогревать машину неправильно? <span class="star">☦</span> Замёрзшие руки нельзя отогревать горячей водой.<br>
       <span class="sickle">☭</span> угреть (=нагреть) (=not used)<br>
       <span class="sickle">☭</span> пригреть (=rarely used)`,
       inflection: `<span class="aspect">несов:</span> греть <span class="aspect">сов:</span> (any from below)
@@ -10378,7 +10378,7 @@
       <span class="pinyin">āiyā</span><br>
       <span class="esp">Ay no!, Uy no! / Ay ya!, Argh! / Ay no, qué pena! / Ffff! (exasperado) / Ushh (juemadre) / Uuu, Ufff (sorpresa, admiración) / Ay verdad (suddenly remember)</span><br><br>
       It indicates astonishment, frustration, exasperation, embarrassment, excitement... See link above for further examples.<br>
-      <span class="circle-word">秘</span> 哎呀, 我要迟到了! <span class="pinyin">āiyā, wǒ chídào le</span> <span class="esp">Sss, uy no, voy a llegar tarde</span> <span class="circle-word">着</span> 哎呀, 你别说了!<span class="esp">Ay ya! Cállese!</span>`,
+      <span class="circle-word">秘</span> 哎呀, 我要迟到了! <span class="pinyin">āiyā, wǒ chídào le</span> <span class="esp">Sss, uy no, voy a llegar tarde</span> <span class="circle-word">着</span> 哎呀, 你别说了! <span class="esp">Ay ya! Cállese!</span>`,
       handwritten: `哎呀`,
       traditional: `哎呀`,
       strokeOrderImages: [
@@ -11042,6 +11042,368 @@
       <span class="pinyin">yīzhí</span><br>
       <span class="esp">siempre, todo este tiempo, hace rato</span><br><br>
       <span class="circle-word">囍</span> 我一直想要这款耳机 <span class="pinyin">wǒ yiīzhí xiǎoyào zhèkuǎn ěrjī</span> <span class="esp">Hace rato he querido esos audífonos.</span> <span class="unpack">⟨WHERE</span> 款 classifier for versions/models of a product<span class="unpack">⟩</span> <span class="circle-word">囍</span> 你是俄罗斯人啊? 我一直以为你是美国人 <span class="pinyin">nǐ shì éluósī rén a? nǐ yīzhí yǐwèi nǐ shì měiguó rén</span> <span class="esp">Ud. es ruso? Yo todo el rato pensando que era estadounidense.</span> <span class="unpack">⟨WHERE</span> 以为 mistakenly think<span class="unpack">⟩</span>`,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `Hey everyone, <u>just checking who's already chipped in</u> — I'm trying to see who hasn't <u>sent their share</u> yet.`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `I have a <u>bacterial infection> in my stomach. <span class="or">or</span> I have a stomach bug. <span class="or">or</span> I've got some bacteria in my stomach.`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `зап<span class="stress">о</span>мниться <span class="esp">quedar grabado (en la memoria), ser recordado (por)</span><br>
+      <span class="star">☆</span> Таким н запомнлся многим из знавших его. <span class="esp">Así le recuerdan muchas de las personas que lo conocían.</span> <span class="star">☦</span> Мне на всю жизнь запомнился мем, что "если..." <span class="esp">A mí se me quedó grabado ese meme que "si..."</span> <span class="star">☆</span> Мне запомнился случай с одной женщиной... <span class="esp">Recuerdo el caso de una mujer...</span> <span class="star">☦</span> Он запомнился зрителям своей ролью в том сериале. <span class="esp">Se le quedó grabado al público por su papel en esa serie.</span> <span class="star">☆</span> Этот момент запомнился мне навсегда. <span class="star">☦</span> Я хочу запомниться тебе. <span class="esp">Quiero quedar en tu memoria/que me recuerdes.</span>`,
+      inflection: `<span class="aspect">несов:</span> запомин<span class="stress">а</span>ться <span class="aspect">сов:</span> зап<span class="stress">о</span>мниться`,
+      russianLinks: [
+      { char: 'запомниться', url: 'https://ru.wiktionary.org/wiki/%D0%B7%D0%B0%D0%BF%D0%BE%D0%BC%D0%BD%D0%B8%D1%82%D1%8C%D1%81%D1%8F' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `легковоспламеняющийся / гор<span class="stress">ю</span>чий <span class="esp">inflamable / combustible</span><br>
+      <span class="star">☆</span> Горючий материал. <span class="star">☦</span> Горючий состав. <span class="esp">Compuesto inflamable.</span>`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `ф<span class="stress">а</span>кел <span class="esp">antorcha</span><br>
+      <span class="star">☆</span> Этот факел теперь в наших руках. <span class="esp">Esa antorcha ahora está en nuestras manos.</span>`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'https://fb.ru/misc/i/thumb/a/2/5/8/6/9/5/0/2586950.jpg',
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `горячий <span class="esp">caliente, ardiente</span><br>
+      <span class="star">☆</span> Кофе ещё горячий. <span class="esp">El café todavía está caliente.</span> <span class="star">☦</span> Пей, пока горячее. <span class="esp">Tome mientras esté caliente.</span> <span class="star">☆</span> Горячая вода. <span class="esp">Agua caliente.</span>`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `сомнев<span class="stress">а</span>ться (в + пред. п.) <span class="esp">dudar</span><br>
+      <span class="star">☆</span> Я сомневаюсь, что его кто-то не видел из моего поколения. <span class="esp">Dudo que alguien de mi generación lo conozca.</span> <span class="star">☦</span> Стала сомневаться, правильно ли я делаю. <span class="esp">Comienzo a dudar de si estoy haciendo lo correcto.</span> <span class="star">☆</span> Я начинаю сомневаться, насколько они полезны для города. <span class="star">☦</span> Не сомневайся в своём решении.`,
+      inflection: `<span class="aspect">несов:</span> сомнев<span class="stress">а</span>ться <span class="aspect">сов:</span> усомн<span class="stress">и</span>ться`,
+      russianLinks: [
+      { char: 'усомниться', url: 'https://ru.wiktionary.org/wiki/%D1%83%D1%81%D0%BE%D0%BC%D0%BD%D0%B8%D1%82%D1%8C%D1%81%D1%8F' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `ж<span class="stress">а</span>рить <span class="esp">fritar, freír</span><br>
+      <span class="star">☆</span> Пожарить картошку. <span class="esp">Fritar papas.</span>`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianLinks: [
+      { char: 'жарить', url: 'https://ru.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D0%B8%D1%82%D1%8C' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `рак<span class="stress">о</span>вина <span class="esp">lavamanos; lavaplatos</span><br>
+      It's primarily associated with the bathroom sink, but in everyday speech, many people do use it for the kitchen sink as well. But there's a more dedicated word for the kitchen sink: мойка.<br>
+      <span class="star">☆</span> Положи в раковину. <span class="esp">Póngalo en el lavaplatos.</span>`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'https://upload.wikimedia.org/wikipedia/commons/2/2d/Umywalka_Nova_Top_Kolo.jpg?utm_source=ru.wikipedia.org&utm_campaign=index&utm_content=original',
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `Verbs with 'бегать':<br><br>
+      <span class="sickle">☭</span> б<span class="stress">е</span>гать <span class="esp">correr</span><br>
+      <span class="star">☆</span> X<span class="esp">X</span>`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: `聊天<br>
+      <span class="esp">hablar, charlar, chatear</span><br><br>
+      It distinguishes from 聊 in that 聊天 is used when describing the fact that someone talks or is talking to someone else and in a casual way. When the topic is mentioned, just use 聊<br>
+      <span class="circle-word">囍</span> 我昨晚跟我朋友聊天 <span class="pinyin">wǒ zuówǎn gēn wǒ péngyou liáotiān</span> <span class="esp">Anoche estuve hablando/hablé con unos amigos.</span> <span class="circle-word">囍</span> 别聊天了, 快工作 <span class="pinyin">bié liáotiān le, kuài gōngzuò</span> <span class="esp">Dejen de hablar, vuelvan a trabajar.</span> <span class="circle-word">囍</span> 跟我们聊天的时候都是: "..." <span class="esp">Pero cuando hablan con nosotras, siempre dice, "..."</span>`,
+      handwritten: `聊天`,
+      traditional: `聊天`,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: `都是<br><br>
+      Used to say something habitually happens that way, especially a recurrent quote. Like, "he always says" or "he's like".<br>
+      <span class="circle-word">囍</span> 他回我消息都是:「嗯」 <span class="esp">Él cada vez que me responde es como, "Mmm".</span> <span class="circle-word">囍</span> 他每次都是... <span class="esp">Él (siempre) es como...</span>`,
       handwritten: ``,
       traditional: ``,
       strokeOrderImages: [
