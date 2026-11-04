@@ -11352,9 +11352,7 @@
       { char: ' ', url: 'h' },
       { char: ' ', url: 'h' },
       ],
-      russian: `Verbs with 'бегать':<br><br>
-      <span class="sickle">☭</span> б<span class="stress">е</span>гать <span class="esp">correr</span><br>
-      <span class="star">☆</span> X<span class="esp">X</span>`,
+      russian: `периодичность <span class="esp">periodicidad</span>`,
       inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
       russianImages: [
       'h',
@@ -11362,6 +11360,43 @@
       ],
       russianLinks: [
       { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `Verbs with 'бегать':<br><br>
+      <span class="sickle">☭</span> б<span class="stress">е</span>гать <span class="esp">correr; pasar/correr de un lugar a otro</span> (general, done in a longer period of time or when it happens regularly)<br>
+      <span class="star">☆</span> Я люблю бегать по утрам. <span class="star">☦</span> Я буду бегать завтра на совернов<span class="stress">а</span>ниях. <span class="esp">Voy a correr mañana en las competiciones.</span> <span class="star">☆</span> Мне сегодня пришлось очень много бегать. <span class="star">☦</span> Хватит бегать по с<span class="stress">а</span>ду! <span class="esp">Dejen de correr en el jardín!</span> <span class="star">☆</span> Я должен бегать на тренировках. <span class="esp">Tengo que correr en los entrenamientos.</span> <span class="star">☦</span> Я сегодня целый день бегаю по магазинам. <span class="esp">He estado todo el día de tienda en tienda.</span> <span class="star">☆</span> Дети любят бегать босиком. <span class="esp">A los niños les encanta correr descalzos.</span><br>
+      <span class="sickle">☭</span> бежать (двувидовой) <span class="esp">correr</span> (more specific or concrete, and it happens at the time of being said(?))<br>
+      <span class="star">☆</span> Бежать дистанцию. <span class="esp">Correr una distancia.</span> <span class="star">☦</span> Бег<span class="stress">и</span> на остановку. <span class="esp">Corra a la estación.</span> <span class="star">☆</span> Мы можем опоздать! Нам надо бежать, чтобы успеть. <span class="esp">Puede que lleguemos tarde! Hay que correr para llegar a tiempo.</span> <span class="star">☦</span> Долго ещё бежать? <span class="esp">Hay que correr más?</span> <span class="star">☆</span> Бег<span class="stress">у</span> уже полчаса. <span class="esp">Ya hace media hora que estoy corriendo.</span> <span class="star">☦</span> Вам некуда бежать. <span class="esp">No tienen más a dónde ir.</span>`,
+      inflection: `<span class="aspect">несов:</span> б<span class="stress">е</span>гать <span class="aspect">сов:</span> X
+      <span class="aspect">несов:</span> беж<span class="stress">а</span>ть <span class="aspect">сов:</span> беж<span class="stress">а</span>ть`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: 'бегать', url: 'https://ru.wiktionary.org/wiki/%D0%B1%D0%B5%D0%B3%D0%B0%D1%82%D1%8C' },
       { char: ' ', url: 'h' },
       ],
     },
