@@ -5198,7 +5198,7 @@
       ],
       russian: `пост<span class="stress-y">у</span>пок <span class="esp">acto, acción</span><br>
       <span class="star">☆</span> По поступкам видно, что долбоёб и крет<span class="stress">и</span>н. <span class="esp">Por sus actos se ve que es un estúpido/subnormal/hijueputa bobo/güeva y un cretino.</span> <span class="star">☦</span> Подлый поступок. <span class="esp">Un acto vil/cobarde.</span><br><br>
-      <span class="sickle">☭</span> People on the Internet, spell долбоёб as долбаеб.`,
+      <span class="sickle">☭</span> People on the Internet spell долбоёб as долбаеб.`,
       inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
       russianImages: [
       'h',
@@ -11108,30 +11108,6 @@
       { char: ' ', url: 'h' },
       { char: ' ', url: 'h' },
       ],
-      english: `I have a <u>bacterial infection> in my stomach. <span class="or">or</span> I have a stomach bug. <span class="or">or</span> I've got some bacteria in my stomach.`,
-      russian: ``,
-      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
-      russianImages: [
-      'h',
-      'h'
-      ],
-      russianLinks: [
-      { char: ' ', url: 'h' },
-      { char: ' ', url: 'h' },
-      ],
-    },
-    {
-      chinese: ``,
-      handwritten: ``,
-      traditional: ``,
-      strokeOrderImages: [
-      'h',
-      'h'
-      ],
-      links: [
-      { char: ' ', url: 'h' },
-      { char: ' ', url: 'h' },
-      ],
       english: ``,
       englishImages: [
       'h',
@@ -11388,16 +11364,25 @@
       <span class="sickle">☭</span> б<span class="stress">е</span>гать <span class="esp">correr; pasar/correr de un lugar a otro</span> (general, done in a longer period of time or when it happens regularly)<br>
       <span class="star">☆</span> Я люблю бегать по утрам. <span class="star">☦</span> Я буду бегать завтра на совернов<span class="stress">а</span>ниях. <span class="esp">Voy a correr mañana en las competiciones.</span> <span class="star">☆</span> Мне сегодня пришлось очень много бегать. <span class="star">☦</span> Хватит бегать по с<span class="stress">а</span>ду! <span class="esp">Dejen de correr en el jardín!</span> <span class="star">☆</span> Я должен бегать на тренировках. <span class="esp">Tengo que correr en los entrenamientos.</span> <span class="star">☦</span> Я сегодня целый день бегаю по магазинам. <span class="esp">He estado todo el día de tienda en tienda.</span> <span class="star">☆</span> Дети любят бегать босиком. <span class="esp">A los niños les encanta correr descalzos.</span><br>
       <span class="sickle">☭</span> бежать (двувидовой) <span class="esp">correr</span> (more specific or concrete, and it happens at the time of being said(?))<br>
-      <span class="star">☆</span> Бежать дистанцию. <span class="esp">Correr una distancia.</span> <span class="star">☦</span> Бег<span class="stress">и</span> на остановку. <span class="esp">Corra a la estación.</span> <span class="star">☆</span> Мы можем опоздать! Нам надо бежать, чтобы успеть. <span class="esp">Puede que lleguemos tarde! Hay que correr para llegar a tiempo.</span> <span class="star">☦</span> Долго ещё бежать? <span class="esp">Hay que correr más?</span> <span class="star">☆</span> Бег<span class="stress">у</span> уже полчаса. <span class="esp">Ya hace media hora que estoy corriendo.</span> <span class="star">☦</span> Вам некуда бежать. <span class="esp">No tienen más a dónde ir.</span>`,
-      inflection: `<span class="aspect">несов:</span> б<span class="stress">е</span>гать <span class="aspect">сов:</span> X
-      <span class="aspect">несов:</span> беж<span class="stress">а</span>ть <span class="aspect">сов:</span> беж<span class="stress">а</span>ть`,
+      <span class="star">☆</span> Бежать дистанцию. <span class="esp">Correr una distancia.</span> <span class="star">☦</span> Бег<span class="stress">и</span> на остановку. <span class="esp">Corra a la estación.</span> <span class="star">☆</span> Мы можем опоздать! Нам надо бежать, чтобы успеть. <span class="esp">Puede que lleguemos tarde! Hay que correr para llegar a tiempo.</span> <span class="star">☦</span> Долго ещё бежать? <span class="esp">Hay que correr más?</span> <span class="star">☆</span> Бег<span class="stress">у</span> уже полчаса. <span class="esp">Ya hace media hora que estoy corriendo.</span> <span class="star">☦</span> Вам некуда бежать. <span class="esp">No tienen más a dónde ir.</span> <span class="star">☆</span> Он бежит справа налево. <span class="esp">Está corriendo/Corre de derecha a izquierda.</span> <span class="star">☦</span> Вчера он бежал от полиции. <span class="esp">Ayer se escapó/huyó de la policía.</span><br>
+      <span class="sickle">☭</span> сбег<span class="stress">а</span>ть <span class="esp">escapar, huir; bajar corriendo</span><br>
+      NOTE: When meaning "correr a hacer algo y regresar", the stress shifts onto е --> сб<span class="stress">е</span>гать.<br>
+      <span class="star">☆</span> Тебе не сбежать. <span class="esp">No puedes escapar.</span> <span class="star">☦</span> Сб<span class="stress">е</span>гай закрой дверь. <span class="esp">Corra y cierre la puerta.</span> <span class="star">☆</span> Я могу сб<span class="stress">е</span>гать за хлебом. <span class="esp">Puedo ir rápido por (un) pan.</span> <span class="star">☦</span> Сб<span class="stress">е</span>гать в аптеку. <span class="esp">Ir corriendo a la farmacia.</span> <span class="star">☆</span> Он сбежал вниз по лестнице. <span class="esp">Bajó corriendo por las escalas.</span><br>
+      <span class="sickle">☭</span> убег<span class="stress">а</span>ть <span class="esp">correr, huir, volársele a alguien; regarse (la leche, la sopa al calentarse)</span><br>
+      This and сбегать are interchangeable in the sense of "running away from sb or sth", but сбегать adds a secretive/cowardly connotation of running away, while убегать seems more neutral.<br>
+      <span class="star">☆</span> Ты от меня не убежишь. <span class="esp">No te me vas a escapar.</span> <span class="star">☦</span> Убежать от злой собаки. <span class="esp">Correr de un perro bravo.</span> <span class="star">☆</span> Убежать от проблем. <span class="star">☦</span> Убежать от грабителя. <span class="esp">Volársele a un ladrón.</span> <span class="star">☆</span> Молоко убежало. <span class="esp">Se regó la leche.</span> <span class="star">☦</span> Смотри, суп убегает! <span class="esp">Vea, se está regando la sopa!</span>`,
+      inflection: `<span class="aspect">несов:</span> б<span class="stress">е</span>гать
+      <span class="aspect">несов:</span> беж<span class="stress">а</span>ть <span class="aspect">сов:</span> беж<span class="stress">а</span>ть
+      <span class="aspect">несов:</span> сбег<span class="stress">а</span>ть <span class="aspect">сов:</span> сбеж<span class="stress">а</span>ть
+      <span class="aspect">несов:</span> убег<span class="stress">а</span>ть <span class="aspect">сов:</span> убеж<span class="stress">а</span>ть`,
       russianImages: [
       'h',
       'h'
       ],
       russianLinks: [
       { char: 'бегать', url: 'https://ru.wiktionary.org/wiki/%D0%B1%D0%B5%D0%B3%D0%B0%D1%82%D1%8C' },
-      { char: ' ', url: 'h' },
+      { char: 'сбежать', url: 'https://ru.wiktionary.org/wiki/%D1%81%D0%B1%D0%B5%D0%B6%D0%B0%D1%82%D1%8C' },
+      { char: 'убежать', url: 'https://ru.wiktionary.org/wiki/%D1%83%D0%B1%D0%B5%D0%B6%D0%B0%D1%82%D1%8C' },
       ],
     },
     {
@@ -11458,6 +11443,755 @@
       { char: ' ', url: 'h' },
       { char: ' ', url: 'h' },
       ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">come to light / surface</span> ☜ <span class="esp">salir a la luz</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">The tape came to light, revealing that he had offered bribes in exchange for public contracts.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="esp">de la talla de, al mismo nivel de</span><br>
+      <span class="title">on par with</span><br>
+      <span class="title">of the caliber of</span><br>
+      <span class="title">in the same league as</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">There's no one on par with Messi.</span> <span class="skull">☠︎︎</span> <span class="example">He's a writer on par with Eduardo Galeano.</span> <span class="skull">☠︎︎</span> <span class="example">His new movie is okay, but it's not in the same league as his earlier masterpieces.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="esp">Tengo una bacteria en el estómago.</span><br>
+      - I have a bacterial infection in my stomach.<br>
+      - I have a stomach bug.`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">vacuum insulation</span> ☜ <span class="esp">aislamiento al vacío</span><br>
+      <span class="title">vacuum-packed</span> ☜ <span class="esp">empacado al vacío</span><br>
+      <span class="title">thermal insulation</span> ☜ <span class="esp">aislamiento térmico</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">overstate, blow out of proportion</span> <span class="esp">sobredimensionar</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">Don't overstate the problem. Don't blow it out of proportion.</span> <span class="skull">☠︎︎</span> <span class="example">He blew the criticism out of proportion.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `The is the first time I made a promo / graphic / promotional graphic for Otra República.`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `I was holding it, but a strong gust of wind <u>ripped it out of</u> / <u>blew it out of</u> / <u>snatched it from</u> my hands`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="esp">adelgazar</span><br>
+      <span class="title">get thin</span><br>
+      <span class="title">lose weight</span><br>
+      <span class="title">slim down</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">I've gained 15 pounds over the last few months. I really need to slim down.</span> <span class="skull">☠︎︎</span> <span class="example">Wow, Ginger looks like she lost some weight. She really slimmed down.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="esp">Tuve una noche perros.</span><br>
+      <span class="title">I had a hell of a night</span> <span class="or">or</span> <span class="title">I had a rough night</span> <span class="or">or</span> <span class="title">I had a night from hell</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="esp">me fue como perro en misa</span><br>
+      - <span class="title">It went terribly for me</span><br>
+      - <span class="title">I had a rough time of it</span><br>
+      - <span class="title">I (totally) bombed</span> (performance, test, doing sth badly) <span class="usage">(slang)</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">I bombed my piano recital today.</span> <span class="skull">☠︎︎</span> <span class="example">I bombed that calculus test yesterday.</span> <span class="skull">☠︎︎</span> <span class="example">I bombed it.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">be out of one's element</span> <span class="or">or</span> <span class="title">like a fish out of water</span> ☜ <span class="esp">sentirse incómodo</span><br>
+      = out of place, you don't belong, or not used to it.<br>
+      <span class="skull">☠︎︎</span> <span class="example">I felt like a fish out of water when I visited Japan. It is so different from Colombia.</span> <span class="skull">☠︎︎</span> <span class="example">As an introverted person, attending large parties is always being out of my element.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">impending</span> ☜ <span class="usage">(formal)</span> <span class="esp">inminente, latente</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">Dark clouds warned of an impending storm.</span> <span class="skull">☠︎︎</span> <span class="example">The town prepared for an impending disaster.</span> <span class="skull">☠︎︎</span> <span class="example">He didn't study for the exam, ignoring the impending consequences of failing.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<u>Just so you know</u>, the meeting starts at 9.`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">here's the kicker</span> ☜ <span class="esp">y aquí está el truco, el quid del asunto, y aquí viene lo bueno</span><br>
+      Other variants are "the kicker is...", "that's the kicker", "the real kicker is..."<br>
+      <span class="skull">☠︎︎</span> <span class="example">I just didn't understand why she was being so secretive. Well, here's the kicker — she had been using the account to steal money for years!</span> <span class="skull">☠︎︎</span> <span class="example">The tickets are free, but the kicker is that you have to wait in line for six hours.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">cut and dried/dry</span> ☜ <span class="esp">claro y simple</span><br>
+      = The main meaning is to be simple, straightforward and without complication. The "dry" variant is less common.<br>
+      <span class="skull">☠︎︎</span> <span class="example">I've heard a lot of people say, "If he's giving you mixed signals, he's just not that into you". But is it really that cut and dry?</span> <span class="skull">☠︎︎</span> <span class="example">That the US or Canada will win the women's hockey tournament is cut and dried.</span> <span class="skull">☠︎︎</span> <span class="example">The answer is cut and dried. (= clear and implicitly obvious)</span> <span class="skull">☠︎︎</span> <span class="example">The rules are cut and dry.</span> <span class="skull">☠︎︎</span> <span class="example">The championship is not that cut and dry. (=not decided yet)</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">straight/strait-laced</span> ☜ <span class="esp">puritano, conservador, persona muy correcta/cuadrada</span><br>
+      = someone who is excessively strict about morals or manners.<br>
+      <span class="skull">☠︎︎</span> <span class="example">Don't be so strait-laced — it's just a joke.</span> <span class="skull">☠︎︎</span> <span class="example">A strait-laced upbringing.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">be on a roll</span> ☜ <span class="esp">estar en racha, estar imparable</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">I've finished all my studies and passed almost everything. I'm on a roll.</span> <span class="skull">☠︎︎</span> [I'm writing the test and so far I'm finding it very easy, so I might think to myself:] <span class="example">I'm on a roll.</span> <span class="skull">☠︎︎</span> <span class="example">The team is on a roll — they've won five in a row.</span> <span class="skull">☠︎︎</span> <span class="example">She's been on a roll lately with her business.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">slushie</span> ☜ <span class="esp">raspado</span><br>`,
+      englishImages: [
+      'https://www.seededatthetable.com/wp-content/uploads/2020/05/How-to-Make-a-Slushie-UPDATE-5.jpg',
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">book launch</span> ☜ <span class="esp">presentación de un libro</span><br>
+      = A celebratory event marking a new book entering the market.`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="esp">condicionar (una respuesta)</span><br>
+      - <span class="title">condition</span><br>
+      - <span class="title">influence</span><br>
+      - <span class="title">bias</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">The wording of the question conditioned/influenced/biased the response.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `I was assaulted (=<span class="esp">fui agredida</span>) by a "friend", I went to the police and <u>warned</u> other friends <u>about</u> him.`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">assault</span> ☜ <span class="esp">agresión, ataque</span> (when talking about rape, harassment, attack, etc.)<br>
+      <span class="skull">☠︎︎</span> <span class="example">I was unconscious at the time of the assault.</span> <span class="skull">☠︎︎</span> <span class="example">Survivor of many assaults here.</span> <span class="skull">☠︎︎</span> <span class="example">I was assaulted by a police officer.</span> <span class="skull">☠︎︎</span> <span class="example">It can be a really traumatizing thing to be assaulted.</span> <span class="skull">☠︎︎</span> <span class="example">Everyone was shocked when the teacher was <u>charged with</u> assault.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">lead someone on</span> ☜ <span class="esp">darle a alguien falsas esperanzas (dating)</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">I've felt led on a lot in my life.</span> <span class="esp">Me he sentido engañado muchas veces en mi vida.</span> <span class="skull">☠︎︎</span> <span class="example">She told me I shouldn't have led her on.</span> <span class="skull">☠︎︎</span> <span class="example">My friend was led on and found out the guy was flirting with other girls, too.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="esp">ensangrentado</span><br>
+      - <span class="title">bloody / bloodstained</span><br>
+      - <span class="title">covered in blood</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">The found a bloodstained/bloody knife.</span> <span class="skull">☠︎︎</span> <span class="example">His hands were covered in blood.</span> <span class="skull">☠︎︎</span> <span class="example">The shirt was bloodstained.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<<span class="title">leave on good terms</span> ☜ <span class="esp">terminar bien (una relación o un trabajo)</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">It bothers me that we didn't leave each other on good terms / didn't leave (things) on good terms.</span> <span class="skull">☠︎︎</span> <span class="example">She made sure to leave on good terms with her colleagues, expressing her gratitude, and offering to stay in touch.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">foresight</span> ☜ <span class="esp">previsión, visión de futuro, clarividencia</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">She had the foresight to invest early.</span> <span class="skull">☠︎︎</span> <span class="example">It takes foresight to plan for retirement.</span> <span class="skull">☠︎︎</span> <span class="example">With a little foresight, we could've avoided this.</span> <span class="skull">☠︎︎</span> <span class="example">Our transport system, for whatever reasons—lack of foresight or lack of resources—has been allowed to decline too long.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">press charges</span> ☜ <span class="esp">presentar cargos</span><br>`,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `Most of the reason has already been said, <u>but I'll add to</u> (=<span class="esp">pero agregaré/añadiré</span>) why they do it when <u>said</u> person is now famous/rich/etc.`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">build up</span> ☜ <span class="esp">agarrar, coger, reunir (coraje, confianza, etc.); construir (fortuna)</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">It took her a while to build up confidence to start public speaking.</span> <span class="skull">☠︎︎</span> <span class="example">It's just when the victim builds up enough courage to do so.</span> <span class="esp">Es solo cuando la víctima reúne la valentía suficiente para hacerlo.</span> <span class="skull">☠︎︎</span> <span class="example">He built up his fortuna <u>from the ground up</u>.</span>`,
       russian: ``,
       inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
       russianImages: [
