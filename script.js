@@ -8472,7 +8472,7 @@
       ],
       english: `<span class="title">to chance</span> ☜ <span class="usage">(informal, common)</span> <span class="esp">arriesgar</span><br>
       The phrase "chance it = arriesgarse" is particularly common.<br>
-      <span class="skull">☠︎︎</span> <span class="example">The forecast <u>called for</u>, but we decided to chance it and drive up to the cabin anyway.</span>`,
+      <span class="skull">☠︎︎</span> <span class="example">The forecast <u>called for</u> snow, but we decided to chance it and drive up to the cabin anyway.</span>`,
       russian: ``,
       inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
       russianImages: [
@@ -8496,7 +8496,7 @@
       { char: ' ', url: 'h' },
       { char: ' ', url: 'h' },
       ],
-      english: `<span class="title">perilous</span>/ˈpɛrələs/ ☜ <span class="esp">peligroso, arriesgado</span><br>
+      english: `<span class="title">perilous</span> /ˈpɛrələs/ ☜ <span class="esp">peligroso, arriesgado</span><br>
       <span class="skull">☠︎︎</span> <span class="example">The sailor embarked on a perilous journey/voyage /ˈvɔɪɪdʒ/ across the Atlantic in a small boat.</span>`,
       russian: ``,
       inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
@@ -12192,6 +12192,386 @@
       ],
       english: `<span class="title">build up</span> ☜ <span class="esp">agarrar, coger, reunir (coraje, confianza, etc.); construir (fortuna)</span><br>
       <span class="skull">☠︎︎</span> <span class="example">It took her a while to build up confidence to start public speaking.</span> <span class="skull">☠︎︎</span> <span class="example">It's just when the victim builds up enough courage to do so.</span> <span class="esp">Es solo cuando la víctima reúne la valentía suficiente para hacerlo.</span> <span class="skull">☠︎︎</span> <span class="example">He built up his fortuna <u>from the ground up</u>.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">from the ground up</span> ☜ <span class="esp">desde abajo</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">He worked his way from the ground up.</span> (=started at the bottom and worked his way up) <span class="skull">☠︎︎</span> <span class="example">The kitchen has just been remodeled from the ground up.</span> <span class="skull">☠︎︎</span> <span class="example">She learned the business from the ground up, so she understand every single department.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">entry-level job</span> ☜ <span class="esp">puesto básico</span><br>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `They drag their feet on that, <u>and yet, how easily</u> they act when it suits them.`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `A guy I'm dating told me he was reported for rape 10 months of <u>knowing each other</u> (=<span class="esp">10 meses de conocernos</span>).`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `It puts them in a <u>position of power over others</u>. And later, they become <u>leagues more powerful</u> through fame and money.`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">come easy to someone</span> ☜ <span class="esp">resultarle fácil a alguien</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">Math comes easy to her.</span> <span class="skull">☠︎︎</span> <span class="example">Speaking in public doesn't come easy to me.</span> <span class="skull">☠︎︎</span> <span class="example">Sucess doesn't come asy.</span> <span class="skull">☠︎︎</span> <span class="example">It comes easy to him because he's been doing it for years.</span> <span class="skull">☠︎︎</span> <span class="example">It's hard to talk about it for those who talking doesn't come easy to.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">what's in your mind</span> ☜ <span class="esp">qué está pensando, qué tiene en mente</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">Who knows what's in her mind.</span> <span class="esp">Quién sabe lo que se le pasará por la cabeza.</span> <span class="skull">☠︎︎</span> <span class="example">What's in your mind for the project?</span> <span class="esp">Qué tiene ud. en mente para el proyecto?</span> <span class="skull">☠︎︎</span> <span class="example">I can't tell what's in his mind.</span> <span class="esp">No sé qué está pasando.</span> <span class="skull">☠︎︎</span> <span class="example">Not trying to bring a racial /ˈreɪʃəl/ controversy or anything, but I'm trying to understand what's in your mind to even make doing braids such a big deal.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">braids</span> ☜ <span class="esp">rastas</span><br>`,
+      englishImages: [
+      'https://www.salonnayana.in/editorial/mens-braids-bangalore/01-cornrows-fade.webp',
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">hateful</span> ☜ <span class="esp">odioso, detestable</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">Washing the dishes is a hateful task.</span> <span class="skull">☠︎︎</span> <span class="example">Lots of people enjoy complaining, being hateful and feeling victimized.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">hearing</span> ☜ <span class="esp">audiencia</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">A t-shirt is not appropriate attire for a court hearing.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">attire</span> ☜ <span class="esp">traje, vestido, vestimenta</span><br>
+      = Implies that what the person is wearing is especially formal or high-quality or beautiful in some way.<br>
+      <span class="skull">☠︎︎</span> <span class="example">You are required to wear formal attire to prom.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: `动不动就<br>
+      <span class="pinyin">dòngbudòngjiù</span><br>
+      <span class="esp">a toda hora, mantenerse (=siempre); por/con nada (=fácilmente)</spanu<br><br>
+      It carries a negative emotion.<br>
+      <span class="circle-word">囍</span> 小孩子动不动就生病 <span class="pinyin">xiǎo háizi dòngbudòng jiù shēngbìng</span> <span class="esp">Los niños/bebés se enferman con nada.</span> <span class="circle-word">囍</span> 你不要动不动生气 <span class="pinyin">nǐ bù yào dòngbudòng shēngqì</span> <span class="esp">No se vaya a enojar por nada!</span> <span class="circle-word">囍</span> 你动不动就哭 <span class="pinyin">nǐ dòngbudòng jiù kū</span> <span class="esp">Usted llora por nada.</span>`,
+      handwritten: `动不动`,
+      traditional: `動不動`,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: `有事没事就<br>
+      <span class="pinyin">yǒushìméishìjiù</span><br>
+      <span class="esp">a toda hora, siempre</span><br><br>
+      <span class="circle-word">囍</span> 别有事没事就刷手机, 对眼睛不好 <span class="pinyin">bié yǒushìméishìjiù shuā shǒujī, duì yǎnjing bùhǎo</span> <span class="esp">No esté todo el día en el celular, es malo para los ojos.</span> <span class="unpack">⟨WHERE</span> 刷 scroll; 对 for/toward; 眼睛 eye<span class="unpack">⟩</span>`,
+      handwritten: `有事没事`,
+      traditional: `有事沒事`,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: `真是受不了 | 烦死了<br>
+      <span class="pinyin">zhēnshìshouliǎo | fánsǐle<span><br>
+      <span class="esp">qué pereza/jartera/mamera!</span><br><br>
+      <span class="circle-word">囍</span> 你动不动就生气, 真是受不了<span class="pinyin">nǐ dòngbudòng jiù shēngqì, zhēnshìshòubuliǎo</span> <span class="esp">Usted se enoja por nada, qué pereza!</span> <span class="circle-word">囍</span> 那首歌烦死了 <span class="pinyin">nàshǒu gē fánsǐle</span> <span class="esp">Qué pereza esa canción!</span> <span class="circle-word">囍</span> 排队排了一小时, 烦死了 <span class="pinyin">páiduì pái le yī xiǎoshí</span> <span class="esp">Una hora haciendo fila, qué mamera!</span>`,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
       russian: ``,
       inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
       russianImages: [
