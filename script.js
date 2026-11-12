@@ -13199,14 +13199,9 @@
       ],
       english: `<span class="title">burlap</span> ☜ <span class="esp">arpillera, yute</span><br>
       = the coarse fabric<br>
-      <span class="skull">☠︎︎</span> <span class="example"></span>`,
+      <span class="skull">☠︎︎</span> <span class="example">A burlap sack.</span>`,
       englishImages: [
-      'h',
-      'h'
-      ],
-      englishLinks: [
-      { char: ' ', url: 'h' },
-      { char: ' ', url: 'h' },
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpQPDZ8bOy06T-7EENHxDWqbMZPRf_dtxQAbp8LzKztQTABJGelibsD940&s=10',
       ],
       russian: ``,
       inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
@@ -13502,6 +13497,190 @@
       - monitor closely<br>
       - keep under surveillance /sɚˈveɪləns/<br>
       - keep close tabs on`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">hair tie</span> ☜ <span class="esp">moño, liga</span><br>`,
+      englishImages: [
+      'https://paisleyandsparrow.com/wp-content/uploads/2023/10/ponytail-holders-for-thing-hair-6-683x1024.jpg',
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">coarse</span> /kɔrs/ ☜ <span class="esp">áspero (texture); rudo, grosero (vulgar speech or manner)</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">The kitten licked my hand with its coarse tongue.</span> <span class="skull">☠︎︎</span> <span class="example">A tree has coarse bark to protect the trunk.</span> <span class="skull">☠︎︎</span> <span class="example">Coarse jokes/language.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">hoarse</span> /hɔrs/ ☜ <span class="esp">(voz) ronca</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">Amy's voice was hoarse after singing all night.</span> <span class="skull">☠︎︎</span> <span class="example">I have a sore throat and my voice is hoarse.</span> <span class="skull">☠︎︎</span> <span class="example">I'm hoarse from so much laughing and singing last night.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">bandana</span> ☜ <span class="esp">pañoleta</span><br>`,
+      englishImages: [
+      'https://m.media-amazon.com/images/I/71Hz6yqFShL._AC_UY1100_.jpg',
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">shawl</span> /ʃɔl/ ☜ <span class="esp">chal</span><br>`,
+      englishImages: [
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjI6wMhUyfqdB2nn0eboq504xP8QdY5mmYQaymXGI8WyKLbQczl2kc58J_&s=10',
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">headscarf</span> ☜ <span class="esp">pañuelo, pañoleta</span><br>`,
+      englishImages: [
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS86LCmxzsH92xwXc7X872WjnU9yhe1CND_AJfGyub0nVLD5-U3R3umU9c&s=10',
+      'https://elizabetta.net/cdn/shop/files/womens-luxury-silk-head-scarf-iris_2048x.jpg?v=1744855991'
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">pointers</span> ☜ <span class="esp">indicaciones, orientación, guía</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">I know all 3 mean "to understand" in one form or another, but what makes them different? I'd love some pointers as to which context is more suitable for one versus the other.</span> <span class="skull">☠︎︎</span> <span class="example">The food expert gave some good pointers on making better salads.</span> <span class="skull">☠︎︎</span> <span class="example">Before you start your job search, here are some pointers on writing an effective résumé /ˈrɛzumeɪ.</span>`,
       russian: ``,
       inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
       russianImages: [
