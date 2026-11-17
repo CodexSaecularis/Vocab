@@ -13680,7 +13680,526 @@
       { char: ' ', url: 'h' },
       ],
       english: `<span class="title">pointers</span> ☜ <span class="esp">indicaciones, orientación, guía</span><br>
-      <span class="skull">☠︎︎</span> <span class="example">I know all 3 mean "to understand" in one form or another, but what makes them different? I'd love some pointers as to which context is more suitable for one versus the other.</span> <span class="skull">☠︎︎</span> <span class="example">The food expert gave some good pointers on making better salads.</span> <span class="skull">☠︎︎</span> <span class="example">Before you start your job search, here are some pointers on writing an effective résumé /ˈrɛzumeɪ.</span>`,
+      <span class="skull">☠︎︎</span> <span class="example">I know all 3 mean "to understand" in one form or another, but what makes them different? I'd love some pointers as to which context is more suitable for one versus the other.</span> <span class="skull">☠︎︎</span> <span class="example">The food expert gave some good pointers on making better salads.</span> <span class="skull">☠︎︎</span> <span class="example">Before you start your job search, here are some pointers on writing an effective résumé /ˈrɛzumeɪ/.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">half measures</span> ☜ <span class="esp">medias tintas, tibiezas, medidas parciales, con timidez</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">The police must make every effort to catch the murderer. No half measures!</span> <span class="skull">☠︎︎</span> <span class="example">He promised to help me, but it was only half measured.</span> <span class="skull">☠︎︎</span> <span class="example">He will not earn that promotion with half measures. He needs to work hard every day.</span> <span class="skull">☠︎︎</span> <span class="example">Half measures will not fix the health care system.</span> <span class="skull">☠︎︎</span> <span class="example">When I catch a cold, it doesn't do half measures.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">and sure enough</span> ☜ <span class="esp">y efectivamente</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">I thought it would rain today, and sure enough, it did!</span> <span class="skull">☠︎︎</span> <span class="example">You said she would cry at that movie, and sure enough... she needed two packs of tissues.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">hedge</span> ☜ <span class="esp">seto</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">—Can you help me clean my garage tomorrow? —Sure enough! Only if you help me clip those hedges next day.</span>`,
+      englishImages: [
+      'https://www.gardenersdream.co.uk/cdn/shop/articles/yellow-house-green-hedge-number-16_197ec836-a87e-4004-8656-7c13b5c89c66.jpg?v=1739537525',
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">full on</span> ☜ <span class="esp">mero, intenso, total (adj.); a tope (adv.)</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">I have a full-on headache right now.</span> <span class="skull">☠︎︎</span> <span class="example">The light drizzle turned into full-on rain.</span> <span class="skull">☠︎︎</span> <span class="example">My throat was a little sore, and I just knew what was coming. Sure enough, by the next day it hit me full on.</span> <span class="skull">☠︎︎</span> <span class="example">Think of this as a full-on global reset.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">over-the-counter</span> ☜ <span class="esp">medicamentos de venta libre</span><br>
+      = Medicine that you do not need prescription for and you can buy at the store.<br>
+      <span class="skull">☠︎︎</span> <span class="example">I took syrup regularly, threw in some over-the-counter tablets.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">get up to</span> ☜ <span class="esp">hacer; meterse en</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">What did you get up to at the weekend? Anything special?</span> <span class="skull">☠︎︎</span> <span class="example">I wonder what those kids are getting up to in the backyard.</span> <span class="skull">☠︎︎</span> <span class="example">She always gets up to some kind of trouble at school.</span> <span class="skull">☠︎︎</span> <span class="example">What did you guys get up to while I was gone?</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">coming and going</span> ☜ <span class="esp">ir y venir, a ratos, intermitentes</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">I have a fever and I've been having chills and sweats coming and going</span> <span class="skull">☠︎︎</span> <span class="example">We always have people coming and going through the house.</span> <span class="skull">☠︎︎</span> <span class="example">You're driving me mad with all this coming and going.</span> <span class="skull">☠︎︎</span> <span class="example">His job involves the coming and going of shipments every day.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">feverish</span> ☜ <span class="esp">como con fiebre, febril</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">I share the same practice in taking a hot shower or bath when I'm feverish.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="esp">aterrador, espantoso, horroroso</span><br>
+      - <span class="title">terrifying</span> <span class="usage">(most intense)</span><br>
+      - <span class="title">frightening</span><br>
+      - <span class="title">frightful</span> <span class="usage">(old)</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">The country is frighteningly close to possessing nuclear weapons.</span> <span class="skull">☠︎︎</span> <span class="example">The mask was so lifelike it was quite frightening.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">rabies</span> /ˈreɪbiz/ ☜ <span class="esp">rabia</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">Rabies vaccine.</span> <span class="skull">☠︎︎</span> <span class="example">A wild dog in the area is thought to have rabies.</span> <span class="skull">☠︎︎</span> <span class="example">They vaccinated her against rabies because a squirrel bit her.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">disenchanted</span> /ˌdɪsɛnˈtʃæntɪd/ ☜ <span class="esp">desilusionado, desencantado</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">He became more disenchanted with his job every day.</span> <span class="skull">☠︎︎</span> <span class="example">Talking to Joaquin can give the sense that he's grown disenchanted with the legislative process.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">take hold</span> <span class="usage">(formal)</span> ☜ <span class="esp">establecerse, afianzarse</span><br>
+      = start to have an effect
+      <span class="skull">☠︎︎</span> <span class="example">Once the virus takes hold, the patient will have to hospitalized.</span> <span class="skull">☠︎︎</span> <span class="example">I've reached the point in learning Turkish that it seems like it's really starting to take hold.</span> <span class="skull">☠︎︎</span> <span class="example">Socialism could take hold only when production was at a high level.</span> <span class="skull">☠︎︎</span> <span class="example"></span> <span class="skull">☠︎︎</span> <span class="example">The economic recovery is just beginning to take hold now.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">fairy godmother</span> ☜ <span class="esp">hada madrina</span><br>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="esp">encerrar</span><br>
+      - <span class="title">lock up, lock in</span> (under lock and key)<br>
+      - <span class="title">lock up</span> <span class="usage">(slang)</span> (in jail)<br>
+      - <span class="title">lock in</span> (in a room)<br>
+      - <span class="title">hold</span> (a meaning)<br>
+      - <span class="title">corner, trap, box in</span> (trapping)<br>
+      - <span class="title">lock away, confine</span> (incarcerate)<br>
+      <span class="skull">☠︎︎</span> <span class="example">The locked the dog in the house.</span> <span class="skull">☠︎︎</span> <span class="example">I locked myself in my room.</span> <span class="esp">Me encerré en el cuarto.</span> <span class="skull">☠︎︎</span> <span class="example">The trasure chest was locked (=cerrado).</span> <span class="skull">☠︎︎</span> <span class="example">That word holds a deep meaning.</span> <span class="skull">☠︎︎</span> <span class="example">They cornered him against the wall.</span> <span class="skull">☠︎︎</span> <span class="example">Someone parked right behind me and boxed me in.</span> <span class="skull">☠︎︎</span> <span class="example">They locked him away in prison.</span> <span class="skull">☠︎︎</span> <span class="example">They locked her away in a tower, there to await the kiss of a prince.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="esp">hacer una encerrona</span><br>
+      - <span class="title">set a trap for s.o.</span><br>
+      - <span class="title">gang up on s.o.</span><br>
+      - <span class="skull">☠︎︎</span> <span class="example">They deliberately ganged up on him — he was outnumbered two to one.</span> <span class="skull">☠︎︎</span> <span class="example">The whole team ganged up on him during the meeting to force a decision.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">startle</span> ☜ <span class="esp">sobresaltar, asustar</span><br>
+      = one step below fright/scare
+      <span class="skull">☠︎︎</span> <span class="example">You really startled us, bursting in like that.</span> <span class="esp">Realmente nos sobresaltamos cuando entraste así de repente.</span> <span class="skull">☠︎︎</span> <span class="example">The loud noise of the car engine startled the birds, and the whole flock flew up into the air.</span> <span class="skull">☠︎︎</span> <span class="example">I was startled by a knock at the door.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">steed</span> ☜ <span class="esp">corcel</span><br>`,
+      englishImages: [
+      'https://media.istockphoto.com/id/1469413445/photo/horse-outdoor-on-pasture.jpg?s=612x612&w=0&k=20&c=3_fyege8FoqIrbd9UZzIpyfnK8okZpchDCnT2Z20zqw=',
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">separate the wheat from the chaff</span> ☜ <span class="esp">separar la paja del trigo </span><br>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">straw</span> ☜ <span class="esp">paja</span><br>`,
+      englishImages: [
+      'https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Rice_straw.jpg/250px-Rice_straw.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail',
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">comparing apples and oranges</span> ☜<br>
+      = that's a whole different ballgame.`,
       russian: ``,
       inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
       russianImages: [
