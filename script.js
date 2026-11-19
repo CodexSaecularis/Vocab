@@ -2989,7 +2989,7 @@
       ],
       russian: `пребыв<span class="stress">а</span>ть (formal) <span class="esp">estar, encontrarse, residir</span><br>
       Находиться в каком-либо месте или состоянии.<br>
-      <span class="star">☆</span> Я пребываю в состоянии эйфории. <span class="esp">Estoy/Me encuentro en un estado de euforia.</span> <span class="star">☦</span> Сэенсэй пребывает в медитации. <span class="esp">El senséi se encuentra/halla meditando.</span> <span class="star">☆</span> Долгое время я пребывал в нев<span class="stress">е</span>дении. <span class="esp">Por mucho tiempo me hallaba/estaba sumido en la ignorancia.</span> <span class="star">☦</span> Да пребудет с твобой сила. <span class="esp">Qué la fuerza te acompañe.</span> <span class="star">☆</span> Пребываю в шоке. <span class="esp">Estoy en shock.</span> <span class="star">☦</span> Наш ум может пребывать в другом пространственном измер<span class="stress">е</span>нии. <span class="esp">La mente podría alojarse/hallarse/residir/morar/encontrarse en otra dimensión espacial.</span> <span class="star">☆</span> Вы должны пребывать по адресу проп<span class="stress">и</span>ски. <span class="esp">Ud. debe residir en la dirección registrada.</span> <span class="star">☦</span> Я пребываю в Москве. <span class="esp">Resido en Moscú.</span>`,
+      <span class="star">☆</span> Я пребываю в состоянии эйфории. <span class="esp">Estoy/Me encuentro en un estado de euforia.</span> <span class="star">☦</span> Сэнсэй пребывает в медитации. <span class="esp">El senséi se encuentra/halla meditando.</span> <span class="star">☆</span> Долгое время я пребывал в нев<span class="stress">е</span>дении. <span class="esp">Por mucho tiempo me hallaba/estaba sumido en la ignorancia.</span> <span class="star">☦</span> Да пребудет с тобой сила. <span class="esp">Qué la fuerza te acompañe.</span> <span class="star">☆</span> Пребываю в шоке. <span class="esp">Estoy en shock.</span> <span class="star">☦</span> Наш ум может пребывать в другом пространственном измер<span class="stress">е</span>нии. <span class="esp">La mente podría alojarse/hallarse/residir/morar/encontrarse en otra dimensión espacial.</span> <span class="star">☆</span> Вы должны пребывать по адресу проп<span class="stress">и</span>ски. <span class="esp">Ud. debe residir en la dirección registrada.</span> <span class="star">☦</span> Я пребываю в Москве. <span class="esp">Resido en Moscú.</span>`,
       inflection: `<span class="aspect">несов:</span> пребыв<span class="stress">а</span>ть <span class="aspect">сов:</span> преб<span class="stress">ы</span>ть`,
       russianLinks: [
       { char: 'пребывать', url: 'https://ru.wiktionary.org/wiki/%D0%BF%D1%80%D0%B5%D0%B1%D1%8B%D0%B2%D0%B0%D1%82%D1%8C' },
@@ -14210,6 +14210,187 @@
       { char: ' ', url: 'h' },
       { char: ' ', url: 'h' },
       ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">rascal</span> ☜ <span class="esp">diablillo; bandido, canalla</span><br>
+      = Used humorously/affectionately to describe a child or pet. However, can also be used to describe someone who is dishonest or deceitful in the context of business or politics.<br>
+      <span class="skull">☠︎︎</span> <span class="example">That little rascal just stole my cookie!</span> <span class="skull">☠︎︎</span> <span class="example">That politician is a slippery rascal who can't be trusted.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">die out</span> ☜ <span class="esp">extinguirse; desaparecer</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">Our traditions and our language will die out as our people become absorbed by the mainstram media.</span> <span class="skull">☠︎︎</span> <span class="example">Because of the failing environment, the animals that live there will die out soon (=go extinct).</span> <span class="skull">☠︎︎</span> <span class="example">Indigenous languages are dying out.</span> <span class="skull">☠︎︎</span> <span class="example">Our passion died out.</span> <span class="skull">☠︎︎</span> <span class="example">Dinosaurs died out a long time ago.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">take a turn for the worse</span> ☜ <span class="esp">ponerse peor</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">His condition remained stable for three days, then suddenly he took a turn for the worse.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="esp">hacer sonar la alarma</span><br>
+      - <span class="title">set off the alarm</span> <span class="usage">(most common)</span><br>
+      - <span class="title">trip the alarm</span> <span class="usage">(by accident or triggering a motion detector)</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">The smoke set off the alarm.</span> <span class="skull">☠︎︎</span> <span class="example">When I opened the side door without typing in the code, I tripped the alarm and the whole neighborhood heard the siren.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `I need to know if we're going to <u>hit/reach/meet</u> the goal. <span class="or">or</span> I need to know if <u>we're on track</u> to hit..."`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `verbs for "bell":<br>
+      - <span class="title">ring the bell</span> <span class="usage">(most common)</span><br>
+      - <span class="title">press the buzzer</span> (if there's a buzzer)<br>
+      - <span class="title">sound the bell</span> <span class="usage">(formal)</span><br>
+      - <span class="title">strike the bell</span> (with an object)<br>
+      <span class="skull">☠︎︎</span> <span class="example">She pressed the button and rang the bell.</span> <span class="skull">☠︎︎</span> <span class="example">The church bells tolled at noon.</span> <span class="skull">☠︎︎</span> <span class="example">Just ring the bell when you arrive.</span> <span class="skull">☠︎︎</span> <span class="example">He struck the bell with a mallet (=<span class="esp">mazo</span>).</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `сдать <span class="esp">entregar; pasar (una prueba, examen, curso)</span><br>
+      <span class="star">☆</span> Сдать тетради, когда учитель их собирает. <span class="star">☦</span> И затем сдать ещё экзамен. <span class="esp">Y luego pasar otro examen.</span> <span class="star">☆</span> Им пришлось сдать оружие перед началом мирных переговоров. <span class="esp">Tuvieron que entregar sus armas antes de entrar en las negociaciones de paz.</span> <span class="star">☆</span> Сдать город без боя. <span class="esp">Entregar/Rendir la ciudad sin (dar) combate.</span> <span class="star">☦</span> Это заставило её сдать не прав<span class="stress">а</span>. <span class="esp">Eso la llevó a hacer el examen de conducción.</span> <span class="star">☆</span> Сдать нарушителя полиции. <span class="esp">Entregar el infractor a la policía.</span> <span class="star">☦</span> Для определения патологии нужно сдать ан<span class="stress">а</span>лизы. <span class="esp">Para determinar la patología, tiene que hacerse exámenes.</span>`,
+      inflection: `<span class="aspect">несов:</span> сдав<span class="stress">а</span>ть <span class="aspect">сов:</span> сдать`,
     },
   ];
 
