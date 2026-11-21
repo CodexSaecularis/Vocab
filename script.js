@@ -12589,38 +12589,6 @@
       { char: ' ', url: 'h' },
       { char: ' ', url: 'h' },
       ],
-      english: ``,
-      englishImages: [
-      'h',
-      'h'
-      ],
-      englishLinks: [
-      { char: ' ', url: 'h' },
-      { char: ' ', url: 'h' },
-      ],
-      russian: ``,
-      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
-      russianImages: [
-      'h',
-      'h'
-      ],
-      russianLinks: [
-      { char: ' ', url: 'h' },
-      { char: ' ', url: 'h' },
-      ],
-    },
-    {
-      chinese: ``,
-      handwritten: ``,
-      traditional: ``,
-      strokeOrderImages: [
-      'h',
-      'h'
-      ],
-      links: [
-      { char: ' ', url: 'h' },
-      { char: ' ', url: 'h' },
-      ],
       english: `<span class="title">co-opt</span> ☜ <span class="esp">apropiarse de; cooptar</span><br>
       = steal something intangible, and pass it off as your own.<br>
       <span class="skull">☠︎︎</span> <span class="example">Can't some people just have something that is theirs that isn't co-opted?</span>`,
@@ -14391,6 +14359,161 @@
       russian: `сдать <span class="esp">entregar; pasar (una prueba, examen, curso)</span><br>
       <span class="star">☆</span> Сдать тетради, когда учитель их собирает. <span class="star">☦</span> И затем сдать ещё экзамен. <span class="esp">Y luego pasar otro examen.</span> <span class="star">☆</span> Им пришлось сдать оружие перед началом мирных переговоров. <span class="esp">Tuvieron que entregar sus armas antes de entrar en las negociaciones de paz.</span> <span class="star">☆</span> Сдать город без боя. <span class="esp">Entregar/Rendir la ciudad sin (dar) combate.</span> <span class="star">☦</span> Это заставило её сдать не прав<span class="stress">а</span>. <span class="esp">Eso la llevó a hacer el examen de conducción.</span> <span class="star">☆</span> Сдать нарушителя полиции. <span class="esp">Entregar el infractor a la policía.</span> <span class="star">☦</span> Для определения патологии нужно сдать ан<span class="stress">а</span>лизы. <span class="esp">Para determinar la patología, tiene que hacerse exámenes.</span>`,
       inflection: `<span class="aspect">несов:</span> сдав<span class="stress">а</span>ть <span class="aspect">сов:</span> сдать`,
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `н<span class="stress">а</span>хер (груб.) <span class="esp">para qué mierda/hijueputas...?</span> (why?)<span class="esp">; como un hijueputa (affirmative sentence), ni qué hijueputas (negative sentence)</span> (completely)<span class="esp">; a la mierda</span> (far away)<br>
+      The rude way to say нафиг. A stronger one is нахуй.<br>
+      <span class="star">☆</span> Нахер надо? <span class="esp">Y eso para qué mierdas (es necesario/hay que hacerlo)?</span> <span class="star">☦</span> Нахер оно вообще всё надо? <span class="esp">Para qué mierda todo eso?</span> <span class="star">☆</span> Пошёл нахер. <span class="esp">Váyase a la mierda.</span> <span class="star">☦</span> Нахер мне (это делать)? <span class="esp">Yo eso para qué hijueputas (voy/necesito hacerlo)?</span> <span class="star">☆</span> Мне это нахер не нужно. <span class="esp">No necesito eso ni qué hijueputas.</span> <span class="star">☦</span> Иди нахер. <span class="esp">Váyase a la mierda.</span> <span class="star">☆</span> Нахер тебе русский? <span class="esp">Usted para qué hijueputas estudia ruso / necesita el ruso?</span><br><br>
+      <span class="sickle">☭</span> хуй > хер > хрен > фиг`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `Такой себе опыт. <span class="esp">Una experiencia ahí, regular / nada del otro mundo.</span>`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `пощ<span class="stress-y">у</span>пать <span class="esp">palpar, sentir, tocar (para examinar)</span><br>
+      <span class="star">☆</span> Врач пощупал его живот. <span class="star">☦</span> Какое красивое платье, а можно пощупать? ...О да, на <span class="stress">о</span>щупь тоже приятное. <span class="esp">Qué vestido más bonito. Puedo tocar? ...Uy sí, también es agradable al tacto.</span> <span class="star">☆</span> Перед процедурой она остановилась, чтобы пощупать пульс у пациента. <span class="esp">Antes del procedimiento, ella se detuvo para tomarle el pulso al paciente.</span> <span class="star">☦</span> Пощупай лоб, кажется, у него температура. <span class="esp">Tóquele la frente, parece que tiene fiebre.</span> <span class="star">☆</span> Я люблю пощупать перед покупкой. <span class="esp">Me gusta tocar antes de comprar.</span>`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+    },
+    {
+      chinese: `我知道了<br>
+      wǒ zhīdào le<br>
+      <span class="esp">Ahh, ya sé/entendí.</span>`,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: `Ways to say "understand"<br><br>
+      明白 míngbai<br>
+      As a response to instructions, explanations, or a reminder. It's very common and implies knowing in detail.<br>
+      <span class="circle-word">囍</span> —明天记得带身份证 —明白 <span class="pinyin">—míngtiān jìde dài shēnfènzhèng —míngbai </span> <span class="esp">—Acuérdese mañana de traer su ID. —Sí / Listo.</span> <span class="circle-word">囍</span> 哦, 明白了, 原来是这样 <span class="pinyin">ò, míngbai le, yuánlái shì zhèyàng</span> <span class="esp">A, ya entendí, entonces es así / entonces así es como va / como debe ir.</span> <span class="circle-word">囍</span> 听你这么一解释, 我就明白了 <span class="pinyin">tīng nǐ zhème yī jiěshì, wǒ jiù míngbai le</span> <span class="esp">Escuchando así como lo explica usted, ya entiendo.</span> <span class="circle-word">囍</span> 明白了(没有)? <span class="esp">Sí entendió?</span> <span class="circle-word">囍</span> 你明白我的意思吗? <span class="pinyin">nǐ míngbai de yìsī ma?</span> <span class="esp">Sí entiende lo que digo/quiero decir?</span> <span class="unpack">⟨WHERE</span> 意思 meaning<span class="unpack">⟩</span><br><br>
+      
+      `,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
     },
   ];
 
