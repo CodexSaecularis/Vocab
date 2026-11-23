@@ -6126,7 +6126,7 @@
       <span class="pinyin">shèngxià vs. shèng</span><br>
       <span class="esp">quedar; faltante</span><br><br>
       When used as a verb, 剩下 or just 剩 are used. When used as an adjective, the right way is 剩下的<br>
-      <span class="circle-word">福</span> 全部都吃完, 别剩下 / 別剩 <span class="pinyin">quánbù dōu chī wán, bié shèngxià</span> <span class="esp">Cómaselo todo, no deje sobrados.</span> <span class="unpack">⟨WHERE</span> 全部 entire/whole; 完 finish (doing sth)<span class="unpack">⟩</span> <span class="circle-word">寿</span> 班里就剩下我了 / 班里就剩我了 <span class="pinyin">bān lǐ jiù shèng(xià) wǒ le</span> <span class="esp">Sólo quedé yo en la clase.</span> <span class="circle-word">康</span> 剩下的我来做吧 <span class="pinyin">shèngxiàde wǒ lái zuò ba</span> <span class="esp">Yo hago el restante/lo que falta.</span> <span class="unpack">⟨WHERE</span> 来 adds a sense of stepping up, volunteering, or taking initiative — without it, it sounds like a dry general fact; 吧 adds a sensen of suggestion or offer.<span class="unpack">⟩</span>`,
+      <span class="circle-word">福</span> 全部都吃完, 别剩下 / 別剩 <span class="pinyin">quánbù dōu chī wán, bié shèngxià</span> <span class="esp">Cómaselo todo, no deje sobrados.</span> <span class="unpack">⟨WHERE</span> 全部 entire/whole; 完 finish (doing sth)<span class="unpack">⟩</span> <span class="circle-word">寿</span> 班里就剩下我了 / 班里就剩我了 <span class="pinyin">bān lǐ jiù shèng(xià) wǒ le</span> <span class="esp">Sólo quedé yo en la clase.</span> <span class="circle-word">康</span> 剩下的我来做吧 <span class="pinyin">shèngxiàde wǒ lái zuò ba</span> <span class="esp">Yo hago el restante/lo que falta.</span> <span class="unpack">⟨WHERE</span> 来 adds a sense of stepping up, volunteering, or taking initiative — without it, it sounds like a dry general fact; 吧 adds a sense of suggestion or offer.<span class="unpack">⟩</span>`,
       handwritten: `剩下 vs. 剩`,
       traditional: `剩下 vs. 剩`,
       strokeOrderImages: [
@@ -14442,7 +14442,7 @@
       ],
       russian: `пощ<span class="stress-y">у</span>пать <span class="esp">palpar, sentir, tocar (para examinar)</span><br>
       <span class="star">☆</span> Врач пощупал его живот. <span class="star">☦</span> Какое красивое платье, а можно пощупать? ...О да, на <span class="stress">о</span>щупь тоже приятное. <span class="esp">Qué vestido más bonito. Puedo tocar? ...Uy sí, también es agradable al tacto.</span> <span class="star">☆</span> Перед процедурой она остановилась, чтобы пощупать пульс у пациента. <span class="esp">Antes del procedimiento, ella se detuvo para tomarle el pulso al paciente.</span> <span class="star">☦</span> Пощупай лоб, кажется, у него температура. <span class="esp">Tóquele la frente, parece que tiene fiebre.</span> <span class="star">☆</span> Я люблю пощупать перед покупкой. <span class="esp">Me gusta tocar antes de comprar.</span>`,
-      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> пощупать`,
     },
     {
       chinese: `我知道了<br>
@@ -14480,11 +14480,15 @@
     },
     {
       chinese: `Ways to say "understand"<br><br>
-      明白 míngbai<br>
-      As a response to instructions, explanations, or a reminder. It's very common and implies knowing in detail.<br>
+      明白 <span class="pinyin">míngbai</span> (common)<br>
+      As a response to instructions, explanations, or a reminder. It implies knowing in detail or understanding the logic or meaning.<br>
       <span class="circle-word">囍</span> —明天记得带身份证 —明白 <span class="pinyin">—míngtiān jìde dài shēnfènzhèng —míngbai </span> <span class="esp">—Acuérdese mañana de traer su ID. —Sí / Listo.</span> <span class="circle-word">囍</span> 哦, 明白了, 原来是这样 <span class="pinyin">ò, míngbai le, yuánlái shì zhèyàng</span> <span class="esp">A, ya entendí, entonces es así / entonces así es como va / como debe ir.</span> <span class="circle-word">囍</span> 听你这么一解释, 我就明白了 <span class="pinyin">tīng nǐ zhème yī jiěshì, wǒ jiù míngbai le</span> <span class="esp">Escuchando así como lo explica usted, ya entiendo.</span> <span class="circle-word">囍</span> 明白了(没有)? <span class="esp">Sí entendió?</span> <span class="circle-word">囍</span> 你明白我的意思吗? <span class="pinyin">nǐ míngbai de yìsī ma?</span> <span class="esp">Sí entiende lo que digo/quiero decir?</span> <span class="unpack">⟨WHERE</span> 意思 meaning<span class="unpack">⟩</span><br><br>
-      
-      `,
+      了解 <span class="pinyin">liǎojiě</span> (very common)<br>
+      Be familiar with something or knowing it quite well. Knowing someone's character/personality. Investigating, look into, ask about, find out (=<span class="esp">conocer</span>).<br>
+      <span class="circle-word">囍</span> 了解情况 <span class="pinyin">liǎojiě qíngkuàng</span> <span class="esp">Entender la situación.</span> <span class="circle-word">囍</span> 了解真相 <span class="pinyin">liǎojiě zhēnxiàng</span> <span class="esp">Conocer la verdad.</span> <span class="circle-word">囍</span> 你了解一下他为什么迟到 <span class="pinyin">nǐ liǎojiě yīxià tā wèishénme chídào</span> <span class="esp">Mire/Pregunte por qué llegó tarde.</span> <span class="unpack">⟨WHERE</span> 一下 after a verb softens the tone "give it a go"<span class="unpack">⟩</span> <span class="circle-word">囍</span> 她是我最好的朋友, 我很了解他 <span class="esp">Él es mi mejor amigo, yo lo conozco bien.</span><br><br>
+      懂 <span class="pinyin">dǒng</span><br>
+      Expresses ability or inability to understand. Having knowledge or skill at a subject<br>
+      <span class="circle-word">囍</span> 我懂英语 / 音乐 / 计算机 <span class="pinyin">wǒ dǒng yīngyǔ / yīnyuè / jìsuànjī</span> <span class="esp">Sé inglés / de música / de computadores.</span> <span class="circle-word">囍</span> 我没懂 <span class="esp">No entiendo/entendí (lo que dijiste).</span> <span class="circle-word">囍</span> 我没看懂这部电影 <span class="pinyin">wǒ méi kàndǒng zhèbù diànyǐng</span> <span class="esp">No entendí/entiendo esa película.</span> <span class="unpack">⟨WHERE</span> 看懂 emphasizes visual understanding<span class="unpack">⟩</span> <span class="circle-word">囍</span> 我不懂 <span class="esp">No entiendo/conozco nada de eso.</span>`,
       handwritten: ``,
       traditional: ``,
       strokeOrderImages: [
@@ -14505,6 +14509,331 @@
       { char: ' ', url: 'h' },
       ],
       russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">water tower</span> ☜ <span class="esp">torre de agua</span><br>`,
+      englishImages: [
+      'https://upload.wikimedia.org/wikipedia/commons/4/4c/Water_Tower_Tuckerman_AR.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original',
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">raider</span> ☜ <span class="esp">saqueador</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">The raiders escaped with cash and jewelry.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">raid</span> ☜ <span class="esp">asaltar, saquear, hacer una redada (v.); redada, asalto, incursión (n.); acabar con la nevera (colloquial)</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">The criminal compound was raided by the police</span> <span class="esp">Las instalaciones crimiales fueron...</span> <span class="skull">☠︎︎</span> <span class="example">There was a raid at the party by the police last night.</span> <span class="skull">☠︎︎</span> <span class="example">I'm hungry, so I'll raid the refrigerator.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">acorn</span> /ˈeɪkɔrn/ ☜ <span class="esp">bellota</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">Squirrels often bury acorns to save them for later.</span>`,
+      englishImages: [
+      'https://images.stockcake.com/public/e/2/e/e2e4751d-f86c-4da1-8ef9-c1db09ffb3bb_large/autumn-acorn-cluster-stockcake.jpg',
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">put sth in jeopardy</span> ☜ <span class="esp">poner en peligro/riesgo</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">Put the town's safety in jeopardy.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">coleslaw</span> ☜ <span class="esp">ensalada de repollo</span><br>`,
+      englishImages: [
+      'https://cdn.loveandlemons.com/wp-content/uploads/2026/03/coleslaw.jpg',
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">beetroot</span> ☜ <span class="esp">remolacha</span><br>`,
+      englishImages: [
+      'https://dunstersfarm.com/wp-content/uploads/2026/01/Beetroot.png',
+      ],
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">half to death</span> ☜ <span class="esp">casi lo mata</span><br>
+      <span class="skull">☠︎︎</span> <span class="example">You scared me half to death when you sneaked up behind me.</span> <span class="skull">☠︎︎</span> <span class="example">He was beaten half to death during the fight.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: `<span class="title">chuckle</span> ☜ <span class="usage">(slightly old-fashioned)</span> <span class="esp">risita; reírse</span><br>
+      = A chuckle is quieter, lower, inwardly, and more closed (hmm-hmm). A giggle is typically higher-pitched, lighter, and sillier (hee-hee). Someone may say "a light laughter" instead of chuckle.<br>
+      <span class="skull">☠︎︎</span> <span class="example">I chuckled when I remembered the joke my friend told me.</span> <span class="skull">☠︎︎</span> <span class="example">He gave a quiet chuckle after reading the message.</span> <span class="skull">☠︎︎</span> <span class="example">I chuckled at the amazement on her face.</span>`,
+      russian: ``,
+      inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
+      russianImages: [
+      'h',
+      'h'
+      ],
+      russianLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `предост<span class="stress">а</span>вить <span class="esp">proporcionar, dar, brindar, ofrecer, facilitar</span><br>
+      = Official way to say "give/provide".<br>
+      <span class="star">☆</span> Гражданам следует предоставить возможность выражать свои мнения. <span class="esp">Los ciudadanos deben también tener la posibilidad (=permitir la oportunidad a ellos) de hacerse escuchar.</span> <span class="star">☦</span> Предоставить информацию. <span class="esp">Proporcionar/Facilitar/Suministrar información.</span> <span class="star">☆</span> Можете ли вы предоставить мне свои документы? <span class="esp">Me permite sus documentos?</span>`,
+      inflection: `<span class="aspect">несов:</span> предоставл<span class="stress">я</span>ть <span class="aspect">сов:</span> предост<span class="stress">а</span>вить`,
+      russianLinks: [
+      { char: 'предоставить', url: 'https://ru.wiktionary.org/wiki/%D0%BF%D1%80%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%B8%D1%82%D1%8C' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `предст<span class="stress">а</span>вить <span class="esp">imaginar; presentar</span><br>
+      <span class="star">☆</span> Представить доказ<span class="stress">а</span>тельства. <span class="esp">Presentar/Aportar pruebas.</span> <span class="star">☦</span> Все отдели должны были представить предложения по сокращ<span class="stress">е</span>нию расх<span class="stress">о</span>дов. <span class="esp">Todos los departamentos tuvieron que presentar propuestas para reducir costos.</span> <span class="star">☆</span> Я хотела бы представить вам свою сестру. <span class="esp">Quería presentarle a mi hermana.</span> <span class="star">☦</span> Представьте что-то приятное. <span class="esp">Imaginen algo lindo/bello.</span>`,
+      inflection: `<span class="aspect">несов:</span> представл<span class="stress">я</span>ть <span class="aspect">сов:</span> предст<span class="stress">а</span>вить`,
+      russianLinks: [
+      { char: 'представить', url: 'https://ru.wiktionary.org/wiki/%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%B8%D1%82%D1%8C' },
+      ],
+    },
+    {
+      chinese: ``,
+      handwritten: ``,
+      traditional: ``,
+      strokeOrderImages: [
+      'h',
+      'h'
+      ],
+      links: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      english: ``,
+      englishImages: [
+      'h',
+      'h'
+      ],
+      englishLinks: [
+      { char: ' ', url: 'h' },
+      { char: ' ', url: 'h' },
+      ],
+      russian: `представл<span class="stress">е</span>ние <span class="esp">presentación</span><br>
+      <span class="star">☆</span> Он чувствовал гордость во время представлнеия своего изобрет<span class="stress">е</span>ния на выставке. <span class="esp">Se sintió orgulloso durante la presentación de su invento en la exposición.</span> <span class="star">☦</span> Представление результатов. <span class="esp">Presentación de resultados.</span>`,
       inflection: `<span class="aspect">несов:</span> X <span class="aspect">сов:</span> X`,
       russianImages: [
       'h',
